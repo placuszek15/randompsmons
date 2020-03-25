@@ -13,13 +13,17 @@ mon5 = mon1
 mon6 = mon1
 team = mon1
 def savetoPokepastes():
-    
     options = webdriver.ChromeOptions()
     options.add_argument('headless')
     options.add_argument('--no-sandbox')
     options.add_argument('--log-level=3')
     options.add_experimental_option('excludeSwitches', ['enable-logging'])
-    driver = webdriver.Chrome(options = options)
+    try:
+        driver = webdriver.Chrome(options = options)
+    except:
+        print("Chromium driver not found, please place the executable in the same directory as this or in your path")
+        print("Aborting...")
+        sys.exit()
     driver.implicitly_wait(1)
     driver.get("https://pokepast.es")
     pasteplace = driver.find_element_by_name("paste")
