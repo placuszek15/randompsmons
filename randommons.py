@@ -2,6 +2,8 @@ from lists import friilist
 import random
 import sys
 import time
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
 #22 offset
 mon1 = None
 mon2 = mon1
@@ -9,9 +11,51 @@ mon3 = mon1
 mon4 = mon1
 mon5 = mon1
 mon6 = mon1
+team = mon1
+def savetoPokepastes():
+    
+    options = webdriver.ChromeOptions()
+    options.add_argument('headless')
+    options.add_argument('--no-sandbox')
+    options.add_argument('--log-level=3')
+    options.add_experimental_option('excludeSwitches', ['enable-logging'])
+    driver = webdriver.Chrome(options = options)
+    driver.implicitly_wait(1)
+    driver.get("https://pokepast.es")
+    pasteplace = driver.find_element_by_name("paste")
+    pasteplace.send_keys(Keys.TAB)
+    pasteplace.clear()
+    pasteplace.send_keys(team)
+    savebutton = driver.find_element_by_xpath("//input[ @type='Submit' and @value='Submit Paste!']")
+    savebutton.click()
+    print("your team is saved at " + driver.current_url)
+    driver.quit()
+
+def savefile():
+    while True:
+        filename = input("filename? ")
+        try:
+            if ".txt" in filename:
+                print("saving to " + filename)
+                time.sleep(2)
+                f = open(str(filename), "x")
+                f.write(team)
+                sys.exit()
+            else:
+                print("saving to " + filename + ".txt")
+                time.sleep(2)
+                f = open(str(filename)+".txt", "x")
+                f.write(team)
+                f.close()
+                sys.exit()
+        except FileExistsError:
+            print("file already exists,give another name")
+        finally:
+            sys.exit()
+
 
 def createTeam():
-    global mon1,mon2,mon3,mon4,mon5,mon6
+    global mon1,mon2,mon3,mon4,mon5,mon6,team
     n = 1
     while mon1 == None or mon2 == None or mon3 == None or mon4 == None or mon5 == None or mon6 == None:
         wg = "Wonder Guard"
@@ -65,37 +109,21 @@ def createTeam():
             mon4 = b
         else:
             pass
-                        
-    print(mon1 + "\n" + mon2 + "\n" + mon3 + "\n" + mon4 + "\n" + mon5 + "\n" + mon6 + "\n")
+    team =(mon1 + "\n" + mon2 + "\n" + mon3 + "\n" + mon4 + "\n" + mon5 + "\n" + mon6 + "\n")    
+    print(team)
 createTeam()
 save = input("save? (Y/N) ")
 if save == "n" or save == "N":
     sys.exit()
 elif save == "Y" or save == "y":
-    while True:
-        filename = input("filename? ")
-        try:
-            if ".txt" in filename:
-                print("saving to " + filename)
-                time.sleep(2)
-                f = open(str(filename), "x")
-                f.write(mon1 + "\n" + mon2 + "\n" + mon3 + "\n" + mon4 + "\n" + mon5 + "\n" + mon6 + "\n")
-                f.close()
-                sys.exit()
-            else:
-                print("saving to " + filename + ".txt")
-                time.sleep(2)
-                f = open(str(filename)+".txt", "x")
-                f.write(mon1 + "\n" + mon2 + "\n" + mon3 + "\n" + mon4 + "\n" + mon5 + "\n" + mon6 + "\n")
-                f.close()
-                sys.exit()
-        except FileExistsError:
-            print("file already exists,give another name")
-        finally:
-            sys.exit()
+   thisorthat = input("pokepaste or txt? ")
+   if thisorthat.lower() == "pokepaste" or thisorthat.lower() == "pokepastes" or thisorthat.lower() == "pokepast.es" or thisorthat.lower() == "p":
+    print("\nworking sorry for the wait")
+    savetoPokepastes()
+   elif thisorthat.lower() == "txt" or thisorthat.lower() == "t" or thisorthat.lower() == "text":
+    savefile()
 else:
     print("should've chosen Y or N")
     time.sleep(1)
     sys.exit()
-
 

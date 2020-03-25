@@ -4,7 +4,7 @@ base = None
 
 executables = [Executable("randommons.py", base=base)]
 
-packages = ["idna","lists","random","sys","time"]
+packages = ["idna","lists","random","sys","time","selenium","queue"]
 options = {
     'build_exe': {    
         'packages':packages,
