@@ -12,11 +12,14 @@ mon4 = mon1
 mon5 = mon1
 mon6 = mon1
 team = mon1
+pasteplace = mon1
 def newline():
+    global pasteplace
     pasteplace.send_keys(Keys.ENTER)
     pasteplace.send_keys("\n")
 
 def savetoPokepastes():
+    global pasteplace,flag
     options = webdriver.ChromeOptions()
     options.add_argument('headless')
     options.add_argument('--no-sandbox')
@@ -44,6 +47,8 @@ def savetoPokepastes():
     pasteplace.send_keys(mon5)
     newline()
     pasteplace.send_keys(mon6)
+    if flag == True:
+        pasteplace.send_keys("silent")
     savebutton = driver.find_element_by_xpath("//input[ @type='Submit' and @value='Submit Paste!']")
     savebutton.click()
     print("your team is saved at " + driver.current_url)
@@ -73,7 +78,7 @@ def savefile():
 
 
 def createTeam():
-    global mon1,mon2,mon3,mon4,mon5,mon6,team
+    global mon1,mon2,mon3,mon4,mon5,mon6,team,flag
     n = 1
     while mon1 == None or mon2 == None or mon3 == None or mon4 == None or mon5 == None or mon6 == None:
         wg = "Wonder Guard"
@@ -100,6 +105,7 @@ def createTeam():
     team =(mon1 + "\n" + mon2 + "\n" + mon3 + "\n" + mon4 + "\n" + mon5 + "\n" + mon6 + "\n")    
     if "-s" in sys.argv:
         pass
+        flag = True
     else:
         print(team)
 createTeam()
