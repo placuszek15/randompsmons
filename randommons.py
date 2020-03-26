@@ -81,50 +81,20 @@ def createTeam():
         a = random.choice(friilist)
         if wg in a and mon5 == None:
             mon5 = a
-            h = mon5.split('\n')
-            h = h[0:2] + ["EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe "]+ h[2:8]
-            b = '\n'
-            b = b.join(h)
-            mon5 = b
         elif mold in a and mon6 == None:
             mon6 = a
-            h = mon6.split('\n')
-            h = h[0:2] + ["EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe "]+ h[2:8]
-            b = '\n'
-            b = b.join(h)
-            mon6 = b 
         elif n == 1:
             mon1 = a
-            n = 2
-            h = mon1.split('\n')
-            h = h[0:2] + ["EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe "]+ h[2:8]
-            b = '\n'
-            b = b.join(h)
-            mon1 = b
+            n = 2 
         elif n == 2:
             mon2 = a
             n = 3
-            h = mon2.split('\n')
-            h = h[0:2] + ["EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe "]+ h[2:8]
-            b = '\n'
-            b = b.join(h)
-            mon2 =  b
         elif n == 3:
             mon3 = a
             n = 4
-            h = mon3.split('\n')
-            h = h[0:2] + ["EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe "]+ h[2:8]
-            b = '\n'
-            b = b.join(h)
-            mon3 = b
         elif n == 4:
             mon4 = a
             n = 5
-            h = mon4.split('\n')
-            h = h[0:2] + ["EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe "]+ h[2:8]
-            b = '\n'
-            b = b.join(h)
-            mon4 = b
         else:
             pass
     team =(mon1 + "\n" + mon2 + "\n" + mon3 + "\n" + mon4 + "\n" + mon5 + "\n" + mon6 + "\n")    
