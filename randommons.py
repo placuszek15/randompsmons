@@ -12,6 +12,10 @@ mon4 = mon1
 mon5 = mon1
 mon6 = mon1
 team = mon1
+def newline():
+    pasteplace.send_keys(Keys.ENTER)
+    pasteplace.send_keys("\n")
+
 def savetoPokepastes():
     options = webdriver.ChromeOptions()
     options.add_argument('headless')
@@ -29,7 +33,17 @@ def savetoPokepastes():
     pasteplace = driver.find_element_by_name("paste")
     pasteplace.send_keys(Keys.TAB)
     pasteplace.clear()
-    pasteplace.send_keys(team)
+    pasteplace.send_keys(mon1)
+    newline()
+    pasteplace.send_keys(mon2)
+    newline()
+    pasteplace.send_keys(mon3)
+    newline()
+    pasteplace.send_keys(mon4)
+    newline()
+    pasteplace.send_keys(mon5)
+    newline()
+    pasteplace.send_keys(mon6)
     savebutton = driver.find_element_by_xpath("//input[ @type='Submit' and @value='Submit Paste!']")
     savebutton.click()
     print("your team is saved at " + driver.current_url)
@@ -114,7 +128,10 @@ def createTeam():
         else:
             pass
     team =(mon1 + "\n" + mon2 + "\n" + mon3 + "\n" + mon4 + "\n" + mon5 + "\n" + mon6 + "\n")    
-    print(team)
+    if "-s" in sys.argv:
+        pass
+    else:
+        print(team)
 createTeam()
 save = input("save? (Y/N) ")
 if save == "n" or save == "N":
