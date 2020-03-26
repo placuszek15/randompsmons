@@ -47,8 +47,11 @@ def savetoPokepastes():
     pasteplace.send_keys(mon5)
     newline()
     pasteplace.send_keys(mon6)
-    if flag == True:
-        pasteplace.send_keys("silent")
+    try:
+        if flag == True:
+            pasteplace.send_keys("silent")
+    except: 
+        pass
     savebutton = driver.find_element_by_xpath("//input[ @type='Submit' and @value='Submit Paste!']")
     savebutton.click()
     print("your team is saved at " + driver.current_url)
