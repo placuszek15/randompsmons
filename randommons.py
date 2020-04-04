@@ -113,15 +113,20 @@ def createTeam():
         print(team)
 createTeam()
 save = input("save? (Y/N) ")
-if save == "n" or save == "N":
+if save.lower() == "n" or save.lower() == "no":
     sys.exit()
-elif save == "Y" or save == "y":
+elif save.lower() == "y" or save.lower() == "yes":
    thisorthat = input("pokepaste or txt? ")
    if thisorthat.lower() == "pokepaste" or thisorthat.lower() == "pokepastes" or thisorthat.lower() == "pokepast.es" or thisorthat.lower() == "p":
     print("\nworking sorry for the wait")
     savetoPokepastes()
    elif thisorthat.lower() == "txt" or thisorthat.lower() == "t" or thisorthat.lower() == "text":
     savefile()
+   else:
+   	print("Invalid selection!")
+   	time.sleep(1)
+   	sys.exit()
+
 else:
     print("should've chosen Y or N")
     time.sleep(1)
