@@ -4,7 +4,6 @@ import sys
 import time
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-#22 offset
 mon1 = None
 mon2 = mon1
 mon3 = mon1
@@ -13,13 +12,43 @@ mon5 = mon1
 mon6 = mon1
 team = mon1
 pasteplace = mon1
-def newline():
-    global pasteplace
-    pasteplace.send_keys(Keys.ENTER)
-    pasteplace.send_keys("\n")
+finished = 0
+def save():
+    done = False
+    save = input("save? (Y/N) ")
+    if save.lower == "n" or save.lower == "no":
+        pass
+    elif save.lower() == "y" or save.lower() == "yes":
+        while done == False: 
+            thisorthat = input("pokepaste or txt? ")
+            if thisorthat.lower() == "pokepaste" or thisorthat.lower() == "pokepastes" or thisorthat.lower() == "pokepast.es" or thisorthat.lower() == "p":
+                print("\nworking sorry for the wait ")
+                savetoPokepastes()
+                ph = input("are you done? ")
+                if ph.lower() == "true" or ph.lower() == "t" or ph.lower() == "y" or ph.lower() == "yes":
+                    done = True
+            elif thisorthat.lower() == "txt" or thisorthat.lower() == "t" or thisorthat.lower() == "text":
+                savefile()
+                ph = input("are you done? ")
+                if ph.lower() == "true" or ph.lower() == "t" or ph.lower() == "y" or ph.lower() == "yes":
+                    done = True
+            else:
+                print("should've chosen Y or N")
+                time.sleep(1)
+        else:
+            pass 
 
-def savetoPokepastes():
-    global pasteplace,flag
+def parser(stri):
+    try:
+        if int(stri) > 0:
+            return True
+        else:
+            print("not 0 or negatives :wagu:")
+            return False
+    except ValueError:
+        return False
+def runchrome():
+    global driver
     options = webdriver.ChromeOptions()
     options.add_argument('headless')
     options.add_argument('--no-sandbox')
@@ -28,10 +57,19 @@ def savetoPokepastes():
     try:
         driver = webdriver.Chrome(options = options)
     except:
-        print("Chromium driver not found, please place the executable in the same directory as this or in your path")
-        print("Aborting...")
+        print("Chrome driver not found, please put it into your system PATH variable or into the same directory as the executable")
+        print("Aborting....")
+        time.sleep(1)
         sys.exit()
-    driver.implicitly_wait(1)
+
+def newline():
+    global pasteplace
+    pasteplace.send_keys(Keys.ENTER)
+    pasteplace.send_keys("\n")
+
+def savetoPokepastes():
+    global driver,pasteplace,finished
+    driver.implicitly_wait(0)
     driver.get("https://pokepast.es")
     pasteplace = driver.find_element_by_name("paste")
     pasteplace.send_keys(Keys.TAB)
@@ -55,34 +93,36 @@ def savetoPokepastes():
     savebutton = driver.find_element_by_xpath("//input[ @type='Submit' and @value='Submit Paste!']")
     savebutton.click()
     print("your team is saved at " + driver.current_url)
-    driver.quit()
+    if finished == 1:
+        driver.quit()
 
 def savefile():
-    while True:
-        filename = input("filename? ")
-        try:
-            if ".txt" in filename:
-                print("saving to " + filename)
-                time.sleep(2)
-                f = open(str(filename), "x")
-                f.write(team)
-                sys.exit()
-            else:
-                print("saving to " + filename + ".txt")
-                time.sleep(2)
-                f = open(str(filename)+".txt", "x")
-                f.write(team)
-                f.close()
-                sys.exit()
-        except FileExistsError:
-            print("file already exists,give another name")
-        finally:
-            sys.exit()
+    filename = input("filename? ")
+    try:
+        if ".txt" in filename:
+            print("saving to " + filename)
+            time.sleep(2)
+            f = open(str(filename), "x")
+            f.write(team)
+        else:
+            print("saving to " + filename + ".txt")
+            time.sleep(2)
+            f = open(str(filename)+".txt", "x")
+            f.write(team)
+            f.close()
+    except FileExistsError:
+        print("file already exists,give another name")
 
 
-def createTeam():
-    global mon1,mon2,mon3,mon4,mon5,mon6,team,flag
+def createTeam(s):
+    global mon1,mon2,mon3,mon4,mon5,mon6,team,flag,uwu
     n = 1
+    mon1 = None
+    mon2 = mon1
+    mon3 = mon1
+    mon4 = mon1
+    mon5 = mon1
+    mon6 = mon1
     while mon1 == None or mon2 == None or mon3 == None or mon4 == None or mon5 == None or mon6 == None:
         wg = "Wonder Guard"
         mold = "Mold Breaker"
@@ -106,29 +146,27 @@ def createTeam():
         else:
             pass
     team =(mon1 + "\n" + mon2 + "\n" + mon3 + "\n" + mon4 + "\n" + mon5 + "\n" + mon6 + "\n")    
-    if "-s" in sys.argv:
+    if "-s" in sys.argv or s == "silent":
         pass
         flag = True
     else:
         print(team)
-createTeam()
-save = input("save? (Y/N) ")
-if save.lower() == "n" or save.lower() == "no":
-    sys.exit()
-elif save.lower() == "y" or save.lower() == "yes":
-   thisorthat = input("pokepaste or txt? ")
-   if thisorthat.lower() == "pokepaste" or thisorthat.lower() == "pokepastes" or thisorthat.lower() == "pokepast.es" or thisorthat.lower() == "p":
-    print("\nworking sorry for the wait")
-    savetoPokepastes()
-   elif thisorthat.lower() == "txt" or thisorthat.lower() == "t" or thisorthat.lower() == "text":
-    savefile()
-   else:
-   	print("Invalid selection!")
-   	time.sleep(1)
-   	sys.exit()
-
-else:
-    print("should've chosen Y or N")
-    time.sleep(1)
+def main():
+    global finished
+    amount = ""
+    while not(parser(amount)):
+        amount = input("hi how many times do u want to make a team ")
+    else:
+        for i in range(int((amount))):
+            if int(amount) ==  1:
+                createTeam("notsilent")
+                save()
+            else:
+                createTeam("silent")
+                print("made a new team")
+                save()
+    finished = 1
     sys.exit()
 
+runchrome()
+main()
