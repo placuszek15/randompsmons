@@ -20,8 +20,8 @@ def save():
         if save.lower() == "n" or save.lower() == "no":
             done = True
         elif save.lower() == "y" or save.lower() == "yes":
+            thisorthat = input("pokepaste or txt? ")
             while done == False: 
-                thisorthat = input("pokepaste or txt? ")
                 if thisorthat.lower() == "pokepaste" or thisorthat.lower() == "pokepastes" or thisorthat.lower() == "pokepast.es" or thisorthat.lower() == "p":
                     print("\nworking sorry for the wait ")
                     savetoPokepastes()
