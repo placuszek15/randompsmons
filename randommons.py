@@ -20,21 +20,21 @@ def save():
         if save.lower() == "n" or save.lower() == "no":
             done = True
         elif save.lower() == "y" or save.lower() == "yes":
-            thisorthat = input("pokepaste or txt? ")
+            thisorthat = input("Would you like to save your team as a pokepaste or txt? ")
             while done == False: 
                 if thisorthat.lower() == "pokepaste" or thisorthat.lower() == "pokepastes" or thisorthat.lower() == "pokepast.es" or thisorthat.lower() == "p":
-                    print("\nworking sorry for the wait ")
+                    print("\nWorking, sorry for the wait ")
                     savetoPokepastes()
-                    ph = input("are you done? ")
+                    ph = input("Are you done? ")
                     if ph.lower() == "true" or ph.lower() == "t" or ph.lower() == "y" or ph.lower() == "yes":
                         done = True
                 elif thisorthat.lower() == "txt" or thisorthat.lower() == "t" or thisorthat.lower() == "text":
                     savefile()
-                    ph = input("are you done? ")
+                    ph = input("Are you done? ")
                     if ph.lower() == "true" or ph.lower() == "t" or ph.lower() == "y" or ph.lower() == "yes":
                         done = True
                 else:
-                    thisorthat = input("pokepaste or txt? ")
+                    thisorthat = input("Would you like to save your team as a pokepaste or txt? ")
         else:
             save = input("save? (Y/N) ")
 def parser(stri):
@@ -42,7 +42,31 @@ def parser(stri):
         if int(stri) > 0:
             return True
         else:
-            print("not 0 or negatives :wagu:")
+            print("""MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMWWWNNNNNNNNNNNNWWWMMMMMMMMMMMMM
+MMMMMMMMMMMMMMWWNXXKK00000000000000KKKXNWWMMMMMMMM
+MMMMMMMMMMMWNXK00000O000OOOO0000000000000KXNWMMMMM
+MMMMMMMMMWXK00000000000O0000000000000O0000O0KNWMMM
+MMMMMMMWXK00O000OOxxxkO00O00000OOO000O00Odc:ccokXM
+MMMMMWNK000O0OOdc::cc:cxO00000OO0000000Oo,:dkxl;ck
+MMMMNX000000Od:;cdkOOo,ck000O0OO0000000Oo,cO000kc,
+MMWNK00000Oxc;lkO000kl,lO000000000000000kc,lO000Ol
+MMNK00000Od;:dO000Ox:;oO000O0OO0000000000k:,d0000O
+MNK00000Od;:xO0000k:';ldkOO00000000000000Oo,lO00O0
+WX000000k:;x00000Ol,co:;;;:lxO00O000000OOxl,:k0O00
+NK00000Oo,cO00000x;;olc:,'...;ok0000Okdc;,;,;x0O00
+X0OO0Oxl;ck0O000Ol,lxolllllllcok0000Ol,'',;,,lO000
+K0Okdc;:dO000OOkl,ck000000000000OO00Okkkxxdo:,lkO0
+00OxllxO0000Oxo:;okO0000OOOOOOO000000OOO0000ko;:ok
+0000O0000Okdc;:okO00Oxoc::;;;;cldxdlc::coxO00Okl;:
+00O0000Odc::lxO000Ox:'..,;:cllc:;::cll:'.,dO000Oko
+00000O0kolxOO0OOO0Od;,:okOO000OOOOOO00OdclxO00O000
+X000000OO00O0000OO0OOOO0000000000000O000000000000X
+WNXK000O000000000000000000000000000000000000000KNW
+MMMWNXKK000000000000000OOO00000000OOOO00000KXNWWMM
+MMMMMMWWNNXXXKKK000000000000000000KKKKXXNNWWMMMMMM
+MMMMMMMMMMMMMWWWWWNNNNNNNNNNNNNNWWWWMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM""")
             return False
     except ValueError:
         return False
@@ -91,26 +115,31 @@ def savetoPokepastes():
         pass
     savebutton = driver.find_element_by_xpath("//input[ @type='Submit' and @value='Submit Paste!']")
     savebutton.click()
-    print("your team is saved at " + driver.current_url)
+    print("Your team has been saved at: " + driver.current_url)
     if finished == 1:
         driver.quit()
 
 def savefile():
-    filename = input("filename? ")
-    try:
-        if ".txt" in filename:
-            print("saving to " + filename)
-            time.sleep(2)
-            f = open(str(filename), "x")
-            f.write(team)
-        else:
-            print("saving to " + filename + ".txt")
-            time.sleep(2)
-            f = open(str(filename)+".txt", "x")
-            f.write(team)
-            f.close()
-    except FileExistsError:
-        print("file already exists,give another name")
+    
+    bointer = True
+    while bointer == True:
+        filename = input("Input filename: ")
+        try:
+            if ".txt" in filename:
+                print("Saving to " + filename + "...")
+                time.sleep(2)
+                f = open(str(filename), "x")
+                f.write(team)
+                bointer = False
+            else:
+                print("Saving to " + filename + ".txt" + "...")
+                time.sleep(2)
+                f = open(str(filename)+".txt", "x")
+                f.write(team)
+                f.close()
+                bointer = False
+        except FileExistsError:
+            print("File already exists! Give another name: ")
 
 
 def createTeam(s):
@@ -154,7 +183,7 @@ def main():
     global finished
     amount = ""
     while not(parser(amount)):
-        amount = input("hi how many times do u want to make a team ")
+        amount = input("How many teams would you like to make?: ")
     else:
         for i in range(int((amount))):
             if int(amount) ==  1:
@@ -162,7 +191,7 @@ def main():
                 save()
             else:
                 createTeam("silent")
-                print("made a new team")
+                print("Created a new team!")
                 save()
     finished = 1
     sys.exit()
