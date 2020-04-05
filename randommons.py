@@ -16,28 +16,27 @@ finished = 0
 def save():
     done = False
     save = input("save? (Y/N) ")
-    if save.lower == "n" or save.lower == "no":
-        pass
-    elif save.lower() == "y" or save.lower() == "yes":
-        while done == False: 
-            thisorthat = input("pokepaste or txt? ")
-            if thisorthat.lower() == "pokepaste" or thisorthat.lower() == "pokepastes" or thisorthat.lower() == "pokepast.es" or thisorthat.lower() == "p":
-                print("\nworking sorry for the wait ")
-                savetoPokepastes()
-                ph = input("are you done? ")
-                if ph.lower() == "true" or ph.lower() == "t" or ph.lower() == "y" or ph.lower() == "yes":
-                    done = True
-            elif thisorthat.lower() == "txt" or thisorthat.lower() == "t" or thisorthat.lower() == "text":
-                savefile()
-                ph = input("are you done? ")
-                if ph.lower() == "true" or ph.lower() == "t" or ph.lower() == "y" or ph.lower() == "yes":
-                    done = True
-            else:
-                print("should've chosen Y or N")
-                time.sleep(1)
+    while done == False:
+        if save.lower() == "n" or save.lower() == "no":
+            done = True
+        elif save.lower() == "y" or save.lower() == "yes":
+            while done == False: 
+                thisorthat = input("pokepaste or txt? ")
+                if thisorthat.lower() == "pokepaste" or thisorthat.lower() == "pokepastes" or thisorthat.lower() == "pokepast.es" or thisorthat.lower() == "p":
+                    print("\nworking sorry for the wait ")
+                    savetoPokepastes()
+                    ph = input("are you done? ")
+                    if ph.lower() == "true" or ph.lower() == "t" or ph.lower() == "y" or ph.lower() == "yes":
+                        done = True
+                elif thisorthat.lower() == "txt" or thisorthat.lower() == "t" or thisorthat.lower() == "text":
+                    savefile()
+                    ph = input("are you done? ")
+                    if ph.lower() == "true" or ph.lower() == "t" or ph.lower() == "y" or ph.lower() == "yes":
+                        done = True
+                else:
+                    thisorthat = input("pokepaste or txt? ")
         else:
-            pass 
-
+            save = input("save? (Y/N) ")
 def parser(stri):
     try:
         if int(stri) > 0:
