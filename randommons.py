@@ -18,12 +18,12 @@ def save():
                 if thisorthat.lower() == "pokepaste" or thisorthat.lower() == "pokepastes" or thisorthat.lower() == "pokepast.es" or thisorthat.lower() == "p":
                     print("\nWorking, sorry for the wait ")
                     savetoPokepastes()
-                    ph = input("Are you done? ")
+                    ph = input("Are you done? (y/n) ")
                     if ph.lower() == "true" or ph.lower() == "t" or ph.lower() == "y" or ph.lower() == "yes":
                         done = True
                 elif thisorthat.lower() == "txt" or thisorthat.lower() == "t" or thisorthat.lower() == "text":
                     savefile()
-                    ph = input("Are you done? ")
+                    ph = input("Are you done? (y/n) ")
                     if ph.lower() == "true" or ph.lower() == "t" or ph.lower() == "y" or ph.lower() == "yes":
                         done = True
                 else:
