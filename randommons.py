@@ -163,7 +163,6 @@ def createTeam(s):
         for b in range(6):
             count = []
             stillsomething = abil[b]
-            print(stillsomething)
             if stillsomething == "Ability: Turboblaze":
                 count.append(b)
                 stillsomething == "Ability: Mold Breaker"
