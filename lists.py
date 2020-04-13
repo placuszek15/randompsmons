@@ -269,186 +269,186 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Super Fang  
 - Gastro Acid  
 
-""","""Aegislash-Blade @ Lum Berry
-Ability: Mold Breaker
-Level: 88
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- ExtremeSpeed
-- Shadow Sneak
-- Bullet Punch
-- Belly Drum
+""","""Aegislash-Blade @ Focus Sash  
+Ability: Mold Breaker  
+Level: 88  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Shell Smash  
+- Shadow Ball  
+- Iron Head  
+- Sacred Fire
 
-""","""Aegislash-Blade @ Spooky Plate
-Ability: Mold Breaker
-Level: 88
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- Judgment
-- Thousand Arrows
+""","""Aegislash-Blade @ Focus Sash  
+Ability: Mold Breaker  
+Level: 88  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Shell Smash  
+- Shadow Ball  
+- Secret Sword   
 - Spore
-- Shell Smash
 
-""","""Aegislash-Blade @ Focus Sash
-Ability: Huge Power
-Level: 88
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- Gear Grind
-- Close Combat
-- Shadow Claw
-- U-turn
+""","""Aegislash-Blade @ Focus Sash  
+Ability: Huge Power  
+Level: 88  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Gear Grind  
+- Close Combat  
+- Shadow Claw  
+- U-turn  
 
-""","""Aegislash-Blade @ Focus Sash
-Ability: Huge Power
-Level: 88
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- Gear Grind
-- Thousand Arrows
-- Shadow Claw
-- U-turn
+""","""Aegislash-Blade @ Focus Sash  
+Ability: Huge Power  
+Level: 88  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Gear Grind  
+- Thousand Arrows  
+- Shadow Claw  
+- U-turn  
 
-""","""Aegislash-Blade @ Leftovers
-Ability: Prankster
-Level: 88
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- Substitute
-- Doom Desire
-- Destiny Bond
-- Baton Pass
+""","""Aegislash-Blade @ Leftovers  
+Ability: Prankster  
+Level: 88  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Doom Desire  
+- Destiny Bond  
+- Baton Pass  
 
-""","""Aegislash-Blade @ Leftovers
-Ability: Prankster
-Level: 88
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD
-IVs: 0 Spe
-- Destiny Bond
-- Shadow Force
-- Focus Punch
-- Copycat
+""","""Aegislash-Blade @ Leftovers  
+Ability: Prankster  
+Level: 88  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD  
+IVs: 0 Spe  
+- Destiny Bond  
+- Shadow Force  
+- Focus Punch  
+- Copycat  
 
-""","""Aegislash-Blade @ Leftovers
-Ability: Prankster
-Level: 88
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD
-- Me First
-- Iron Head
-- Copycat
-- Gastro Acid
+""","""Aegislash-Blade @ Leftovers  
+Ability: Prankster  
+Level: 88  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD  
+- Me First  
+- Iron Head  
+- Copycat  
+- Gastro Acid  
 
-""","""Aegislash-Blade @ Focus Sash
-Ability: Protean
-Level: 88
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- ExtremeSpeed
-- Shadow Sneak
-- Freeze-Dry
-- Thousand Arrows
+""","""Aegislash-Blade @ Focus Sash  
+Ability: Protean  
+Level: 88  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- ExtremeSpeed  
+- Shadow Sneak  
+- Freeze-Dry  
+- Thousand Arrows  
 
-""","""Aegislash-Blade @ Focus Sash
-Ability: Infiltrator
-Level: 88
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- Fake Out
-- ExtremeSpeed
-- Sucker Punch
-- Gastro Acid
+""","""Aegislash-Blade @ Choice Band  
+Ability: Infiltrator  
+Level: 88  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Bullet Punch  
+- Shadow Sneak  
+- Switcheroo  
+- Water Shuriken  
 
-""","""Aegislash-Blade @ Focus Sash
-Ability: Parental Bond
-Level: 88
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- Shell Smash
-- Iron Head
-- Searing Shot
-- Thousand Arrows
+""","""Aegislash-Blade @ Focus Sash  
+Ability: Parental Bond  
+Level: 88  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Shell Smash  
+- Iron Head  
+- Searing Shot  
+- Thousand Arrows  
 
-""","""Aegislash @ Leftovers
-Ability: Magic Bounce
-Level: 88
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- Whirlwind
-- Curse
-- Recover
-- Heal Bell
+""","""Aegislash @ Leftovers  
+Ability: Magic Bounce  
+Level: 88  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Whirlwind  
+- Curse  
+- Recover  
+- Heal Bell  
 
-""","""Aegislash @ Toxic Orb
-Ability: Magic Bounce
-Level: 88
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- Whirlwind
-- Curse
-- Recover
-- Trick
+""","""Aegislash @ Toxic Orb  
+Ability: Magic Bounce  
+Level: 88  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Whirlwind  
+- Curse  
+- Recover  
+- Trick  
 
-""","""Aegislash @ Leftovers
-Ability: Magic Bounce
-Level: 88
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- Whirlwind
-- Curse
-- Recover
-- Defog
+""","""Aegislash @ Leftovers  
+Ability: Magic Bounce  
+Level: 88  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Curse  
+- Recover  
+- Baton Pass  
 
-""","""Aegislash @ Leftovers
-Ability: Magic Bounce
-Level: 88
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- Substitute
-- Curse
-- Recover
-- Baton Pass
+""","""Aegislash @ Mail  
+Ability: Shadow Tag  
+Level: 88  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Perish Song  
+- Spikes  
+- Encore  
+- Recover  
 
-""","""Aegislash @ Leftovers
-Ability: Prankster
-Level: 88
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- Substitute
-- Spore
-- Curse
-- Recover
+""","""Aegislash @ Leftovers  
+Ability: Prankster  
+Level: 88  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Curse  
+- Recover  
 
-""","""Aegislash @ Leftovers
-Ability: Prankster
-Level: 88
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- Substitute
-- Encore
-- Curse
-- Recover
+""","""Aegislash @ Leftovers  
+Ability: Prankster  
+Level: 88  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Heart Swap  
+- Baton Pass  
 
-""","""Aegislash @ Leftovers
-Ability: Prankster
-Level: 88
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- Substitute
-- Spore
-- Heart Swap
-- Baton Pass
+""","""Aegislash @ Leftovers  
+Ability: Prankster  
+Level: 88  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Haze  
+- Will-O-Wisp  
+- Baton Pass  
 
-""","""Aegislash @ Leftovers
-Ability: Prankster
-Level: 88
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- Substitute
-- Haze
-- Will-O-Wisp
-- Baton Pass
+""","""Aegislash @ Flame Orb  
+Ability: Magic Guard  
+Level: 88  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Psycho Shift  
+- Curse  
+- Recover  
+- Topsy-Turvy  
 
-""","""Aegislash @ Flame Orb
-Ability: Magic Guard
-Level: 88
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- Psycho Shift
-- Curse
-- Recover
-- Topsy-Turvy
+""","""Aegislash @ Flame Orb  
+Ability: Magic Guard  
+Level: 88  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Psycho Shift  
+- Curse  
+- Recover  
+- Haze  
 
-""","""Aegislash @ Flame Orb
-Ability: Magic Guard
-Level: 88
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- Psycho Shift
-- Curse
-- Recover
-- Haze
+""","""Aegislash @ Leftovers  
+Ability: Stance Change  
+Level: 88  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Belly Drum  
+- Shadow Sneak  
+- Mach Punch  
+- King's Shield  
 
 ""","""Aerodactyl-Mega @ Lum Berry
 Ability: Mold Breaker
@@ -723,95 +723,95 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Slack Off
 - Baton Pass
 
-""","""Alakazam-Mega @ Lum Berry
-Ability: Mold Breaker
-Level: 81
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- Stored Power
-- Moonblast
-- Dark Void
-- Shell Smash
+""","""Alakazam-Mega @ Focus Sash  
+Ability: Mold Breaker  
+Level: 82  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stored Power  
+- Moonblast  
+- Searing Shot  
+- Shell Smash  
 
-""","""Alakazam-Mega @ Choice Scarf
-Ability: Shadow Tag
-Level: 81
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- Trick
-- Spikes
-- Perish Song
-- Recover
+""","""Alakazam-Mega @ Lum Berry  
+Ability: Mold Breaker  
+Level: 82  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Psystrike  
+- Searing Shot  
+- Dark Void  
+- Tail Glow  
 
-""","""Alakazam-Mega @ Focus Sash 
-Ability: No Guard
-Level: 81
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- Zap Cannon
-- Dynamic Punch
-- Inferno
-- Soak
+""","""Alakazam-Mega @ Shed Shell  
+Ability: Wonder Guard  
+Level: 82  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Magic Coat  
+- Recover  
+- Baton Pass  
 
-""","""Alakazam-Mega @ Choice Scarf
-Ability: Wonder Guard
-Level: 81
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- Trick
-- Magic Coat
-- Copycat
-- U-turn
+""","""Alakazam-Mega @ Choice Scarf  
+Ability: Wonder Guard  
+Level: 82  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Trick  
+- Magic Coat  
+- Copycat  
+- Volt Switch  
 
-""","""Alakazam-Mega @ Expert Belt
-Ability: Parental Bond
-Level: 81
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- Psystrike
-- Energy Ball
-- Searing Shot
-- Aura Sphere
+""","""Alakazam-Mega @ Focus Sash  
+Ability: No Guard  
+Level: 82  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Zap Cannon  
+- Dynamic Punch  
+- Inferno  
+- Soak  
 
-""","""Alakazam-Mega @ Focus Sash
-Ability: Infiltrator
-Level: 81
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- Spore
-- Psychic
-- Moonblast
-- Gastro Acid
+""","""Alakazam-Mega @ Choice Scarf  
+Ability: Shadow Tag  
+Level: 82  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Trick  
+- Spikes  
+- Perish Song  
+- Recover  
 
-""","""Alakazam-Mega @ Leftovers
-Ability: Contrary
-Level: 81
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- V-create
-- Psycho Boost
-- Leaf Storm
-- Baton Pass
+""","""Alakazam-Mega @ Focus Sash  
+Ability: Magic Guard  
+Level: 82  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Shell Smash  
+- Light of Ruin  
+- Psystrike  
+- Baton Pass  
 
-""","""Alakazam-Mega @ Shed Shell
-Ability: Wonder Guard
-Level: 81
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- Substitute
-- Magic Coat
-- Recover
-- Baton Pass
+""","""Alakazam-Mega @ Expert Belt  
+Ability: Parental Bond  
+Level: 82  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Psystrike  
+- Energy Ball  
+- Searing Shot  
+- Aura Sphere  
 
-""","""Alakazam-Mega @ Leftovers
-Ability: No Guard
-Level: 81
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- Substitute
-- Hypnosis
-- Inferno
-- Gastro Acid
+""","""Alakazam-Mega @ Leftovers  
+Ability: Contrary  
+Level: 82  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- V-create  
+- Psycho Boost  
+- Leaf Storm  
+- Baton Pass  
 
-""","""Alakazam-Mega @ Focus Sash
-Ability: Mold Breaker
-Level: 81
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- Psychic
-- Moonblast
-- Flamethrower
-- Shell Smash
+""","""Alakazam-Mega @ Focus Sash  
+Ability: Infiltrator  
+Level: 82  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Spore  
+- Psychic  
+- Moonblast  
+- Gastro Acid  
 
 ""","""Alomomola @ Leftovers
 Ability: Wonder Guard
@@ -1817,7 +1817,7 @@ IVs: 0 Spe
 - Gunk Shot
 - V-create
 
-""","""Ariados @ Leftovers
+""","""Ariados @ Black Sludge
 Ability: Mold Breaker
 Level: 99
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
@@ -1844,7 +1844,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Sheer Cold
 - Baton Pass
 
-""","""Ariados @ Leftovers
+""","""Ariados @ Black Sludge
 Ability: Magic Bounce
 Level: 99
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
@@ -1853,7 +1853,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Whirlwind
 - U-turn
 
-""","""Ariados @ Leftovers
+""","""Ariados @ Black Sludge
 Ability: Magic Bounce
 Level: 99
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
@@ -1871,7 +1871,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Defog
 - Topsy-Turvy
 
-""","""Ariados @ Leftovers
+""","""Ariados @ Black Sludge
 Ability: Prankster
 Level: 99
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
@@ -1880,7 +1880,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Spider Web
 - Perish Song
 
-""","""Ariados @ Leftovers
+""","""Ariados @ Black Sludge
 Ability: Scrappy
 Level: 99
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
@@ -2812,95 +2812,95 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Gastro Acid
 - Baton Pass
 
-""","""Barbaracle @ Lum Berry
-Ability: Mold Breaker
-Level: 90
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- Waterfall
-- Diamond Storm
-- Dark Void
-- Shell Smash
+""","""Barbaracle @ Lum Berry  
+Ability: Mold Breaker  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Waterfall  
+- Diamond Storm  
+- Dark Void  
+- Shell Smash  
 
-""","""Barbaracle @ Lum Berry
-Ability: Mold Breaker
-Level: 90
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- Crabhammer
-- Diamond Storm
-- Dark Void
-- Shell Smash
+""","""Barbaracle @ Lum Berry  
+Ability: Mold Breaker  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Crabhammer  
+- Diamond Storm  
+- Dark Void  
+- Shell Smash  
 
-""","""Barbaracle @ Leftovers
-Ability: Magic Bounce
-Level: 90
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- Rock Blast
-- Slack Off
-- Stealth Rock
-- Whirlwind
+""","""Barbaracle @ Leftovers  
+Ability: Magic Bounce  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Rock Blast  
+- Slack Off  
+- Stealth Rock  
+- Whirlwind  
 
-""","""Barbaracle @ Leftovers
-Ability: Magic Bounce
-Level: 90
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- Waterfall
-- Slack Off
-- Defog
-- U-turn
+""","""Barbaracle @ Leftovers  
+Ability: Magic Bounce  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Waterfall  
+- Slack Off  
+- Defog  
+- U-turn  
 
-""","""Barbaracle @ Leftovers
-Ability: Parental Bond
-Level: 90
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- Diamond Storm
-- Meteor Mash
-- Power-Up Punch
-- Baton Pass
+""","""Barbaracle @ Safety Goggles  
+Ability: Huge Power  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Water Shuriken  
+- Sacred Fire  
+- Petal Blizzard  
+- Play Rough  
 
-""","""Barbaracle @ Safety Goggles
-Ability: Huge Power
-Level: 90
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- Water Shuriken
-- Sacred Fire
-- Petal Blizzard
-- Play Rough
+""","""Barbaracle @ Assault Vest  
+Ability: Huge Power  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Water Shuriken  
+- Fusion Bolt  
+- Drain Punch  
+- Brave Bird  
 
-""","""Barbaracle @ Assault Vest
-Ability: Huge Power
-Level: 90
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- Water Shuriken
-- Fusion Bolt
-- Drain Punch
-- Brave Bird
+""","""Barbaracle @ Leftovers  
+Ability: Prankster  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Rock Blast  
+- Gastro Acid  
 
-""","""Barbaracle @ Assault Vest
-Ability: Protean
-Level: 90
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- ExtremeSpeed
-- Shadow Sneak
-- Diamond Storm
-- Drain Punch
+""","""Barbaracle @ Assault Vest  
+Ability: Protean  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- ExtremeSpeed  
+- Shadow Sneak  
+- Diamond Storm  
+- Drain Punch  
 
-""","""Barbaracle @ Leftovers
-Ability: Prankster
-Level: 90
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- Substitute
-- Spore
-- Rock Blast
-- Gastro Acid
+""","""Barbaracle @ Leftovers  
+Ability: Parental Bond  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Diamond Storm  
+- Meteor Mash  
+- Power-Up Punch  
+- Baton Pass  
 
-""","""Barbaracle @ Leftovers
-Ability: Scrappy
-Level: 90
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
-- Stealth Rock
-- Spikes
-- Rapid Spin
-- Skill Swap
+""","""Barbaracle @ Leftovers  
+Ability: Scrappy  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stealth Rock  
+- Spikes  
+- Rapid Spin  
+- Skill Swap  
 
 ""","""Basculin @ Lum Berry
 Ability: Mold Breaker
@@ -3275,7 +3275,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Spore  
 - Shell Smash  
 
-""","""Beedrill @ Leftovers  
+""","""Beedrill @ Black Sludge  
 Ability: Mold Breaker  
 Level: 98  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
@@ -3293,7 +3293,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Trick  
 - U-turn  
 
-""","""Beedrill @ Leftovers  
+""","""Beedrill @ Black Sludge  
 Ability: Wonder Guard  
 Level: 98  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
@@ -3320,7 +3320,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Hypnosis  
 - Baton Pass  
 
-""","""Beedrill @ Leftovers  
+""","""Beedrill @ Black Sludge  
 Ability: Magic Bounce  
 Level: 98  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
@@ -3329,7 +3329,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Coil  
 - Baton Pass  
 
-""","""Beedrill @ Leftovers  
+""","""Beedrill @ Black Sludge  
 Ability: Prankster  
 Level: 98  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
@@ -3347,7 +3347,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Close Combat  
 - U-turn  
 
-""","""Beedrill @ Leftovers  
+""","""Beedrill @ Black Sludge  
 Ability: Parental Bond  
 Level: 98  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
@@ -4269,10 +4269,10 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 Ability: Mold Breaker  
 Level: 93  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
-- Close Combat  
+- Flying Press  
 - Diamond Storm  
 - Spore  
-- Shell Smash  
+- Shell Smash
 
 ""","""Breloom @ Leftovers  
 Ability: Mold Breaker  
@@ -4355,38 +4355,19 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Spore  
 - Gastro Acid  
 
-""","""Bronzong @ Spooky Plate  
+""","""Bronzong @ Lum Berry  
 Ability: Mold Breaker  
-Level: 90  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
-- Quiver Dance  
-- Recover  
-- Flash Cannon  
-- Judgment  
-
-""","""Bronzong @ Leftovers  
-Ability: Mold Breaker  
-Level: 90  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
-- Quiver Dance  
-- Recover  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Stored Power  
 - Moonblast  
-
-""","""Bronzong @ Leftovers  
-Ability: Mold Breaker  
-Level: 90  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD  
-IVs: 0 Spe  
-- Curse  
 - Recover  
-- Gyro Ball  
-- Payback  
+- Shell Smash  
 
 ""","""Bronzong @ Leftovers  
 Ability: Magic Bounce  
-Level: 90  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD  
 IVs: 0 Spe  
 - Gyro Ball  
 - Recover  
@@ -4395,8 +4376,8 @@ IVs: 0 Spe
 
 ""","""Bronzong @ Toxic Orb  
 Ability: Magic Bounce  
-Level: 90  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Whirlwind  
 - Trick  
 - Recover  
@@ -4404,8 +4385,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Bronzong @ Expert Belt  
 Ability: Huge Power  
-Level: 90  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Gear Grind  
 - Drain Punch  
 - Thousand Arrows  
@@ -4413,8 +4394,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Bronzong @ Mail  
 Ability: Shadow Tag  
-Level: 90  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - King's Shield  
 - Recover  
 - Perish Song  
@@ -4422,8 +4403,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Bronzong @ Leftovers  
 Ability: Prankster  
-Level: 90  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Dark Void  
 - Encore  
@@ -4431,21 +4412,39 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Bronzong @ Leftovers  
 Ability: Prankster  
-Level: 90  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Spore  
 - Spider Web  
 - Perish Song  
 
+""","""Bronzong @ Flame Orb  
+Ability: Magic Guard  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Psycho Shift  
+- Recover  
+- Toxic  
+- Taunt  
+
 ""","""Bronzong @ Leftovers  
 Ability: Protean  
-Level: 90  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Will-O-Wisp  
 - Toxic  
 - King's Shield  
-- Recover
+- Recover  
+
+""","""Bronzong @ Leftovers  
+Ability: Soundproof  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Thousand Waves  
+- Perish Song  
+- Recover  
+- Haze  
 
 ""","""Butterfree @ Leftovers  
 Ability: Mold Breaker  
@@ -4721,16 +4720,25 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Carbink @ Safety Goggles  
 Ability: Mold Breaker  
-Level: 90  
+Level: 89  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Spore  
 - Leech Seed  
 - Recover  
 - Thousand Waves  
 
+""","""Carbink @ Mail  
+Ability: Shadow Tag  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Spikes  
+- Perish Song  
+- King's Shield  
+- Recover  
+
 ""","""Carbink @ Leftovers  
 Ability: Magic Bounce  
-Level: 90  
+Level: 89  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Whirlwind  
 - Stealth Rock  
@@ -4739,25 +4747,16 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Carbink @ Leftovers  
 Ability: Magic Bounce  
-Level: 90  
+Level: 89  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Stealth Rock  
 - Heal Bell  
 - Recover  
 - Parting Shot  
 
-""","""Carbink @ Mail  
-Ability: Shadow Tag  
-Level: 90  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
-- Spikes  
-- Perish Song  
-- King's Shield  
-- Recover  
-
 ""","""Carbink @ Leftovers  
 Ability: Prankster  
-Level: 90  
+Level: 89  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Encore  
@@ -4766,7 +4765,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Carbink @ Leftovers  
 Ability: Prankster  
-Level: 90  
+Level: 89  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Spore  
@@ -4775,7 +4774,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Carbink @ Leftovers  
 Ability: Protean  
-Level: 90  
+Level: 89  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Curse  
 - Toxic  
@@ -4784,7 +4783,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Carbink @ Leftovers  
 Ability: Gale Wings  
-Level: 90  
+Level: 89  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Mirror Move  
 - Feather Dance  
@@ -4793,7 +4792,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Carbink @ Mail  
 Ability: Scrappy  
-Level: 90  
+Level: 89  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Spikes  
 - Rapid Spin  
@@ -6007,7 +6006,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 Ability: Mold Breaker  
 Level: 87  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
-- High Jump Kick  
+- Flying Press  
 - Diamond Storm  
 - Spore  
 - Shell Smash  
@@ -6388,7 +6387,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 ""","""Claydol @ Leftovers  
 Ability: Magic Bounce  
 Level: 90  
-EVs: 88 HP / 80 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Whirlwind  
 - Defog  
 - Will-O-Wisp  
@@ -6913,7 +6912,7 @@ IVs: 0 Spe
 
 ""","""Corsola @ Leftovers  
 Ability: Mold Breaker  
-Level: 97
+Level: 99  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Quiver Dance  
 - Recover  
@@ -6922,7 +6921,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Corsola @ Focus Sash  
 Ability: No Guard  
-Level: 97
+Level: 99  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Stealth Rock  
 - Sheer Cold  
@@ -6931,7 +6930,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Corsola @ Leftovers  
 Ability: Prankster  
-Level: 97
+Level: 99  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Spore  
@@ -6940,7 +6939,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Corsola @ Leftovers  
 Ability: Prankster  
-Level: 97
+Level: 99  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Spore  
@@ -6949,8 +6948,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Corsola @ Leftovers  
 Ability: Magic Bounce  
-Level: 97
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD
+Level: 99  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD  
 IVs: 0 Spe  
 - Wish  
 - Spiky Shield  
@@ -6959,7 +6958,7 @@ IVs: 0 Spe
 
 ""","""Corsola @ Leftovers  
 Ability: No Guard  
-Level: 97
+Level: 99  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Sheer Cold  
@@ -6968,8 +6967,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Corsola @ Leftovers  
 Ability: Shadow Tag  
-Level: 97
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe 
+Level: 99  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - King's Shield  
 - Recover  
 - Perish Song  
@@ -6977,8 +6976,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Corsola @ Flame Orb  
 Ability: Magic Guard  
-Level: 97
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe 
+Level: 99  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Psycho Shift  
 - Toxic  
 - Recover  
@@ -6986,8 +6985,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Corsola @ Toxic Orb  
 Ability: Poison Heal  
-Level: 97
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe 
+Level: 99  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Quiver Dance  
 - Scald  
 - Power Gem  
@@ -6995,8 +6994,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Corsola @ Leftovers  
 Ability: Gale Wings  
-Level: 97
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe 
+Level: 99  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Feather Dance  
 - Roost  
 - Scald  
@@ -7313,7 +7312,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Boomburst  
 - Stealth Rock  
 
-""","""Crobat @ Leftovers  
+""","""Crobat @ Black Sludge  
 Ability: Prankster  
 Level: 87  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
@@ -7322,7 +7321,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Oblivion Wing  
 - Gastro Acid  
 
-""","""Crobat @ Leftovers  
+""","""Crobat @ Black Sludge  
 Ability: Prankster  
 Level: 87  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
@@ -7331,7 +7330,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Encore  
 - Baton Pass  
 
-""","""Crobat @ Leftovers  
+""","""Crobat @ Black Sludge  
 Ability: Shadow Tag  
 Level: 87  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
@@ -7340,7 +7339,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Spikes  
 - Slack Off  
 
-""","""Crobat @ Leftovers  
+""","""Crobat @ Black Sludge  
 Ability: Shadow Tag  
 Level: 87  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
@@ -7358,7 +7357,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Taunt  
 - Chatter  
 
-""","""Crobat @ Leftovers  
+""","""Crobat @ Black Sludge  
 Ability: Magic Bounce  
 Level: 87  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
@@ -7369,8 +7368,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Crustle @ Leftovers  
 Ability: Mold Breaker  
-Level: 92  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Coil  
 - Slack Off  
 - Stone Edge  
@@ -7378,8 +7377,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Crustle @ Leftovers  
 Ability: Wonder Guard  
-Level: 92  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Wish  
 - Belly Drum  
 - Diamond Storm  
@@ -7387,8 +7386,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Crustle @ Leftovers  
 Ability: Magic Bounce  
-Level: 92  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD  
 IVs: 0 Spe  
 - Wish  
 - Spiky Shield  
@@ -7397,8 +7396,8 @@ IVs: 0 Spe
 
 ""","""Crustle @ Leftovers  
 Ability: Magic Bounce  
-Level: 92  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Knock Off  
 - Slack Off  
 - Stealth Rock  
@@ -7406,8 +7405,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Crustle @ Leftovers  
 Ability: Huge Power  
-Level: 92  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Attack Order  
 - Fusion Bolt  
 - Thousand Arrows  
@@ -7415,8 +7414,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Crustle @ Assault Vest  
 Ability: Huge Power  
-Level: 92  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Attack Order  
 - Drain Punch  
 - Fusion Bolt  
@@ -7424,8 +7423,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Crustle @ Leftovers  
 Ability: Prankster  
-Level: 92  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Slack Off  
 - Minimize  
@@ -7433,8 +7432,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Crustle @ Leftovers  
 Ability: Fur Coat  
-Level: 92  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Metal Burst  
 - Slack Off  
 - Toxic  
@@ -7442,8 +7441,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Crustle @ Choice Band  
 Ability: Infiltrator  
-Level: 92  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Trick  
 - Rock Blast  
 - Sucker Punch  
@@ -7451,8 +7450,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Crustle @ Leftovers  
 Ability: Moody  
-Level: 92  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - King's Shield  
 - Substitute  
 - Attack Order  
@@ -7460,8 +7459,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Cryogonal @ Lum Berry  
 Ability: Mold Breaker  
-Level: 88  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Ice Beam  
 - Earth Power  
 - Dark Void  
@@ -7469,8 +7468,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Cryogonal @ Leftovers  
 Ability: Mold Breaker  
-Level: 88  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Ice Beam  
 - Earth Power  
 - Recover  
@@ -7478,8 +7477,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Cryogonal @ Leftovers  
 Ability: Magic Bounce  
-Level: 88  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Coil  
 - Dark Void  
 - Recover  
@@ -7487,8 +7486,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Cryogonal @ Mail  
 Ability: Shadow Tag  
-Level: 88  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Perish Song  
 - Encore  
 - King's Shield  
@@ -7496,8 +7495,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Cryogonal @ Leftovers  
 Ability: Prankster  
-Level: 88  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Spore  
 - Freeze-Dry  
@@ -7505,8 +7504,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Cryogonal @ Leftovers  
 Ability: Prankster  
-Level: 88  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Dark Void  
 - Encore  
@@ -7514,8 +7513,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Cryogonal @ Flame Orb  
 Ability: Magic Guard  
-Level: 88  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Psycho Shift  
 - Freeze-Dry  
 - Recover  
@@ -7523,8 +7522,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Cryogonal @ Leftovers  
 Ability: Refrigerate  
-Level: 88  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Spikes  
 - Boomburst  
 - Rapid Spin  
@@ -7532,8 +7531,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Cryogonal @ Leftovers  
 Ability: Fur Coat  
-Level: 88  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Quiver Dance  
 - Freeze-Dry  
 - Recover  
@@ -7541,8 +7540,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Cryogonal @ Icy Rock  
 Ability: Snow Warning  
-Level: 88  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Spikes  
 - Blizzard  
 - Recover  
@@ -7910,7 +7909,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Delcatty @ Leftovers  
 Ability: Mold Breaker  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 99  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Spore  
 - Belly Drum  
 - Extreme Speed  
@@ -7918,7 +7918,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Delcatty @ Leftovers  
 Ability: Wonder Guard  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 99  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Magic Coat  
 - Substitute  
 - Sheer Cold  
@@ -7926,7 +7927,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Delcatty @ Shed Shell  
 Ability: Wonder Guard  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 99  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Magic Coat  
 - Slack Off  
 - Heal Bell  
@@ -7934,7 +7936,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Delcatty @ Choice Scarf  
 Ability: Wonder Guard  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 99  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Magic Coat  
 - Copycat  
 - Trick  
@@ -7942,7 +7945,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Delcatty @ Choice Scarf  
 Ability: No Guard  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 99  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Sheer Cold  
 - Gastro Acid  
 - Trick  
@@ -7950,7 +7954,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Delcatty @ Focus Sash  
 Ability: No Guard  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 99  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Sheer Cold  
 - Gastro Acid  
 - Sing  
@@ -7958,7 +7963,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Delcatty @ Leftovers  
 Ability: Prankster  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 99  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Encore  
 - Destiny Bond  
@@ -7966,7 +7972,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Delcatty @ Leftovers  
 Ability: Prankster  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 99  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Spore  
 - Encore  
@@ -7983,7 +7990,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Delcatty @ Lum Berry  
 Ability: Imposter  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 99  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Whirlwind  
 - Slack Off  
 - Defog  
@@ -8613,8 +8621,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Dialga @ Safety Goggles  
 Ability: Mold Breaker  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Dragon Pulse  
 - Searing Shot  
 - Spore  
@@ -8622,8 +8630,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Dialga @ Lum Berry  
 Ability: Mold Breaker  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Dragon Pulse  
 - Flash Cannon  
 - Dark Void  
@@ -8631,8 +8639,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Dialga @ Leftovers  
 Ability: Mold Breaker  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Doom Desire  
 - Substitute  
 - Quiver Dance  
@@ -8640,8 +8648,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Dialga @ Shed Shell  
 Ability: Wonder Guard  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Magic Coat  
 - Flash Cannon  
 - Dark Pulse  
@@ -8649,8 +8657,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Dialga @ White Herb  
 Ability: Wonder Guard  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Shell Smash  
 - Flash Cannon  
 - Dark Pulse  
@@ -8658,8 +8666,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Dialga @ Leftovers  
 Ability: Magic Bounce  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Whirlwind  
 - Flash Cannon  
 - Earth Power  
@@ -8667,8 +8675,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Dialga @ Toxic Orb  
 Ability: Magic Bounce  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Whirlwind  
 - Trick  
 - Recover  
@@ -8676,8 +8684,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Dialga @ Leftovers  
 Ability: Contrary  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - V-create  
 - Draco Meteor  
 - Flash Cannon  
@@ -8685,8 +8693,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Dialga @ Flame Orb  
 Ability: Magic Guard  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Flash Cannon  
 - Dark Pulse  
 - Psycho Shift  
@@ -8694,8 +8702,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Dialga @ Assault Vest  
 Ability: Huge Power  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Iron Head  
 - Knock Off  
 - Horn Leech  
@@ -9255,7 +9263,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Spore  
 - Shell Smash  
 
-""","""Dragalge @ Leftovers  
+""","""Dragalge @ Black Sludge  
 Ability: Magic Bounce  
 Level: 90  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
@@ -9264,7 +9272,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Earth Power  
 - Baton Pass  
 
-""","""Dragalge @ Leftovers  
+""","""Dragalge @ Black Sludge  
 Ability: Magic Bounce  
 Level: 90  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
@@ -9417,46 +9425,10 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Mirror Move  
 - Thousand Arrows  
 
-""","""Drapion @ Leftovers  
-Ability: Wonder Guard  
-Level: 90  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
-- Magic Coat  
-- Substitute  
-- Toxic Spikes  
-- Baton Pass  
-
-""","""Drapion @ Shed Shell  
-Ability: Wonder Guard  
-Level: 90  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
-- Magic Coat  
-- Taunt  
-- Toxic Spikes  
-- Baton Pass  
-
-""","""Drapion @ Leftovers  
-Ability: Wonder Guard  
-Level: 90  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
-- Magic Coat  
-- Poison Jab  
-- Knock Off  
-- U-turn  
-
-""","""Drapion @ Leftovers  
-Ability: Wonder Guard  
-Level: 90  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
-- Magic Coat  
-- Poison Jab  
-- Thousand Arrows  
-- U-turn  
-
 ""","""Drapion @ Lum Berry  
 Ability: Mold Breaker  
-Level: 90  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Poison Jab  
 - Thousand Arrows  
 - Dark Void  
@@ -9464,17 +9436,62 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Drapion @ Safety Goggles  
 Ability: Mold Breaker  
-Level: 90  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Poison Jab  
 - Sacred Fire  
 - Spore  
 - Shell Smash  
 
+""","""Drapion @ Black Sludge  
+Ability: Wonder Guard  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Magic Coat  
+- Substitute  
+- Toxic Spikes  
+- Baton Pass  
+
+""","""Drapion @ Black Sludge  
+Ability: Wonder Guard  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Magic Coat  
+- Poison Jab  
+- Knock Off  
+- U-turn  
+
+""","""Drapion @ Black Sludge  
+Ability: Wonder Guard  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Magic Coat  
+- Poison Jab  
+- Thousand Arrows  
+- U-turn  
+
+""","""Drapion @ Lum Berry  
+Ability: Huge Power  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Poison Jab  
+- Pursuit  
+- Trick-or-Treat  
+- Drain Punch  
+
+""","""Drapion @ Assault Vest  
+Ability: Magic Bounce  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Poison Jab  
+- Knock Off  
+- Thousand Arrows  
+- U-turn  
+
 ""","""Drapion @ Assault Vest  
 Ability: Parental Bond  
-Level: 90  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Poison Jab  
 - Sacred Fire  
 - Crunch  
@@ -9482,26 +9499,17 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Drapion @ Choice Scarf  
 Ability: Shadow Tag  
-Level: 90  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Trick  
 - Toxic Spikes  
 - Perish Song  
 - Slack Off  
 
-""","""Drapion @ Assault Vest  
-Ability: Magic Bounce  
-Level: 90  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
-- Poison Jab  
-- Knock Off  
-- Thousand Arrows  
-- U-turn  
-
 ""","""Drapion @ Focus Sash  
 Ability: Infiltrator  
-Level: 90  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Extreme Speed  
 - Sucker Punch  
 - Toxic  
@@ -9509,7 +9517,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Drifblim @ Spooky Plate  
 Ability: Mold Breaker  
-Level: 90  
+Level: 89  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Judgment  
 - Secret Sword  
@@ -9518,7 +9526,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Drifblim @ Leftovers  
 Ability: Mold Breaker  
-Level: 90  
+Level: 89  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Quiver Dance  
 - Oblivion Wing  
@@ -9527,7 +9535,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Drifblim @ Leftovers  
 Ability: Magic Bounce  
-Level: 90  
+Level: 89  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Curse  
@@ -9536,7 +9544,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Drifblim @ Choice Scarf  
 Ability: Huge Power  
-Level: 90  
+Level: 89  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Dragon Ascent  
 - Close Combat  
@@ -9545,7 +9553,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Drifblim @ Leftovers  
 Ability: Prankster  
-Level: 90  
+Level: 89  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Spore  
@@ -9554,7 +9562,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Drifblim @ Leftovers  
 Ability: Prankster  
-Level: 90  
+Level: 89  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Spore  
@@ -9563,7 +9571,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Drifblim @ Leftovers  
 Ability: Prankster  
-Level: 90  
+Level: 89  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Minimize  
@@ -9572,7 +9580,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Drifblim @ Sky Plate  
 Ability: Aerilate  
-Level: 90  
+Level: 89  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Fake Out  
 - Extreme Speed  
@@ -9581,7 +9589,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Drifblim @ Leftovers  
 Ability: Gale Wings  
-Level: 90  
+Level: 89  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Chatter  
 - Roost  
@@ -9592,8 +9600,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 Ability: Imposter  
 Level: 86  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
-- Trick  
-- Healing Wish  
+- Skill Swap   
+- Lunar Dance  
 - Fake Out  
 - Final Gambit  
 
@@ -9689,7 +9697,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Dugtrio @ Safety Goggles  
 Ability: Mold Breaker  
-Level: 98  
+Level: 97  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Thousand Arrows  
 - V-create  
@@ -9698,25 +9706,25 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Dugtrio @ Lum Berry  
 Ability: Mold Breaker  
-Level: 98  
+Level: 97  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Thousand Arrows  
 - Icicle Spear  
 - Dark Void  
 - Shell Smash  
 
-""","""Dugtrio @ Focus Sash  
+""","""Dugtrio @ Leppa Berry  
 Ability: Mold Breaker  
-Level: 98  
+Level: 97  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
-- Thousand Arrows  
-- Dragon Ascent  
-- Taunt  
-- Shell Smash  
+- Substitute  
+- Spore  
+- Sheer Cold  
+- Stealth Rock  
 
 ""","""Dugtrio @ Leftovers  
 Ability: No Guard  
-Level: 98  
+Level: 97  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Hypnosis  
@@ -9725,7 +9733,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Dugtrio @ Choice Scarf  
 Ability: No Guard  
-Level: 98  
+Level: 97  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Sheer Cold  
 - Gastro Acid  
@@ -9734,25 +9742,25 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Dugtrio @ Focus Sash  
 Ability: No Guard  
-Level: 98  
+Level: 97  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Sheer Cold  
 - Gastro Acid  
 - Sing  
 - Stealth Rock  
 
-""","""Dugtrio @ Mail  
+""","""Dugtrio @ Leftovers  
 Ability: Shadow Tag  
-Level: 98  
+Level: 97  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Encore  
 - Perish Song  
-- Spikes  
-- Destiny Bond  
+- King's Shield  
+- Substitute  
 
 ""","""Dugtrio @ Leftovers  
 Ability: Prankster  
-Level: 98  
+Level: 97  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Encore  
@@ -9761,7 +9769,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Dugtrio @ Leftovers  
 Ability: Shadow Tag  
-Level: 98  
+Level: 97  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Encore  
 - Substitute  
@@ -9770,7 +9778,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Dugtrio @ Focus Sash  
 Ability: Infiltrator  
-Level: 98  
+Level: 97  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - V-create  
 - Thousand Arrows  
@@ -10140,13 +10148,30 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Dustox @ Shed Shell  
 Ability: Wonder Guard  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 99  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Magic Coat  
 - Toxic Spikes  
 - Roost  
 - U-turn  
 
-""","""Dustox @ Leftovers  
+""","""Dustox @ Focus Sash  
+Ability: No Guard  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Sheer Cold  
+- Gastro Acid  
+- Sing  
+- Stealth Rock  
+
+""","""Dustox @ Choice Scarf  
+Ability: No Guard  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Sheer Cold  
+- Gastro Acid  
+- Trick  
+- U-turn  
+
+""","""Dustox @ Black Sludge  
 Ability: Magic Bounce  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Whirlwind  
@@ -10162,7 +10187,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Bug Buzz  
 - Baton Pass  
 
-""","""Dustox @ Leftovers  
+""","""Dustox @ Black Sludge  
 Ability: Magic Bounce  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Whirlwind  
@@ -10170,7 +10195,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Toxic Spikes  
 - Sheer Cold  
 
-""","""Dustox @ Black Sludge   
+""","""Dustox @ Black Sludge  
 Ability: Prankster  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
@@ -10186,29 +10211,13 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Infestation  
 - Gastro Acid  
 
-""","""Dustox @ Black Sludge   
+""","""Dustox @ Black Sludge  
 Ability: Prankster  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Toxic  
 - Topsy-Turvy  
 - Slack Off  
 - Parting Shot  
-
-""","""Dustox @ Choice Scarf  
-Ability: No Guard  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
-- Sheer Cold  
-- Gastro Acid  
-- Trick  
-- U-turn  
-
-""","""Dustox @ Focus Sash  
-Ability: No Guard  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
-- Sheer Cold  
-- Gastro Acid  
-- Sing  
-- Stealth Rock  
 
 ""","""Dustox @ Flame Orb  
 Ability: Magic Guard  
@@ -10218,7 +10227,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Roost  
 - Toxic Spikes  
 
-""","""Dustox @ Leftovers  
+""","""Dustox @ Black Sludge  
 Ability: Gale Wings  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Chatter  
@@ -10484,7 +10493,7 @@ Level: 86
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Spore  
-- Fusion Bolt  
+- Thunder Punch  
 - Soak  
 
 ""","""Electivire @ Safety Goggles  
@@ -10495,6 +10504,96 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Sacred Fire  
 - Drain Punch  
 - Poison Jab  
+
+""","""Electrode @ Leftovers  
+Ability: Teravolt  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Charge Beam  
+- Oblivion Wing  
+
+""","""Electrode @ Safety Goggles  
+Ability: Teravolt  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Thunderbolt  
+- Ice Beam  
+- Spore  
+- Tail Glow  
+
+""","""Electrode @ Leftovers  
+Ability: Wonder Guard  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Encore  
+- Baton Pass  
+
+""","""Electrode @ Choice Specs  
+Ability: Wonder Guard  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Spikes  
+- Trick  
+- Parting Shot  
+- Volt Switch  
+
+""","""Electrode @ Focus Sash  
+Ability: Wonder Guard  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Magic Coat  
+- Taunt  
+- Whirlwind  
+- Volt Switch  
+
+""","""Electrode @ Leftovers  
+Ability: No Guard  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Zap Cannon  
+- Thunder  
+- Soak  
+
+""","""Electrode @ Leftovers  
+Ability: No Guard  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Inferno  
+- Zap Cannon  
+- Hypnosis  
+- Soak  
+
+""","""Electrode @ Leftovers  
+Ability: Shadow Tag  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Perish Song  
+- Encore  
+- Spiky Shield  
+- Substitute  
+
+""","""Electrode @ Leftovers  
+Ability: Parental Bond  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Discharge  
+- Super Fang  
+- Seismic Toss  
+- Night Daze  
+
+""","""Electrode @ Leftovers  
+Ability: Soundproof  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Spider Web  
+- Perish Song  
 
 ""","""Emboar @ Safety Goggles  
 Ability: Turboblaze  
@@ -11130,8 +11229,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Exeggutor @ Lum Berry  
 Ability: Mold Breaker  
-Level: 87  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 88  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Stored Power  
 - Steam Eruption  
 - Spore  
@@ -11139,8 +11238,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Exeggutor @ Leftovers  
 Ability: Mold Breaker  
-Level: 87  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD  
+Level: 88  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD  
 IVs: 0 Spe  
 - Calm Mind  
 - Giga Drain  
@@ -11149,8 +11248,8 @@ IVs: 0 Spe
 
 ""","""Exeggutor @ Lum Berry  
 Ability: Mold Breaker  
-Level: 87  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 88  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Future Sight  
 - Giga Drain  
 - Tail Glow  
@@ -11158,8 +11257,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Exeggutor @ White Herb  
 Ability: Magic Bounce  
-Level: 87  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 88  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Shell Smash  
 - Stored Power  
 - Giga Drain  
@@ -11167,8 +11266,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Exeggutor @ Focus Sash  
 Ability: Magic Bounce  
-Level: 87  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 88  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Psystrike  
 - Spore  
 - Recover  
@@ -11176,35 +11275,26 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Exeggutor @ Leftovers  
 Ability: Prankster  
-Level: 87  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 88  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Spore  
-- Charge Beam  
-- Soak  
+- Minimize 
+- Baton Pass
 
 ""","""Exeggutor @ Leftovers  
 Ability: Prankster  
-Level: 87  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 88  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Spore  
 - Giga Drain  
 - Soak  
 
-""","""Exeggutor @ Leftovers  
-Ability: Prankster  
-Level: 87  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
-- Substitute  
-- Spore  
-- Minimize  
-- Baton Pass  
-
 ""","""Exeggutor @ Toxic Orb  
 Ability: Poison Heal  
-Level: 87  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 88  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Quiver Dance  
 - Trick  
 - Giga Drain  
@@ -11212,12 +11302,21 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Exeggutor @ Leftovers  
 Ability: Fur Coat  
-Level: 87  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 88  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Quiver Dance  
 - Stored Power  
 - Giga Drain  
 - Soak  
+
+""","""Exeggutor @ Choice Scarf  
+Ability: Imposter  
+Level: 88  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Skill Swap  
+- Defog  
+- Aromatherapy  
+- Lunar Dance  
 
 ""","""Exploud @ Lum Berry  
 Ability: Mold Breaker  
@@ -12670,7 +12769,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Dark Void  
 - Shell Smash  
 
-""","""Garbodor @ Leftovers  
+""","""Garbodor @ Black Sludge  
 Ability: Mold Breaker  
 Level: 92  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
@@ -12688,7 +12787,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Trick  
 - U-turn  
 
-""","""Garbodor @ Leftovers  
+""","""Garbodor @ Black Sludge  
 Ability: Wonder Guard  
 Level: 92  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
@@ -12715,7 +12814,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Spikes  
 - Psycho Shift  
 
-""","""Garbodor @ Leftovers  
+""","""Garbodor @ Black Sludge  
 Ability: Prankster  
 Level: 92  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
@@ -12724,7 +12823,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Spikes  
 - Destiny Bond  
 
-""","""Garbodor @ Leftovers  
+""","""Garbodor @ Black Sludge  
 Ability: Parental Bond  
 Level: 92  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
@@ -12783,8 +12882,8 @@ Ability: Huge Power
 Level: 81  
 EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Thousand Arrows  
-- Drill Peck  
-- Drain Punch  
+- Play Rough 
+- Flying Press  
 - Diamond Storm  
 
 ""","""Garchomp @ Safety Goggles  
@@ -12873,8 +12972,8 @@ Ability: Huge Power
 Level: 73  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Thousand Arrows  
-- Drill Peck  
-- Drain Punch  
+- Gear Grind  
+- Flying Press  
 - Diamond Storm  
 
 ""","""Garchomp-Mega @ Safety Goggles  
@@ -13256,7 +13355,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Shell Smash  
 - Baton Pass  
 
-""","""Gengar-Mega @ Leftovers  
+""","""Gengar-Mega @ Black Sludge  
 Ability: Prankster  
 Level: 81  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
@@ -13265,14 +13364,14 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Destiny Bond  
 - Baton Pass  
 
-""","""Gengar-Mega @ Leftovers  
+""","""Gengar-Mega @ Black Sludge  
 Ability: Prankster  
 Level: 81  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
-- Substitute  
-- Encore  
-- Destiny Bond  
-- Baton Pass  
+- Me First  
+- Copycat  
+- Judgment  
+- Destiny Bond
 
 ""","""Gengar-Mega @ Spooky Plate  
 Ability: Magic Bounce  
@@ -13475,8 +13574,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Giratina @ Leftovers  
 Ability: Magic Bounce  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Curse  
 - Recover  
@@ -13484,8 +13583,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Giratina @ Leftovers  
 Ability: Magic Bounce  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Whirlwind  
 - Curse  
 - Recover  
@@ -13493,8 +13592,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Giratina @ Leftovers  
 Ability: Magic Bounce  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Wish  
 - Spiky Shield  
 - Metal Burst  
@@ -13502,8 +13601,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Giratina @ Leftovers  
 Ability: Prankster  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Spore  
 - Curse  
@@ -13511,8 +13610,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Giratina @ Leftovers  
 Ability: Prankster  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Recover  
 - Minimize  
@@ -13520,8 +13619,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Giratina @ Leftovers  
 Ability: Prankster  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Encore  
 - Dark Void  
@@ -13529,8 +13628,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Giratina @ Toxic Orb  
 Ability: Poison Heal  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Wish  
 - Curse  
 - Metal Burst  
@@ -13538,8 +13637,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Giratina @ Flame Orb  
 Ability: Magic Guard  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Psycho Shift  
 - Curse  
 - Recover  
@@ -13547,8 +13646,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Giratina @ Griseous Orb  
 Ability: Shadow Tag  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Perish Song  
 - King's Shield  
 - Recover  
@@ -13556,8 +13655,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Giratina @ Leftovers  
 Ability: Moody  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - King's Shield  
 - Recover  
@@ -13565,8 +13664,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Giratina-Origin @ Spooky Plate  
 Ability: Mold Breaker  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Judgment  
 - Aura Sphere  
 - Dark Void  
@@ -13574,8 +13673,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Giratina-Origin @ Spooky Plate  
 Ability: Mold Breaker  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Judgment  
 - Secret Sword  
 - Dark Void  
@@ -13583,8 +13682,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Giratina-Origin @ Leftovers  
 Ability: Magic Bounce  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Draco Meteor  
 - Curse  
 - Recover  
@@ -13592,8 +13691,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Giratina-Origin @ White Herb  
 Ability: Magic Bounce  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Shell Smash  
 - Dragon Pulse  
 - Shadow Ball  
@@ -13601,8 +13700,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Giratina-Origin @ Leftovers  
 Ability: Prankster  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Spore  
 - Curse  
@@ -13610,8 +13709,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Giratina-Origin @ Leftovers  
 Ability: Prankster  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Encore  
 - Destiny Bond  
@@ -13619,8 +13718,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Giratina-Origin @ Lagging Tail  
 Ability: Prankster  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD
+Level: 74
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD
 IVs: 0 Spe
 - Copycat  
 - Shadow Force  
@@ -13629,8 +13728,8 @@ IVs: 0 Spe
 
 ""","""Giratina-Origin @ Flame Orb  
 Ability: Magic Guard  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Light of Ruin  
 - Head Smash  
 - Psycho Shift  
@@ -13638,8 +13737,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Giratina-Origin @ Leftovers  
 Ability: Gale Wings  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Chatter  
 - Roost  
 - Feather Dance  
@@ -13647,8 +13746,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Giratina-Origin @ Focus Sash  
 Ability: Infiltrator  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Draco Meteor  
 - Shadow Sneak  
 - Metal Burst  
@@ -15280,8 +15379,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Groudon @ Lum Berry  
 Ability: Mold Breaker  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Thousand Arrows  
 - Diamond Storm  
 - Dark Void  
@@ -15289,8 +15388,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Groudon @ Safety Goggles  
 Ability: Mold Breaker  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Thousand Arrows  
 - Icicle Spear  
 - Spore  
@@ -15298,8 +15397,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Groudon @ Safety Goggles  
 Ability: Mold Breaker  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Thousand Arrows  
 - Sacred Fire  
 - Spore  
@@ -15307,8 +15406,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Groudon @ White Herb  
 Ability: Wonder Guard  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Shell Smash  
 - Thousand Arrows  
 - Diamond Storm  
@@ -15316,8 +15415,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Groudon @ Leftovers  
 Ability: Prankster  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Me First  
 - Copycat  
 - Thousand Arrows  
@@ -15325,8 +15424,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Groudon @ Leftovers  
 Ability: Magic Bounce  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Recover  
 - Minimize  
@@ -15334,8 +15433,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Groudon @ Assault Vest  
 Ability: Huge Power  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Thousand Arrows  
 - Drain Punch  
 - Diamond Storm  
@@ -15343,8 +15442,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Groudon @ Safety Goggles  
 Ability: Parental Bond  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Thousand Arrows  
 - Sacred Fire  
 - Iron Head  
@@ -15352,8 +15451,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Groudon @ Focus Sash  
 Ability: Infiltrator  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Extreme Speed  
 - Sucker Punch  
 - Thousand Arrows  
@@ -15361,8 +15460,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Groudon @ Mail  
 Ability: Fur Coat 
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Thousand Waves  
 - Perish Song  
 - Slack Off  
@@ -16088,10 +16187,1454 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Overheat  
 - Explosion  
 
+""","""Heatran @ Earth Plate  
+Ability: Turboblaze  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Blue Flare  
+- Judgement  
+- Dark Void  
+- Shell Smash  
+
+""","""Heatran @ Flame Plate  
+Ability: Turboblaze  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Judgement  
+- Flash Cannon  
+- Dark Void  
+- Shell Smash  
+
+""","""Heatran @ Safety Goggles  
+Ability: Wonder Guard  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Wish  
+- Magic Coat  
+- Stealth Rock  
+- Parting Shot  
+
+""","""Heatran @ Choice Scarf  
+Ability: Wonder Guard  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Trick  
+- Gastro Acid  
+- Defog  
+- Parting Shot  
+
+""","""Heatran @ Leftovers  
+Ability: Magic Bounce  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Doom Desire  
+- Recover  
+- Defog  
+- Parting Shot  
+
+""","""Heatran @ Leftovers  
+Ability: Magic Bounce  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Doom Desire  
+- Will-O-Wisp  
+- Recover  
+- Whirlwind  
+
+""","""Heatran @ Leftovers  
+Ability: Prankster  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Dark Void  
+- Encore  
+- Baton Pass  
+
+""","""Heatran @ Leftovers  
+Ability: Prankster  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Blue Flare  
+- Copycat  
+- Tail Glow  
+
+""","""Heatran @ Leftovers  
+Ability: Prankster  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Blue Flare  
+- Doom Desire  
+- Tail Glow  
+
+""","""Heatran @ Shell Bell  
+Ability: Sturdy  
+Level: 1  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Endeavor  
+- Pain Split  
+- Leech Seed  
+- Bullet Punch  
+
+""","""Heliolisk @ Lum Berry  
+Ability: Teravolt  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Thunderbolt  
+- Boomburst  
+- Dark Void  
+- Shell Smash  
+
+""","""Heliolisk @ Choice Specs  
+Ability: Teravolt  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Boomburst  
+- Earth Power  
+- Night Daze  
+- Volt Switch
+
+""","""Heliolisk @ Lum Berry  
+Ability: Teravolt  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Thunderbolt  
+- Ice Beam  
+- Dark Void  
+- Shell Smash  
+
+""","""Heliolisk @ Choice Scarf  
+Ability: Wonder Guard  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Gastro Acid  
+- Defog  
+- Trick  
+- Parting Shot  
+
+""","""Heliolisk @ Shed Shell  
+Ability: Wonder Guard  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Wish  
+- Magic Coat  
+- Stealth Rock  
+- Parting Shot  
+
+""","""Heliolisk @ Focus Sash  
+Ability: No Guard  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Sheer Cold  
+- Zap Cannon  
+- Gastro Acid  
+- Dark Void  
+
+""","""Heliolisk @ Choice Scarf  
+Ability: No Guard  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Sheer Cold  
+- Zap Cannon  
+- Trick  
+- Parting Shot  
+
+""","""Heliolisk @ Leftovers  
+Ability: Prankster  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Thunderbolt  
+- Encore  
+- Soak  
+
+""","""Heliolisk @ Leftovers  
+Ability: Prankster  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Dark Void  
+- Encore  
+- Baton Pass  
+
+""","""Heliolisk @ Flame Orb  
+Ability: Magic Guard  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Psycho Shift  
+- Thunderbolt  
+- Spikes  
+- Parting Shot  
+
+""","""Heracross @ Choice Scarf  
+Ability: Mold Breaker  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Close Combat  
+- Diamond Storm  
+- Trick  
+- U-turn  
+
+""","""Heracross @ Lum Berry  
+Ability: Mold Breaker  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Close Combat  
+- Dragon Ascent  
+- Dark Void  
+- Shell Smash  
+
+""","""Heracross @ Leftovers  
+Ability: No Guard  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Hypnosis  
+- Dynamic Punch  
+- Baton Pass  
+
+""","""Heracross @ Choice Scarf  
+Ability: Huge Power  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Close Combat  
+- Diamond Storm  
+- Trick  
+- U-turn  
+
+""","""Heracross @ Life Orb  
+Ability: Huge Power  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Close Combat  
+- Poison Jab  
+- Knock Off  
+- Leaf Blade  
+
+""","""Heracross @ Leftovers  
+Ability: Prankster  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Attack Order  
+- Forest's Curse
+
+""","""Heracross @ Life Orb  
+Ability: Parental Bond  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Sacred Fire  
+- Drain Punch  
+- Iron Head  
+- Horn Leech  
+
+""","""Heracross @ Leftovers  
+Ability: Contrary  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- V-create  
+- Superpower  
+- Horn Leech  
+- Soak  
+
+""","""Heracross @ Leftovers  
+Ability: Prankster  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Attack Order  
+- Forest's Curse  
+
+""","""Heracross @ Leftovers  
+Ability: Scrappy  
+Level: 89  
+Happiness: 0  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stealth Rock  
+- Close Combat  
+- Frustration  
+- Rapid Spin  
+
+""","""Heracross-Mega @ Safety Goggles  
+Ability: Mold Breaker  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Drain Punch  
+- Diamond Storm  
+- Spore  
+- Shift Gear  
+
+""","""Heracross-Mega @ Lum Berry  
+Ability: Mold Breaker  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Close Combat  
+- Dragon Ascent  
+- Dark Void  
+- Shell Smash  
+
+""","""Heracross-Mega @ Leftovers  
+Ability: Mold Breaker  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Drain Punch  
+- Magic Coat  
+- Dark Void  
+- U-turn  
+
+""","""Heracross-Mega @ Choice Scarf  
+Ability: Huge Power  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Close Combat  
+- Diamond Storm  
+- Trick  
+- U-turn  
+
+""","""Heracross-Mega @ Life Orb  
+Ability: Huge Power  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Close Combat  
+- Icicle Crash  
+- Sacred Fire  
+- U-turn  
+
+""","""Heracross-Mega @ Life Orb  
+Ability: Huge Power  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Drain Punch  
+- Poison Jab  
+- Knock Off  
+- Horn Leech  
+
+""","""Heracross-Mega @ Leftovers  
+Ability: Parental Bond  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Power-Up Punch  
+- Iron Head  
+- Horn Leech  
+- Flame Charge  
+
+""","""Heracross-Mega @ Leftovers  
+Ability: Prankster  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Attack Order  
+- Gastro Acid  
+
+""","""Heracross-Mega @ Leftovers  
+Ability: Prankster  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Drain Punch  
+- Dark Void  
+- Substitute  
+- Baton Pass  
+
+""","""Heracross-Mega @ Leftovers  
+Ability: Contrary  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- V-create  
+- Superpower  
+- Horn Leech  
+- Soak  
+
+""","""Hippowdon @ Lum Berry  
+Ability: Mold Breaker  
+Level: 87  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Thousand Arrows  
+- Icicle Crash  
+- Dark Void  
+- Shell Smash  
+
+""","""Hippowdon @ Safety Goggles  
+Ability: Mold Breaker  
+Level: 87  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Thousand Arrows  
+- Play Rough  
+- Spore  
+- Shift Gear  
+
+""","""Hippowdon @ Shed Shell  
+Ability: Wonder Guard  
+Level: 87  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Wish  
+- Magic Coat  
+- Spiky Shield  
+- U-turn  
+
+""","""Hippowdon @ Shed Shell  
+Ability: Wonder Guard  
+Level: 87  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Defog  
+- Stealth Rock  
+- Parting Shot  
+- Whirlwind  
+
+""","""Hippowdon @ Leftovers  
+Ability: Magic Bounce  
+Level: 87  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Parting Shot  
+- Heal Order  
+- Stealth Rock  
+- Whirlwind  
+
+""","""Hippowdon @ Shed Shell  
+Ability: Arena Trap  
+Level: 87  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Perish Song  
+- Encore  
+- Spikes  
+- Slack Off  
+
+""","""Hippowdon @ Leftovers  
+Ability: Prankster  
+Level: 87  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Encore  
+- Dark Void  
+- Baton Pass  
+
+""","""Hippowdon @ Leftovers  
+Ability: Fur Coat  
+Level: 87  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Thousand Waves  
+- Perish Song  
+- Slack Off  
+- Stealth Rock  
+
+""","""Hippowdon @ Assault Vest  
+Ability: Regenerator  
+Level: 87  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD  
+IVs: 0 Spe  
+- Nuzzle  
+- Knock Off  
+- Thousand Waves  
+- U-turn  
+
+""","""Hippowdon @ Choice Scarf  
+Ability: Imposter  
+Level: 87  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Skill Swap  
+- Defog  
+- Extreme Speed  
+- Aromatherapy  
+
+""","""Hitmonchan @ Lum Berry  
+Ability: Mold Breaker  
+Level: 93  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Close Combat  
+- Dragon Ascent  
+- Dark Void  
+- Shell Smash  
+
+""","""Hitmonchan @ Safety Goggles  
+Ability: Mold Breaker  
+Level: 93  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Drain Punch  
+- Shadow Claw  
+- Spore  
+- Shift Gear  
+
+""","""Hitmonchan @ Choice Scarf  
+Ability: Wonder Guard  
+Level: 93  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stealth Rock  
+- Magic Coat  
+- Trick  
+- Parting Shot  
+
+""","""Hitmonchan @ Choice Scarf  
+Ability: Wonder Guard  
+Level: 93  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Defog  
+- Magic Coat  
+- Trick  
+- Parting Shot  
+
+""","""Hitmonchan @ Choice Scarf  
+Ability: No Guard  
+Level: 93  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Sheer Cold  
+- Stealth Rock  
+- Trick  
+- Parting Shot  
+
+""","""Hitmonchan @ Leftovers  
+Ability: No Guard  
+Level: 93  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Dynamic Punch  
+- Sheer Cold  
+- Gastro Acid  
+
+""","""Hitmonchan @ Life Orb  
+Ability: Huge Power  
+Level: 93  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Drain Punch  
+- Sucker Punch  
+- Diamond Storm  
+- Play Rough  
+
+""","""Hitmonchan @ Leftovers  
+Ability: Prankster  
+Level: 93  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Drain Punch  
+- Dark Void  
+- Baton Pass  
+
+""","""Hitmonchan @ Focus Sash  
+Ability: Prankster  
+Level: 93  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Close Combat  
+- Dragon Ascent  
+- V-create  
+- Destiny Bond  
+
+""","""Hitmonchan @ Leftovers  
+Ability: Contrary  
+Level: 93  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- V-create  
+- Superpower  
+- Dragon Ascent  
+- Baton Pass  
+
+""","""Hitmonlee @ Choice Band  
+Ability: Mold Breaker  
+Level: 93  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dragon Ascent  
+- Close Combat  
+- Extreme Speed  
+- U-turn  
+
+""","""Hitmonlee @ Lum Berry  
+Ability: Mold Breaker  
+Level: 93  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Close Combat  
+- Dragon Ascent  
+- Dark Void  
+- Shell Smash  
+
+""","""Hitmonlee @ Choice Scarf  
+Ability: Wonder Guard  
+Level: 93  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stealth Rock  
+- Magic Coat  
+- Parting Shot  
+- Trick  
+
+""","""Hitmonlee @ Choice Scarf  
+Ability: Wonder Guard  
+Level: 93  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Defog  
+- Magic Coat  
+- Parting Shot  
+- Trick  
+
+""","""Hitmonlee @ Choice Scarf  
+Ability: No Guard  
+Level: 93  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Sheer Cold  
+- Stealth Rock  
+- Parting Shot  
+- Trick  
+
+""","""Hitmonlee @ Focus Sash  
+Ability: No Guard  
+Level: 93  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dynamic Punch  
+- Sheer Cold  
+- Gastro Acid  
+- Extreme Speed  
+
+""","""Hitmonlee @ Choice Band  
+Ability: Huge Power  
+Level: 93  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Close Combat  
+- Dragon Ascent  
+- Extreme Speed  
+- U-turn  
+
+""","""Hitmonlee @ Life Orb  
+Ability: Huge Power  
+Level: 93  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Drain Punch  
+- Sucker Punch  
+- Diamond Storm  
+- Thousand Arrows  
+
+""","""Hitmonlee @ Life Orb  
+Ability: Magic Guard  
+Level: 93  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- High Jump Kick  
+- Head Smash  
+- Brave Bird  
+- Toxic  
+
+""","""Hitmonlee @ Leftovers  
+Ability: Prankster  
+Level: 93  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Drain Punch  
+- Dark Void  
+- Baton Pass  
+
+""","""Hitmontop @ Lum Berry  
+Ability: Mold Breaker  
+Level: 93  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Close Combat  
+- Dragon Ascent  
+- Dark Void  
+- Shell Smash  
+
+""","""Hitmontop @ Safety Goggles  
+Ability: Mold Breaker  
+Level: 93  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Drain Punch  
+- Diamond Storm  
+- Spore  
+- Shift Gear  
+
+""","""Hitmontop @ Choice Scarf  
+Ability: Wonder Guard  
+Level: 93  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Defog  
+- Magic Coat  
+- Trick  
+- Parting Shot  
+
+""","""Hitmontop @ Choice Scarf  
+Ability: No Guard  
+Level: 93  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Sheer Cold  
+- Stealth Rock  
+- Trick  
+- Parting Shot  
+
+""","""Hitmontop @ Leftovers  
+Ability: Magic Bounce  
+Level: 93  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stealth Rock  
+- Drain Punch  
+- Diamond Storm  
+- Slack Off  
+
+""","""Hitmontop @ Life Orb  
+Ability: Huge Power  
+Level: 93  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Drain Punch  
+- Sucker Punch  
+- Play Rough  
+- Thousand Arrows  
+
+""","""Hitmontop @ Choice Scarf  
+Ability: Huge Power  
+Level: 93  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Close Combat  
+- Dragon Ascent  
+- Knock Off  
+- U-turn  
+
+""","""Hitmontop @ Life Orb  
+Ability: Magic Guard  
+Level: 93  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- High Jump Kick  
+- Head Smash  
+- Toxic  
+- Slack Off  
+
+""","""Hitmontop @ Assault Vest  
+Ability: Regenerator  
+Level: 93  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Knock Off  
+- Nuzzle  
+- Drain Punch  
+- U-turn  
+
+""","""Hitmontop @ Leftovers  
+Ability: Scrappy  
+Level: 93  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stealth Rock  
+- Close Combat  
+- Rapid Spin  
+- Skill Swap  
+
+""","""Ho-Oh @ Lum Berry  
+Ability: Turboblaze  
+Level: 74  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- V-create  
+- Dragon Ascent  
+- Thousand Arrows  
+- Shell Smash  
+
+""","""Ho-Oh @ Leftovers  
+Ability: Magic Bounce  
+Level: 74  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Whirlwind  
+- Heal Order  
+- Sacred Fire  
+- Defog  
+
+""","""Ho-Oh @ Leftovers  
+Ability: Prankster  
+Level: 74  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Copycat  
+- Sacred Fire  
+- Me First  
+- Gastro Acid  
+
+""","""Ho-Oh @ Toxic Orb  
+Ability: Magic Guard  
+Level: 74  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Psycho Shift  
+- Heal Order  
+- Sacred Fire  
+- Defog  
+
+""","""Ho-Oh @ Toxic Orb  
+Ability: Magic Guard  
+Level: 74  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Flare Blitz  
+- Brave Bird  
+- Psycho Shift  
+- Recover  
+
+""","""Ho-Oh @ Leftovers  
+Ability: Aerilate  
+Level: 74  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Fake Out  
+- Extreme Speed  
+- Boomburst  
+- U-turn  
+
+""","""Ho-Oh @ Leftovers  
+Ability: Contrary  
+Level: 74  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- V-create  
+- Dragon Ascent  
+- Superpower  
+- Baton Pass  
+
+""","""Ho-Oh @ Sitrus Berry  
+Ability: Gale Wings  
+Level: 74  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Acrobatics  
+- Sacred Fire  
+- Coil  
+- Roost  
+
+""","""Ho-Oh @ Life Orb  
+Ability: Gale Wings  
+Level: 74  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Oblivion Wing  
+- Blue Flare  
+- Substitute  
+- Tail Glow  
+
+""","""Ho-Oh @ Leftovers  
+Ability: Fur Coat  
+Level: 74  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Quiver Dance  
+- Mystical Fire  
+- Recover  
+- Thousand Waves  
+
+""","""Honchkrow @ Focus Sash  
+Ability: Mold Breaker  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dragon Ascent  
+- Knock Off  
+- Thousand Arrows  
+- Shell Smash  
+
+""","""Honchkrow @ Lum Berry  
+Ability: Mold Breaker  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dragon Ascent  
+- Knock Off  
+- Dark Void  
+- Shell Smash  
+
+""","""Honchkrow @ Choice Scarf  
+Ability: Huge Power  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dragon Ascent  
+- Thousand Arrows  
+- Knock Off  
+- U-turn  
+
+""","""Honchkrow @ Focus Sash  
+Ability: Prankster  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Copycat  
+- Me First  
+- Dragon Ascent  
+- Destiny Bond  
+
+""","""Honchkrow @ Leftovers  
+Ability: Prankster  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Copycat  
+- Encore  
+- Baton Pass  
+
+""","""Honchkrow @ Sky Plate  
+Ability: Aerilate  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Fake Out  
+- Extreme Speed  
+- Dark Void  
+- U-turn  
+
+""","""Honchkrow @ Choice Band  
+Ability: Gale Wings  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dragon Ascent  
+- Roost  
+- Trick  
+- U-turn  
+
+""","""Honchkrow @ Focus Sash  
+Ability: Magic Guard  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD  
+IVs: 0 Spe  
+- Metal Burst  
+- Sucker Punch  
+- Brave Bird  
+- Pursuit  
+
+""","""Honchkrow @ Focus Sash  
+Ability: Infiltrator  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Extreme Speed  
+- Knock Off  
+- Dragon Ascent  
+- Dark Void  
+
+""","""Honchkrow @ Leftovers  
+Ability: Imposter  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Sucker Punch  
+- Boomburst  
+- Aromatherapy  
+- Skill Swap  
+
+""","""Hoopa @ Spooky Plate  
+Ability: Mold Breaker  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Judgement  
+- Secret Sword  
+- Dark Void  
+- Shell Smash  
+
+""","""Hoopa @ Focus Sash  
+Ability: Mold Breaker  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stored Power  
+- Shadow Ball  
+- Moonblast  
+- Shell Smash  
+
+""","""Hoopa @ Spooky Plate  
+Ability: Wonder Guard  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Shell Smash  
+- Judgment  
+- Aura Sphere  
+- Searing Shot  
+
+""","""Hoopa @ Choice Scarf  
+Ability: Wonder Guard  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Copycat  
+- Magic Coat  
+- Trick  
+- Volt Switch  
+
+""","""Hoopa @ Focus Sash  
+Ability: No Guard  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dynamic Punch  
+- Zap Cannon  
+- Future Sight  
+- Soak  
+
+""","""Hoopa @ Spooky Plate  
+Ability: Prankster  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Me First  
+- Copycat  
+- Judgment  
+- Destiny Bond  
+
+""","""Hoopa @ Leftovers  
+Ability: Gale Wings  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Feather Dance  
+- Chatter  
+- Oblivion Wing  
+- Roost  
+
+""","""Hoopa @ Spooky Plate  
+Ability: Fur Coat  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Future Sight  
+- Judgment  
+- Recover  
+- Whirlwind  
+
+""","""Hoopa @ Leftovers  
+Ability: Parental Bond  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Flame Charge  
+- Moonblast  
+- Shadow Ball  
+- Charge Beam  
+
+""","""Hoopa @ Focus Sash  
+Ability: Infiltrator  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Shadow Ball  
+- Psystrike  
+- Sucker Punch  
+- Dark Void  
+
+""","""Hoopa-Unbound @ Lum Berry  
+Ability: Mold Breaker  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Hyperspace Fury  
+- Stored Power  
+- Dark Void  
+- Shell Smash  
+
+""","""Hoopa-Unbound @ Lum Berry  
+Ability: Mold Breaker  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Hyperspace Fury  
+- Stored Power  
+- Dark Void  
+- Shell Smash  
+
+""","""Hoopa-Unbound @ Leftovers  
+Ability: Wonder Guard  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Sucker Punch  
+- Psychic  
+- Baton Pass  
+
+""","""Hoopa-Unbound @ Insect Plate  
+Ability: Wonder Guard  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Shell Smash  
+- Dark Pulse  
+- Judgment  
+- Thunderbolt  
+
+""","""Hoopa-Unbound @ Focus Sash  
+Ability: Huge Power  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Extreme Speed  
+- Sucker Punch  
+- Trick-or-Treat  
+- Pursuit  
+
+""","""Hoopa-Unbound @ Lum Berry  
+Ability: Huge Power  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Hyperspace Fury  
+- Sacred Fire  
+- Poison Jab  
+- Leaf Blade  
+
+""","""Hoopa-Unbound @ Lum Berry  
+Ability: Huge Power  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Hyperspace Fury  
+- Thousand Arrows  
+- Bolt Strike  
+- Icicle Crash  
+
+""","""Hoopa-Unbound @ Leftovers  
+Ability: Prankster  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Encore  
+- Copycat  
+- Baton Pass  
+
+""","""Hoopa-Unbound @ Focus Sash  
+Ability: Prankster  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Me First  
+- Copycat  
+- Hyperspace Fury  
+- Destiny Bond  
+
+""","""Hoopa-Unbound @ Leftovers  
+Ability: Moody  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- King's Shield  
+- Stored Power  
+- Baton Pass  
+
+""","""Houndoom-Mega @ Safety Goggles  
+Ability: Turboblaze  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Night Daze  
+- Searing Shot  
+- Spore  
+- Tail Glow  
+
+""","""Houndoom-Mega @ Lum Berry  
+Ability: Turboblaze  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dark Pulse  
+- Searing Shot  
+- Dark Void  
+- Shell Smash  
+
+""","""Houndoom-Mega @ Leftovers  
+Ability: No Guard  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Inferno  
+- Zap Cannon  
+- Baton Pass  
+
+""","""Houndoom-Mega @ Leftovers  
+Ability: Shadow Tag  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Perish Song  
+- Encore  
+- Substitute  
+- Spiky Shield  
+
+""","""Houndoom-Mega @ Leftovers  
+Ability: Prankster  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Dark Pulse  
+- Gastro Acid  
+
+""","""Houndoom-Mega @ Life Orb  
+Ability: Magic Guard  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Searing Shot  
+- Light of Ruin  
+- Dark Pulse  
+- Recover  
+
+""","""Houndoom-Mega @ Leftovers  
+Ability: Parental Bond  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dark Pulse  
+- Searing Shot  
+- Seed Flare  
+- Oblivion Wing  
+
+""","""Houndoom-Mega @ Spooky Plate  
+Ability: Protean  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- King's Shield  
+- Boomburst  
+- Judgment  
+- Secret Sword  
+
+""","""Houndoom-Mega @ Sky Plate  
+Ability: Aerilate  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Fake Out  
+- Boomburst  
+- Dark Pulse  
+- Stealth Rock  
+
+""","""Houndoom-Mega @ Pixie Plate  
+Ability: Pixilate  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Fake Out  
+- Boomburst  
+- Dark Pulse  
+- Stealth Rock  
+
+""","""Huntail @ Leftovers  
+Ability: Mold Breaker  
+Level: 91  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Extreme Speed  
+- Water Shuriken  
+- Spore  
+- Belly Drum  
+
+""","""Huntail @ Leftovers  
+Ability: Mold Breaker  
+Level: 91  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD  
+IVs: 0 Spe  
+- Waterfall  
+- Oblivion Wing  
+- Curse  
+- Trick Room  
+
+""","""Huntail @ Shed Shell  
+Ability: Wonder Guard  
+Level: 91  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Magic Coat  
+- Water Shuriken  
+- Extreme Speed  
+- U-turn  
+
+""","""Huntail @ Leftovers  
+Ability: Wonder Guard  
+Level: 91  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Sucker Punch  
+- Water Shuriken  
+- Baton Pass  
+
+""","""Huntail @ Leftovers  
+Ability: Magic Bounce  
+Level: 91  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Quiver Dance  
+- Scald  
+- Oblivion Wing  
+- Baton Pass  
+
+""","""Huntail @ Focus Sash  
+Ability: Huge Power  
+Level: 91  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Water Shuriken  
+- Extreme Speed  
+- Sucker Punch  
+- Rock Blast  
+
+""","""Huntail @ Focus Sash  
+Ability: Prankster  
+Level: 91  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Copycat  
+- Waterfall  
+- Dark Void  
+- Destiny Bond  
+
+""","""Huntail @ Toxic Orb  
+Ability: Poison Heal  
+Level: 91  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Quiver Dance  
+- Scald  
+- Oblivion Wing  
+- Psycho Shift  
+
+""","""Huntail @ Assault Vest  
+Ability: Regenerator  
+Level: 91  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Knock Off  
+- Nuzzle  
+- Waterfall  
+- U-turn  
+
+""","""Huntail @ Focus Sash  
+Ability: Infiltrator  
+Level: 91  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Water Shuriken  
+- Extreme Speed  
+- Sucker Punch  
+- Gastro Acid  
+
+""","""Hydreigon @ Lum Berry  
+Ability: Mold Breaker  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Night Daze  
+- Boomburst  
+- Dark Void  
+- Shell Smash  
+
+""","""Hydreigon @ Pixie Plate  
+Ability: Mold Breaker  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dark Pulse  
+- Judgment  
+- Dark Void  
+- Shell Smash  
+
+""","""Hydreigon @ Leftovers  
+Ability: Mold Breaker  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dark Pulse  
+- Oblivion Wing  
+- Spore  
+- Quiver Dance  
+
+""","""Hydreigon @ Leftovers  
+Ability: Prankster  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Dark Pulse  
+- Gastro Acid  
+
+""","""Hydreigon @ Spooky Plate  
+Ability: Protean  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- King's Shield  
+- Boomburst  
+- Judgment  
+- Secret Sword  
+
+""","""Hydreigon @ Life Orb  
+Ability: Magic Guard  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Will-O-Wisp  
+- Light of Ruin  
+- Night Daze  
+- Roost  
+
+""","""Hydreigon @ Expert Belt  
+Ability: Parental Bond  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Night Daze  
+- Discharge  
+- Earth Power  
+- Oblivion Wing  
+
+""","""Hydreigon @ Sky Plate  
+Ability: Aerilate  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Fake Out  
+- Boomburst  
+- Night Daze  
+- Stealth Rock  
+
+""","""Hydreigon @ Leftovers  
+Ability: Gale Wings  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Chatter  
+- Oblivion Wing  
+- Dark Pulse  
+- Roost  
+
+""","""Hydreigon @ Toxic Orb  
+Ability: Poison Heal  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dark Pulse  
+- Oblivion Wing  
+- Quiver Dance  
+- Psycho Shift  
+
+""","""Hypno @ Leftovers  
+Ability: Mold Breaker  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Quiver Dance  
+- Stored Power  
+- Oblivion Wing  
+- Substitute  
+
+""","""Hypno @ Shed Shell  
+Ability: Wonder Guard  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Magic Coat  
+- Defog  
+- Recover  
+- U-turn  
+
+""","""Hypno @ Leftovers  
+Ability: Wonder Guard  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Wish  
+- King's Shield  
+- Substitute  
+- Baton Pass  
+
+""","""Hypno @ Leftovers  
+Ability: Magic Bounce  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Will-O-Wisp  
+- Heal Bell  
+- Recover  
+- Whirlwind  
+
+""","""Hypno @ Leftovers  
+Ability: Shadow Tag  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Perish Song  
+- Wish  
+- King's Shield  
+- Parting Shot  
+
+""","""Hypno @ Leftovers  
+Ability: Prankster  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Curse  
+- Haze  
+- Recover  
+- Conversion  
+
+""","""Hypno @ Leftovers  
+Ability: Prankster  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Dark Void  
+- Encore  
+- Baton Pass  
+
+""","""Hypno @ Flame Orb  
+Ability: Magic Guard  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Defog  
+- Psycho Shift  
+- Recover  
+- Psychic  
+
+""","""Hypno @ Leftovers  
+Ability: Fur Coat  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Thousand Waves  
+- Perish Song  
+- Haze  
+- Recover  
+
+""","""Hypno @ Leftovers  
+Ability: Moody  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- King's Shield  
+- Stored Power  
+- Baton Pass  
+
 ""","""Illumise @ Leftovers  
 Ability: Mold Breaker  
-Level: 95  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 98  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Bug Buzz  
 - Steam Eruption  
 - Spore  
@@ -16099,8 +17642,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Illumise @ Leftovers  
 Ability: Wonder Guard  
-Level: 95  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 98  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Magic Coat  
 - Defog  
@@ -16108,8 +17651,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Illumise @ Choice Scarf  
 Ability: No Guard  
-Level: 95  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 98  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Sheer Cold  
 - Gastro Acid  
 - Trick  
@@ -16117,8 +17660,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Illumise @ Leftovers  
 Ability: No Guard  
-Level: 95  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 98  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Sheer Cold  
 - Hypnosis  
@@ -16126,8 +17669,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Illumise @ Leftovers  
 Ability: Magic Bounce  
-Level: 95  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 98  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Quiver Dance  
 - Bug Buzz  
 - Scald  
@@ -16135,8 +17678,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Illumise @ Leftovers  
 Ability: Prankster  
-Level: 95  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 98  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Spore  
 - Encore  
@@ -16144,8 +17687,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Illumise @ Leftovers  
 Ability: Prankster  
-Level: 95  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 98  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Spore  
 - Spider Web  
@@ -16153,8 +17696,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Illumise @ Flame Orb  
 Ability: Magic Guard  
-Level: 95  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 98  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Psycho Shift  
 - Roost  
 - Infestation  
@@ -16162,8 +17705,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Illumise @ Leftovers  
 Ability: Gale Wings  
-Level: 95  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 98  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Feather Dance  
 - Chatter  
 - Roost  
@@ -16171,8 +17714,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Illumise @ Leftovers  
 Ability: Fur Coat  
-Level: 95  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 98  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Quiver Dance  
 - Roost  
 - Bug Buzz  
@@ -16451,7 +17994,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Taunt  
 
 ""","""Jolteon @ Wide Lens  
-Ability: Mold Breaker  
+Ability: Teravolt  
 Level: 87  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Thunder  
@@ -16460,7 +18003,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Blizzard  
 
 ""","""Jolteon @ Focus Sash  
-Ability: Mold Breaker  
+Ability: Teravolt  
 Level: 87  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Shell Smash  
@@ -16991,6 +18534,276 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Nuzzle  
 - Return  
 - Knock Off  
+
+""","""Keldeo-Resolute @ Lum Berry  
+Ability: Mold Breaker  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Steam Eruption  
+- Freeze-Dry  
+- Dark Void  
+- Shell Smash  
+
+""","""Keldeo-Resolute @ Lum Berry  
+Ability: Mold Breaker  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Steam Eruption  
+- Bug Buzz  
+- Spore  
+- Shell Smash  
+
+""","""Keldeo-Resolute @ Sky Plate  
+Ability: Mold Breaker  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Scald  
+- Judgment  
+- Recover  
+- Quiver Dance  
+
+""","""Keldeo @ Shed Shell  
+Ability: Wonder Guard  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stealth Rock  
+- Scald  
+- Recover  
+- U-turn  
+
+""","""Keldeo @ Choice Scarf  
+Ability: Wonder Guard  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Magic Coat  
+- Copycat  
+- Trick  
+- U-turn  
+
+""","""Keldeo @ Leftovers  
+Ability: Magic Bounce  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Quiver Dance  
+- Scald  
+- Sludge Bomb  
+- Baton Pass  
+
+""","""Keldeo @ Leftovers  
+Ability: Magic Bounce  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Defog  
+- Magic Coat  
+- Baton Pass  
+
+""","""Keldeo @ Mail  
+Ability: Shadow Tag  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Perish Song  
+- Substitute  
+- Encore  
+- King's Shield  
+
+""","""Keldeo @ Flame Orb  
+Ability: Magic Guard  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Psycho Shift  
+- Steam Eruption  
+- Light of Ruin  
+- Recover  
+
+""","""Keldeo @ Leftovers  
+Ability: Scrappy  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Boomburst  
+- Secret Sword  
+- Quiver Dance  
+- Gastro Acid  
+
+""","""Kingdra @ Draco Plate  
+Ability: Mold Breaker  
+Level: 86  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Judgment  
+- Steam Eruption  
+- Dark Void  
+- Shell Smash  
+
+""","""Kingdra @ White Herb  
+Ability: Mold Breaker  
+Level: 86  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Spacial Rend  
+- Waterfall  
+- Dark Void  
+- Shell Smash  
+
+""","""Kingdra @ Draco Plate  
+Ability: Wonder Guard  
+Level: 86  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Shell Smash  
+- Judgment  
+- Flash Cannon  
+- Secret Sword  
+
+""","""Kingdra @ Lum Berry  
+Ability: Wonder Guard  
+Level: 86  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Magic Coat  
+- Spikes  
+- Steam Eruption  
+- U-turn  
+
+""","""Kingdra @ Leftovers  
+Ability: Prankster  
+Level: 86  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Encore  
+- Baton Pass  
+
+""","""Kingdra @ Flame Orb  
+Ability: Magic Guard  
+Level: 86  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Quiver Dance  
+- Scald  
+- Toxic  
+- Slack Off  
+
+""","""Kingdra @ Leftovers  
+Ability: Parental Bond  
+Level: 86  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Flame Charge  
+- Waterfall  
+- Dragon Breath  
+- Moonblast  
+
+""","""Kingdra @ Toxic Orb  
+Ability: Poison Heal  
+Level: 86  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Oblivion Wing  
+- Scald  
+- Quiver Dance  
+- Psycho Shift  
+
+""","""Kingdra @ Leftovers  
+Ability: Contrary  
+Level: 86  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- V-create  
+- Draco Meteor  
+- Superpower  
+- Leaf Storm  
+
+""","""Kingdra @ Leftovers  
+Ability: Fur Coat  
+Level: 86  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Quiver Dance  
+- Scald  
+- Oblivion Wing  
+- Gastro Acid  
+
+""","""Kingler @ Focus Sash  
+Ability: Mold Breaker  
+Level: 91  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Water Shuriken  
+- Extreme Speed  
+- Spore  
+- Swords Dance  
+
+""","""Kingler @ Lum Berry  
+Ability: Mold Breaker  
+Level: 91  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Water Shuriken  
+- Dragon Ascent  
+- Extreme Speed  
+- Swords Dance  
+
+""","""Kingler @ Choice Scarf  
+Ability: Mold Breaker  
+Level: 91  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Waterfall  
+- Dragon Ascent  
+- Extreme Speed  
+- U-turn  
+
+""","""Kingler @ Leftovers  
+Ability: Wonder Guard  
+Level: 91  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Coil  
+- Crabhammer  
+- Gunk Shot  
+- Baton Pass  
+
+""","""Kingler @ Lum Berry  
+Ability: Wonder Guard  
+Level: 91  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Magic Coat  
+- Water Shuriken  
+- Stealth Rock  
+- U-turn  
+
+""","""Kingler @ Choice Scarf  
+Ability: Huge Power  
+Level: 91  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Waterfall  
+- Dragon Ascent  
+- Extreme Speed  
+- U-turn  
+
+""","""Kingler @ Assault Vest  
+Ability: Huge Power  
+Level: 91  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Water Shuriken  
+- Sucker Punch  
+- Drain Punch  
+- Thousand Arrows  
+
+""","""Kingler @ Focus Sash  
+Ability: Prankster  
+Level: 91  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- V-create  
+- Dragon Ascent  
+- Water Shuriken  
+- Destiny Bond  
+
+""","""Kingler @ Safety Goggles  
+Ability: Prankster  
+Level: 91  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Me First  
+- Copycat  
+- Waterfall  
+- Gastro Acid  
+
+""","""Kingler @ Focus Sash  
+Ability: Infiltrator  
+Level: 91  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Water Shuriken  
+- Extreme Speed  
+- Dragon Ascent  
+- Gastro Acid  
 
 ""","""Kyogre-Primal @ Lum Berry  
 Ability: Mold Breaker  
@@ -18812,7 +20625,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Lugia @ Leftovers  
 Ability: Mold Breaker  
-Level: 75  
+Level: 74  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Quiver Dance  
 - Substitute  
@@ -18821,7 +20634,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Lugia @ Leftovers  
 Ability: Shadow Tag  
-Level: 75  
+Level: 74  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - King's Shield  
 - Roost  
@@ -18830,7 +20643,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Lugia @ Leftovers  
 Ability: Magic Bounce  
-Level: 75  
+Level: 74  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Roost  
@@ -18839,7 +20652,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Lugia @ White Herb  
 Ability: Magic Bounce  
-Level: 75  
+Level: 74  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Shell Smash  
 - Stored Power  
@@ -18848,7 +20661,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Lugia @ Leftovers  
 Ability: Magic Bounce  
-Level: 75  
+Level: 74  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Whirlwind  
 - Shell Smash  
@@ -18857,7 +20670,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Lugia @ Leftovers  
 Ability: Prankster  
-Level: 75  
+Level: 74  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Spore  
@@ -18866,7 +20679,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Lugia @ Leftovers  
 Ability: Prankster  
-Level: 75  
+Level: 74  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Roost  
@@ -18875,7 +20688,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Lugia @ Leftovers  
 Ability: Prankster  
-Level: 75  
+Level: 74  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Spore  
@@ -18884,7 +20697,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Lugia @ Flame Orb  
 Ability: Magic Guard  
-Level: 75  
+Level: 74  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Psycho Shift  
 - Roost  
@@ -18893,7 +20706,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Lugia @ Leftovers  
 Ability: Gale Wings  
-Level: 75  
+Level: 74  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Chatter  
@@ -19072,7 +20885,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Lunatone @ White Herb  
 Ability: Mold Breaker  
-Level: 93  
+Level: 94  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Stored Power  
 - Oblivion Wing  
@@ -19081,7 +20894,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Lunatone @ Leftovers  
 Ability: Mold Breaker  
-Level: 93  
+Level: 94  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Future Sight  
 - Ancient Power  
@@ -19090,7 +20903,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Lunatone @ Leftovers  
 Ability: No Guard  
-Level: 93  
+Level: 94  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Sheer Cold  
 - Zap Cannon  
@@ -19099,7 +20912,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Lunatone @ Leftovers  
 Ability: Prankster  
-Level: 93  
+Level: 94  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Spore  
@@ -19108,7 +20921,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Lunatone @ Flame Orb  
 Ability: Magic Guard  
-Level: 93  
+Level: 94  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Psycho Shift  
 - Light of Ruin  
@@ -19117,7 +20930,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Lunatone @ Leftovers  
 Ability: Parental Bond  
-Level: 93  
+Level: 94  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Ancient Power  
 - Night Daze  
@@ -19126,16 +20939,25 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Lunatone @ Spooky Plate  
 Ability: Protean  
-Level: 93  
+Level: 94  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - King's Shield  
 - Boomburst  
 - Judgment  
 - Aura Sphere  
 
+""","""Lunatone @ Toxic Orb  
+Ability: Poison Heal  
+Level: 94  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Psycho Shift  
+- Quiver Dance  
+- Psystrike  
+- Power Gem  
+
 ""","""Lunatone @ Leftovers  
 Ability: Fur Coat  
-Level: 93  
+Level: 94  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Quiver Dance  
 - Stored Power  
@@ -19144,21 +20966,12 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Lunatone @ Leftovers  
 Ability: Moody  
-Level: 93  
+Level: 94  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Stored Power  
 - King's Shield  
 - Baton Pass  
-
-""","""Lunatone @ Leftovers  
-Ability: Imposter  
-Level: 93  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
-- Whirlwind  
-- Defog  
-- Recover  
-- Final Gambit  
 
 ""","""Luxray @ Safety Goggles  
 Ability: Teravolt  
@@ -19220,7 +21033,7 @@ Level: 87
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Spore  
-- Fusion Bolt  
+- Thunder Punch  
 - Soak  
 
 ""","""Luxray @ Life Orb  
@@ -19793,6 +21606,186 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Dark Void  
 - Gastro Acid  
 
+""","""Manaphy @ Lum Berry  
+Ability: Mold Breaker  
+Level: 81  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
+- Shell Smash
+- Steam Eruption
+- Freeze-Dry
+- Dark Void
+
+""","""Manaphy @ Leftovers
+Ability: Mold Breaker
+Level: 81
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
+- Belly Drum
+- Water Shuriken
+- Extreme Speed
+- Spore
+
+""","""Manaphy @ Shed Shell
+Ability: Wonder Guard
+Level: 81
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
+- Stealth Rock
+- Recover
+- Magic Coat
+- U-turn
+
+""","""Manaphy @ Power Herb
+Ability: Wonder Guard
+Level: 81
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
+- Spore
+- Substitute
+- Geomancy
+- Baton Pass
+
+""","""Manaphy @ Zap Plate
+Ability: Wonder Guard
+Level: 81
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
+- Shell Smash
+- Steam Eruption
+- Sludge Bomb
+- Judgment
+
+""","""Manaphy @ Leftovers
+Ability: Prankster
+Level: 81
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
+- Spore
+- Substitute
+- Encore
+- Baton Pass
+
+""","""Manaphy @ Leftovers
+Ability: Prankster
+Level: 81
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
+- Me First
+- Copycat
+- Scald
+- Gastro Acid
+
+""","""Manaphy @ Flame Orb
+Ability: Magic Guard
+Level: 81
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
+- Psycho Shift
+- Haze
+- Recover
+- Defog
+
+""","""Manaphy @ Toxic Orb
+Ability: Poison Heal
+Level: 81
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
+- Quiver Dance
+- Psycho Shift
+- Recover
+- Baton Pass
+
+""","""Manaphy @ Leftovers
+Ability: Fur Coat
+Level: 81
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
+- Wish
+- Spiky Shield
+- Counter
+- U-turn
+
+""","""Mandibuzz @ Safety Goggles  
+Ability: Mold Breaker  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Shift Gear  
+- Dragon Ascent  
+- Thousand Arrows  
+- Roost  
+
+""","""Mandibuzz @ Leftovers  
+Ability: Magic Bounce  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stealth Rock  
+- Knock Off  
+- Roost  
+- Baton Pass  
+
+""","""Mandibuzz @ Mail  
+Ability: Prankster  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Knock Off  
+- Gastro Acid  
+- Toxic Spikes  
+- Roost  
+
+""","""Mandibuzz @ Safety Goggles  
+Ability: Prankster  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Roost  
+- Haze  
+- Encore  
+- Destiny Bond  
+
+""","""Mandibuzz @ Leftovers  
+Ability: Prankster  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Encore  
+- Roost  
+- Baton Pass  
+
+""","""Mandibuzz @ Toxic Orb  
+Ability: Magic Guard  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Psycho Shift  
+- Roost  
+- Magic Coat  
+- U-turn  
+
+""","""Mandibuzz @ Flame Orb  
+Ability: Magic Guard  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Psycho Shift  
+- Roost  
+- Defog  
+- Stealth Rock  
+
+""","""Mandibuzz @ Safety Goggles  
+Ability: Gale Wings  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Defog  
+- Chatter  
+- Roost  
+- Mirror Move  
+
+""","""Mandibuzz @ Mail  
+Ability: Infiltrator  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Spore  
+- Roost  
+- Topsy-Turvy  
+- Parting Shot  
+
+""","""Mandibuzz @ Toxic Orb  
+Ability: Poison Heal  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Quiver Dance  
+- Night Daze  
+- Oblivion Wing  
+- Baton Pass  
+
 ""","""Manectric-Mega @ Lum Berry  
 Ability: Teravolt  
 Level: 83  
@@ -20147,6 +22140,186 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Roost  
 - Mirror Move  
 
+""","""Mawile @ Lum Berry  
+Ability: Mold Breaker  
+Level: 99  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Gear Grind  
+- Thousand Arrows  
+- Dark Void  
+- Shell Smash  
+
+""","""Mawile @ Safety Goggles  
+Ability: Mold Breaker  
+Level: 99  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Play Rough  
+- Spore  
+- Shift Gear  
+- Recover  
+
+""","""Mawile @ Shed Shell  
+Ability: Wonder Guard  
+Level: 99  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Magic Coat  
+- Stealth Rock  
+- Recover  
+- U-turn  
+
+""","""Mawile @ Shed Shell  
+Ability: Wonder Guard  
+Level: 99  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Magic Coat  
+- Sheer Cold  
+- Baton Pass  
+
+""","""Mawile @ Leftovers  
+Ability: Magic Bounce  
+Level: 99  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Toxic Spikes  
+- Defog  
+- Recover  
+- U-turn  
+
+""","""Mawile @ Toxic Orb  
+Ability: Prankster  
+Level: 99  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Haze  
+- Recover  
+- Switcheroo  
+- Parting Shot  
+
+""","""Mawile @ Leftovers  
+Ability: Parental Bond  
+Level: 99  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Iron Head  
+- Thousand Arrows  
+- Flame Charge  
+- Bolt Strike  
+
+""","""Mawile @ Pixie Plate  
+Ability: Pixilate  
+Level: 99  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Fake Out  
+- Extreme Speed  
+- Slack Off  
+- Stealth Rock  
+
+""","""Mawile @ Assault Vest  
+Ability: Regenerator  
+Level: 99  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Knock Off  
+- Nuzzle  
+- Gear Grind  
+- U-turn  
+
+""","""Mawile @ Leftovers  
+Ability: Speed Boost  
+Level: 99  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Spiky Shield  
+- Substitute  
+- Wish  
+- Baton Pass  
+
+""","""Mawile-Mega @ Leftovers  
+Ability: Mold Breaker  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Play Rough  
+- V-create  
+- Coil  
+- Trick Room  
+
+""","""Mawile-Mega @ Leftovers  
+Ability: Mold Breaker  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Gear Grind  
+- Sacred Fire  
+- Substitute  
+- Shift Gear  
+
+""","""Mawile-Mega @ Mawilite  
+Ability: Wonder Guard  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Recover  
+- Spikes  
+- Magic Coat  
+- U-turn  
+
+""","""Mawile @ Mawilite  
+Ability: Wonder Guard  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Shell Smash  
+- Gear Grind  
+- Thousand Arrows  
+- Play Rough  
+
+""","""Mawile-Mega @ Leftovers  
+Ability: Magic Bounce  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Recover  
+- Magic Coat  
+- Baton Pass  
+
+""","""Mawile-Mega @ Lum Berry  
+Ability: Huge Power  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Gear Grind  
+- Thousand Arrows  
+- Spore  
+- Shell Smash  
+
+""","""Mawile-Mega @ Assault Vest  
+Ability: Huge Power  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Play Rough  
+- Drain Punch  
+- Thousand Arrows  
+- Sacred Fire  
+
+""","""Mawile-Mega @ Safety Goggles  
+Ability: Prankster  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Me First  
+- Copycat  
+- Gastro Acid  
+- Haze  
+
+""","""Mawile-Mega @ Safety Goggles  
+Ability: Fur Coat  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Recover  
+- Toxic Spikes  
+- Magic Coat  
+- Defog  
+
+""","""Mawile-Mega @ Mawilite  
+Ability: Speed Boost  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Spiky Shield  
+- Substitute  
+- Recover  
+- Baton Pass  
+
 ""","""Medicham-Mega @ Medichamite  
 Ability: Mold Breaker  
 Level: 89  
@@ -20237,6 +22410,15 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Close Combat  
 - U-turn  
 
+""","""Meganium @ Leftovers  
+Ability: Mold Breaker  
+Level: 88  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Spore  
+- Stealth Rock  
+- U-turn  
+- Taunt  
+
 ""","""Meganium @ Shed Shell  
 Ability: Wonder Guard  
 Level: 88  
@@ -20317,15 +22499,6 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Leech Seed  
 - Pain Split  
 - Embargo  
-
-""","""Meganium @ Leftovers  
-Ability: Mold Breaker  
-Level: 88  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
-- Spore  
-- Stealth Rock  
-- U-turn  
-- Taunt  
 
 ""","""Meloetta @ Lum Berry  
 Ability: Mold Breaker  
@@ -20780,7 +22953,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Mewtwo @ Lum Berry  
 Ability: Mold Breaker  
-Level: 75  
+Level: 74  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Stored Power  
 - Moonblast  
@@ -20789,7 +22962,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Mewtwo @ Safety Goggles  
 Ability: Mold Breaker  
-Level: 75  
+Level: 74  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Stored Power  
 - Searing Shot  
@@ -20798,7 +22971,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Mewtwo @ White Herb  
 Ability: Mold Breaker  
-Level: 75  
+Level: 74  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Shell Smash  
 - Stored Power  
@@ -20807,7 +22980,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Mewtwo @ Leftovers  
 Ability: Wonder Guard  
-Level: 75  
+Level: 74  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Magic Coat  
 - Substitute  
@@ -20816,7 +22989,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Mewtwo @ White Herb  
 Ability: Wonder Guard  
-Level: 75  
+Level: 74  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Shell Smash  
 - Stored Power  
@@ -20825,7 +22998,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Mewtwo @ Mail  
 Ability: Shadow Tag  
-Level: 75  
+Level: 74  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Encore  
 - Perish Song  
@@ -20834,7 +23007,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Mewtwo @ Flame Orb  
 Ability: Magic Guard  
-Level: 75  
+Level: 74  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Light of Ruin
 - Psystrike
@@ -20843,7 +23016,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Mewtwo @ Safety Goggles  
 Ability: Parental Bond  
-Level: 75  
+Level: 74  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Psychic  
 - Searing Shot  
@@ -20852,7 +23025,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Mewtwo @ Spooky Plate  
 Ability: Protean  
-Level: 75  
+Level: 74  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - King's Shield  
 - Boomburst  
@@ -20861,7 +23034,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Mewtwo @ Ring Target   
 Ability: Bad Dreams  
-Level: 75  
+Level: 74  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Psystrike  
 - Trick  
@@ -21408,6 +23581,96 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Skill Swap  
 - Parting Shot  
 
+""","""Muk @ Focus Sash  
+Ability: Mold Breaker  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Poison Jab  
+- Thousand Arrows  
+- Dark Void  
+- Shell Smash  
+
+""","""Muk @ Black Sludge  
+Ability: Mold Breaker  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Gunk Shot  
+- Waterfall  
+- Coil  
+- Trick Room  
+
+""","""Muk @ Shed Shell  
+Ability: Wonder Guard  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Magic Coat  
+- Slack Off  
+- Baton Pass  
+
+""","""Muk @ Assault Vest  
+Ability: Huge Power  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Poison Jab  
+- Thousand Arrows  
+- Horn Leech  
+- Knock Off  
+
+""","""Muk @ Black Sludge  
+Ability: Prankster  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Encore  
+- Minimize  
+- Baton Pass  
+
+""","""Muk @ Expert Belt  
+Ability: Protean  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Extreme Speed  
+- Shadow Sneak  
+- Thousand Arrows  
+- Bolt Strike  
+
+""","""Muk @ Mail  
+Ability: Scrappy  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Spikes  
+- Rapid Spin  
+- Slack Off  
+- Skill Swap  
+
+""","""Muk @ Shed Shell  
+Ability: Fur Coat  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Wish  
+- Spiky Shield  
+- Poison Jab  
+- Parting Shot  
+
+""","""Muk @ Rocky Helmet  
+Ability: Sturdy  
+Level: 2  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Endeavor  
+- Leech Seed  
+- Pain Split  
+- Toxic  
+
+""","""Muk @ Black Sludge  
+Ability: Imposter  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Slack Off  
+- Whirlwind  
+- Poison Jab  
+- Defog  
+
 ""","""Mothim @ Focus Sash  
 Ability: Mold Breaker  
 Level: 96  
@@ -21516,7 +23779,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Dark Void  
 - Shell Smash  
 
-""","""Nidoking @ Leftovers  
+""","""Nidoking @ Black Sludge  
 Ability: Mold Breaker  
 Level: 89  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
@@ -21525,7 +23788,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Coil  
 - Slack Off  
 
-""","""Nidoking @ Leftovers  
+""","""Nidoking @ Black Sludge  
 Ability: No Guard  
 Level: 89  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
@@ -21552,7 +23815,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Boomburst  
 - Thousand Arrows  
 
-""","""Nidoking @ Leftovers  
+""","""Nidoking @ Black Sludge  
 Ability: Parental Bond  
 Level: 89  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
@@ -21579,7 +23842,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Boomburst  
 - Thousand Arrows  
 
-""","""Nidoking @ Leftovers  
+""","""Nidoking @ Black Sludge  
 Ability: Fur Coat  
 Level: 89  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
@@ -21606,7 +23869,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Spore  
 - Shell Smash  
 
-""","""Nidoqueen @ Leftovers  
+""","""Nidoqueen @ Black Sludge  
 Ability: Wonder Guard  
 Level: 89  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
@@ -21615,7 +23878,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Magic Coat  
 - Parting Shot  
 
-""","""Nidoqueen @ Leftovers  
+""","""Nidoqueen @ Black Sludge  
 Ability: No Guard  
 Level: 89  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
@@ -21633,7 +23896,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Slack Off  
 - Baton Pass  
 
-""","""Nidoqueen @ Leftovers  
+""","""Nidoqueen @ Black Sludge  
 Ability: Prankster  
 Level: 89  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
@@ -21660,16 +23923,16 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Slack Off  
 - Toxic Spikes  
 
-""","""Nidoqueen @ Leftovers  
+""","""Nidoqueen @ Black Sludge  
 Ability: Parental Bond  
 Level: 89  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Poison Fang  
 - Sacred Fire  
 - Diamond Storm  
-- Drain Punch  
+- Flying Press  
 
-""","""Nidoqueen @ Leftovers  
+""","""Nidoqueen @ Black Sludge  
 Ability: Fur Coat  
 Level: 89  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
@@ -21860,8 +24123,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Noctowl @ Spooky Plate  
 Ability: Mold Breaker  
-Level: 93  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 94  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Boomburst  
 - Judgment  
 - Dark Void  
@@ -21869,8 +24132,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Noctowl @ Leftovers  
 Ability: No Guard  
-Level: 93  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 94  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Sheer Cold  
 - Zap Cannon  
 - Hypnosis  
@@ -21878,8 +24141,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Noctowl @ Leftovers  
 Ability: Magic Bounce  
-Level: 93  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 94  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Will-O-Wisp  
 - Defog  
 - Boomburst  
@@ -21887,8 +24150,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Noctowl @ Mail  
 Ability: Shadow Tag  
-Level: 93  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 94  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Perish Song  
 - Encore  
 - Roost  
@@ -21896,8 +24159,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Noctowl @ Leftovers  
 Ability: Prankster  
-Level: 93  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 94  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Spore  
 - Oblivion Wing  
@@ -21905,8 +24168,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Noctowl @ Leftovers  
 Ability: Prankster  
-Level: 93  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 94  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Curse  
 - Roost  
 - Destiny Bond  
@@ -21914,8 +24177,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Noctowl @ Spooky Plate  
 Ability: Protean  
-Level: 93  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 94  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - King's Shield  
 - Boomburst  
 - Judgment  
@@ -21923,8 +24186,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Noctowl @ Leftovers  
 Ability: Gale Wings  
-Level: 93  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 94  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Feather Dance  
 - Defog  
 - Chatter  
@@ -21932,8 +24195,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Noctowl @ Leftovers  
 Ability: Scrappy  
-Level: 93  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 94  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Stealth Rock  
 - Boomburst  
 - Rapid Spin  
@@ -21941,12 +24204,12 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Noctowl @ Choice Scarf  
 Ability: Imposter  
-Level: 93  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 94  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Skill Swap  
 - Boomburst  
-- Trick  
-- Healing Wish  
+- Lunar Dance  
+- Aromatherapy  
 
 ""","""Noivern @ Leftovers  
 Ability: Mold Breaker  
@@ -22091,7 +24354,7 @@ Level: 91
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Water Shuriken  
 - Extreme Speed  
-- Drain Punch  
+- Flying Press  
 - Diamond Storm  
 
 ""","""Octillery @ Leftovers  
@@ -22313,7 +24576,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Palkia @ Wide Lens  
 Ability: Mold Breaker  
-Level: 75  
+Level: 74  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Steam Eruption  
 - Spacial Rend  
@@ -22322,7 +24585,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Palkia @ Draco Plate  
 Ability: Mold Breaker  
-Level: 75  
+Level: 74  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Judgment  
 - Steam Eruption  
@@ -22331,7 +24594,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Palkia @ Safety Goggles  
 Ability: Mold Breaker  
-Level: 75  
+Level: 74  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Dragon Pulse  
 - Surf  
@@ -22340,7 +24603,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Palkia @ Pixie Plate  
 Ability: Wonder Guard  
-Level: 75  
+Level: 74  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Shell Smash  
 - Judgment  
@@ -22349,7 +24612,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Palkia @ Lum Berry  
 Ability: Wonder Guard  
-Level: 75  
+Level: 74  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Imprison  
 - Freeze-Dry  
@@ -22358,7 +24621,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Palkia @ Shed Shell  
 Ability: Wonder Guard  
-Level: 75  
+Level: 74  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Magic Coat  
 - Steam Eruption  
@@ -22367,16 +24630,16 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Palkia @ Leftovers  
 Ability: No Guard  
-Level: 75  
+Level: 74  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Zap Cannon  
-- Dynamax Cannon  
+- Dynamic Punch  
 - Soak  
 
 ""","""Palkia @ Leftovers  
 Ability: Prankster  
-Level: 75  
+Level: 74  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Copycat  
@@ -22385,7 +24648,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Palkia @ Leftovers  
 Ability: Parental Bond  
-Level: 75  
+Level: 74  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Steam Eruption  
 - Moonblast  
@@ -22394,7 +24657,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Palkia @ Spooky Plate  
 Ability: Protean  
-Level: 75  
+Level: 74  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - King's Shield  
 - Boomburst  
@@ -22587,7 +24850,7 @@ IVs: 0 Spe
 
 ""","""Pelipper @ Leftovers  
 Ability: Mold Breaker  
-Level: 90  
+Level: 95  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Scald  
 - Oblivion Wing  
@@ -22596,7 +24859,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Pelipper @ Power Herb  
 Ability: Mold Breaker  
-Level: 90  
+Level: 95  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Stored Power  
 - Oblivion Wing  
@@ -22605,7 +24868,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Pelipper @ Lum Berry  
 Ability: Wonder Guard  
-Level: 90  
+Level: 95  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Quiver Dance  
 - Oblivion Wing  
@@ -22614,7 +24877,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Pelipper @ Shed Shell  
 Ability: Wonder Guard  
-Level: 90  
+Level: 95  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Magic Coat  
 - Spikes  
@@ -22622,8 +24885,17 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Whirlwind  
 
 ""","""Pelipper @ Leftovers  
+Ability: No Guard  
+Level: 95  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Sheer Cold  
+- Gastro Acid  
+- Hypnosis  
+
+""","""Pelipper @ Leftovers  
 Ability: Magic Bounce  
-Level: 90  
+Level: 95  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Quiver Dance  
 - Steam Eruption  
@@ -22632,25 +24904,16 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Pelipper @ Leftovers  
 Ability: Prankster  
-Level: 90  
+Level: 95  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Spore  
 - Oblivion Wing  
 - Gastro Acid  
 
-""","""Pelipper @ Flame Orb  
-Ability: Magic Guard  
-Level: 90  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
-- Quiver Dance  
-- Psycho Shift  
-- Mystical Fire  
-- Roost  
-
 ""","""Pelipper @ Leftovers  
 Ability: Gale Wings  
-Level: 90  
+Level: 95  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Chatter  
 - Oblivion Wing  
@@ -22659,7 +24922,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Pelipper @ Toxic Orb  
 Ability: Poison Heal  
-Level: 90  
+Level: 95  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Oblivion Wing  
 - Scald  
@@ -22668,7 +24931,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Pelipper @ Leftovers  
 Ability: Drizzle  
-Level: 90  
+Level: 95  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Stealth Rock  
 - Hurricane  
@@ -24209,9 +26472,9 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Slack Off  
 - Whirlwind  
 
-""","""Qwilfish @ Leftovers  
+""","""Qwilfish @ Black Sludge  
 Ability: Mold Breaker  
-Level: 94  
+Level: 95  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Water Shuriken  
 - Extreme Speed  
@@ -24220,7 +26483,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Qwilfish @ Lum Berry  
 Ability: Mold Breaker  
-Level: 94  
+Level: 95  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Waterfall  
 - Poison Jab  
@@ -24229,16 +26492,16 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Qwilfish @ Lum Berry  
 Ability: Wonder Guard  
-Level: 94  
+Level: 95  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Magic Coat  
 - Taunt  
 - Toxic Spikes  
 - U-turn  
 
-""","""Qwilfish @ Leftovers  
+""","""Qwilfish @ Black Sludge  
 Ability: Wonder Guard  
-Level: 94  
+Level: 95  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Magic Coat  
 - Scald  
@@ -24247,25 +26510,25 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Qwilfish @ Choice Scarf  
 Ability: No Guard  
-Level: 94  
+Level: 95  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Sheer Cold  
 - Gastro Acid  
 - Trick  
 - U-turn  
 
-""","""Qwilfish @ Leftovers  
+""","""Qwilfish @ Black Sludge  
 Ability: No Guard  
-Level: 94  
+Level: 95  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Sheer Cold  
 - Gunk Shot  
 - Dynamic Punch  
 - Gastro Acid  
 
-""","""Qwilfish @ Leftovers  
+""","""Qwilfish @ Black Sludge  
 Ability: Magic Bounce  
-Level: 94  
+Level: 95  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Quiver Dance  
 - Will-O-Wisp  
@@ -24274,7 +26537,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Qwilfish @ Assault Vest  
 Ability: Huge Power  
-Level: 94  
+Level: 95  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Poison Jab  
 - Water Shuriken  
@@ -24283,16 +26546,16 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Qwilfish @ Flame Orb  
 Ability: Magic Guard  
-Level: 94  
+Level: 95  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Quiver Dance  
 - Scald  
 - Toxic  
 - Slack Off  
 
-""","""Qwilfish @ Leftovers  
+""","""Qwilfish @ Black Sludge  
 Ability: Drizzle  
-Level: 94  
+Level: 95  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Toxic Spikes  
 - Poison Jab  
@@ -25004,7 +27267,7 @@ Level: 75
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Sacred Fire  
 - Diamond Storm  
-- Drain Punch  
+- Flying Press  
 - Poison Jab  
 
 ""","""Regigigas @ Toxic Orb  
@@ -25021,7 +27284,7 @@ Ability: Scrappy
 Level: 75  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Extreme Speed  
-- High Jump Kick  
+- Close Combat  
 - Diamond Storm  
 - Stealth Rock  
 
@@ -25290,7 +27553,6 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 Ability: Imposter  
 Level: 91  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
-IVs: 0 Atk  
 - Defog  
 - Skill Swap  
 - Lunar Dance  
@@ -25298,8 +27560,8 @@ IVs: 0 Atk
 
 ""","""Reshiram @ Safety Goggles  
 Ability: Turboblaze  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Dragon Pulse  
 - Searing Shot  
 - Spore  
@@ -25307,8 +27569,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Reshiram @ Draco Plate  
 Ability: Turboblaze  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Quiver Dance  
 - Judgment  
 - Searing Shot  
@@ -25316,8 +27578,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Reshiram @ White Herb  
 Ability: Turboblaze  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Shell Smash  
 - Dragon Pulse  
 - Searing Shot  
@@ -25325,8 +27587,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Reshiram @ Shed Shell  
 Ability: Wonder Guard  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Magic Coat  
 - Searing Shot  
 - Roost  
@@ -25334,8 +27596,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Reshiram @ White Herb  
 Ability: Wonder Guard  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Shell Smash  
 - Dragon Pulse  
 - Searing Shot  
@@ -25343,8 +27605,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Reshiram @ White Herb  
 Ability: Magic Bounce  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Shell Smash  
 - Dragon Pulse  
 - Fiery Dance  
@@ -25352,8 +27614,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Reshiram @ Leftovers  
 Ability: Contrary  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - V-create  
 - Draco Meteor  
 - Substitute  
@@ -25361,8 +27623,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Reshiram @ Leftovers  
 Ability: Contrary  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - V-create  
 - Draco Meteor  
 - Substitute  
@@ -25370,8 +27632,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Reshiram @ Safety Goggles  
 Ability: Parental Bond  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Searing Shot  
 - Dragon Pulse  
 - Sludge Bomb  
@@ -25379,8 +27641,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Reshiram @ Toxic Orb  
 Ability: Magic Guard  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Defog  
 - Psycho Shift  
 - Searing Shot  
@@ -25620,7 +27882,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Diamond Storm  
 - Thousand Arrows  
 - Horn Leech  
-- Drill Peck  
+- Flying Press  
 
 ""","""Rhyperior @ Assault Vest  
 Ability: Huge Power  
@@ -26290,7 +28552,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Sableye @ Lum Berry  
 Ability: Mold Breaker  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 99  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Crunch  
 - Play Rough  
 - Dark Void  
@@ -26298,7 +28561,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Sableye @ Leftovers  
 Ability: Mold Breaker  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 99  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Shift Gear  
 - Crunch  
 - Play Rough  
@@ -26306,15 +28570,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Sableye @ Leftovers  
 Ability: Wonder Guard  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
-- Magic Coat  
-- Substitute  
-- Sheer Cold  
-- Baton Pass  
-
-""","""Sableye @ Leftovers  
-Ability: Wonder Guard  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 99  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Curse  
 - Slack Off  
@@ -26322,7 +28579,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Sableye @ Leftovers  
 Ability: Wonder Guard  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 99  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Magic Coat  
 - Heal Bell  
 - Slack Off  
@@ -26347,8 +28605,19 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Pain Split  
 
 ""","""Sableye @ Leftovers  
+Ability: No Guard  
+Level: 99  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD  
+IVs: 0 Spe  
+- Sheer Cold  
+- Gastro Acid  
+- Sing  
+- Trick Room  
+
+""","""Sableye @ Leftovers  
 Ability: Prankster  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 99  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Curse  
 - Spore  
@@ -26356,20 +28625,21 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Sableye @ Leftovers  
 Ability: Prankster  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 99  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Encore  
 - Destiny Bond  
 - Baton Pass  
 
-""","""Sableye @ Leftovers  
-Ability: No Guard  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD 
-IVs: 0 Spe
-- Sheer Cold  
-- Gastro Acid  
-- Sing  
-- Trick Room 
+""","""Sableye @ Assault Vest  
+Ability: Regenerator  
+Level: 99  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Knock Off  
+- Nuzzle  
+- Chatter  
+- U-turn  
 
 ""","""Sableye-Mega @ Leftovers  
 Ability: Mold Breaker  
@@ -26549,7 +28819,368 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Substitute  
 - Encore  
 - Copycat  
+- Baton Pass
+
+""","""Samurott @ Leftovers  
+Ability: Mold Breaker  
+Level: 87  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Scald  
+- Oblivion Wing  
+- Dark Void  
+- Quiver Dance  
+
+""","""Samurott @ Safety Goggles  
+Ability: Mold Breaker  
+Level: 87  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Steam Eruption  
+- Freeze-Dry  
+- Spore  
+- Shell Smash  
+
+""","""Samurott @ White Herb  
+Ability: Wonder Guard  
+Level: 87  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Shell Smash  
+- Scald  
+- Oblivion Wing  
 - Baton Pass  
+
+""","""Samurott @ Lum Berry  
+Ability: Wonder Guard  
+Level: 87  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Magic Coat  
+- Scald  
+- Spikes  
+- Recover  
+
+""","""Samurott @ Leftovers  
+Ability: Huge Power  
+Level: 87  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Extreme Speed  
+- Water Shuriken  
+- Play Rough  
+- Drain Punch  
+
+""","""Samurott @ Leftovers  
+Ability: Magic Bounce  
+Level: 87  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Scald  
+- Freeze-Dry  
+- Slack Off  
+- Whirlwind  
+
+""","""Samurott @ Leftovers  
+Ability: Prankster  
+Level: 87  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Encore  
+- Copycat  
+- Baton Pass  
+
+""","""Samurott @ Leftovers  
+Ability: Parental Bond  
+Level: 87  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Flame Charge  
+- Power-Up Punch  
+- Waterfall  
+- Diamond Storm  
+
+""","""Samurott @ Sky Plate  
+Ability: Aerilate  
+Level: 87  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Fake Out  
+- Extreme Evoboost  
+- Boomburst  
+- Steam Eruption  
+
+""","""Samurott @ Choice Scarf  
+Ability: Imposter  
+Level: 87  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Defog  
+- Skill Swap  
+- Whirlwind  
+- Lunar Dance  
+
+""","""Sandslash @ Lum Berry  
+Ability: Mold Breaker  
+Level: 94  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Thousand Arrows  
+- Diamond Storm  
+- Dark Void  
+- Shell Smash  
+
+""","""Sandslash @ Safety Goggles  
+Ability: Mold Breaker  
+Level: 94  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Thousand Arrows  
+- Icicle Spear  
+- Spore  
+- Shift Gear  
+
+""","""Sandslash @ Focus Sash  
+Ability: No Guard  
+Level: 94  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Shift Gear  
+- Dynamic Punch  
+- Sheer Cold  
+- Gastro Acid  
+
+""","""Sandslash @ Assault Vest  
+Ability: Magic Bounce  
+Level: 94  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Thousand Arrows  
+- Drain Punch  
+- Diamond Storm  
+- U-turn  
+
+""","""Sandslash @ Assault Vest  
+Ability: Huge Power  
+Level: 94  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Thousand Arrows  
+- Sacred Fire  
+- Icicle Spear  
+- Drain Punch  
+
+""","""Sandslash @ Safety Goggles  
+Ability: Prankster  
+Level: 94  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Me First  
+- Copycat  
+- Thousand Arrows  
+- Spore  
+
+""","""Sandslash @ Shed Shell  
+Ability: Arena Trap  
+Level: 94  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Perish Song  
+- Encore  
+- Slack Off  
+- Spiky Shield  
+
+""","""Sandslash @ Leftovers  
+Ability: Parental Bond  
+Level: 94  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Thousand Arrows  
+- Play Rough  
+- Diamond Storm  
+- Horn Leech  
+
+""","""Sandslash @ Leftovers  
+Ability: Fur Coat  
+Level: 94  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Thousand Waves  
+- Perish Song  
+- Slack Off  
+- Haze  
+
+""","""Sandslash @ Smooth Rock  
+Ability: Sand Stream  
+Level: 94  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stealth Rock  
+- Thousand Arrows  
+- Slack Off  
+- Skill Swap  
+
+""","""Sawk @ Lum Berry  
+Ability: Mold Breaker  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Drain Punch  
+- Shadow Claw  
+- Dark Void  
+- Shift Gear  
+
+""","""Sawk @ Safety Goggles  
+Ability: Mold Breaker  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Drain Punch  
+- Diamond Storm  
+- Spore  
+- Shift Gear  
+
+""","""Sawk @ Leftovers  
+Ability: Wonder Guard  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Focus Punch  
+- Diamond Storm  
+- Baton Pass  
+
+""","""Sawk @ Leftovers  
+Ability: No Guard  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dynamic Punch  
+- Sheer Cold  
+- Hypnosis  
+- Gastro Acid  
+
+""","""Sawk @ Life Orb  
+Ability: Huge Power  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Drain Punch  
+- Knock Off  
+- Diamond Storm  
+- Play Rough  
+
+""","""Sawk @ Life Orb  
+Ability: Magic Guard  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- High Jump Kick  
+- Head Smash  
+- Brave Bird  
+- Toxic  
+
+""","""Sawk @ Leftovers  
+Ability: Protean  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Extreme Speed  
+- Shadow Sneak  
+- Thousand Arrows  
+- Diamond Storm  
+
+""","""Sawk @ Leftovers  
+Ability: Contrary  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- V-create  
+- Superpower  
+- Drain Punch  
+- Gastro Acid  
+
+""","""Sawk @ Leftovers  
+Ability: Scrappy  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Extreme Speed  
+- Mach Punch  
+- Toxic  
+- Belly Drum  
+
+""","""Sawk @ Focus Sash  
+Ability: Infiltrator  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Close Combat  
+- Extreme Speed  
+- Dark Void  
+- U-turn  
+
+""","""Sawsbuck @ Life Orb  
+Ability: Mold Breaker  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Horn Leech  
+- Knock Off  
+- Spore  
+- Shift Gear  
+
+""","""Sawsbuck @ Lum Berry  
+Ability: Mold Breaker  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Horn Leech  
+- Extreme Speed  
+- Spore  
+- Swords Dance  
+
+""","""Sawsbuck @ Leftovers  
+Ability: Mold Breaker  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Extreme Speed  
+- Shadow Sneak  
+- Spore  
+- Belly Drum  
+
+""","""Sawsbuck @ Leftovers  
+Ability: No Guard  
+Level: 91  
+Happiness: 0  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Dynamic Punch  
+- Frustration  
+- Leech Seed  
+
+""","""Sawsbuck @ Choice Band  
+Ability: Huge Power  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Leaf Blade  
+- Iron Head  
+- Thousand Arrows  
+- U-turn  
+
+""","""Sawsbuck @ Life Orb  
+Ability: Huge Power  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Extreme Speed  
+- Horn Leech  
+- Drain Punch  
+- Iron Head  
+
+""","""Sawsbuck @ Leftovers  
+Ability: Prankster  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Horn Leech  
+- Soak  
+
+""","""Sawsbuck @ Focus Sash  
+Ability: Scrappy  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stealth Rock  
+- Extreme Speed  
+- Rapid Spin  
+- Spore  
+
+""","""Sawsbuck @ Leftovers  
+Ability: Contrary  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- V-create  
+- Superpower  
+- Horn Leech  
+- Soak  
+
+""","""Sawsbuck @ Focus Sash  
+Ability: Infiltrator  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Spore  
+- Extreme Speed  
+- Dragon Ascent  
+- Leaf Blade  
 
 ""","""Sceptile @ White Herb  
 Ability: Mold Breaker  
@@ -26821,6 +29452,366 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Attack Order  
 - Gastro Acid  
 
+""","""Scolipede @ Lum Berry  
+Ability: Mold Breaker  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Poison Jab  
+- Thousand Arrows  
+- Spore  
+- Shift Gear  
+
+""","""Scolipede @ Safety Goggles  
+Ability: Mold Breaker  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Gunk Shot  
+- Crabhammer  
+- Spore  
+- Coil  
+
+""","""Scolipede @ Black Sludge  
+Ability: Wonder Guard  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Toxic Spikes  
+- Taunt  
+- Baton Pass  
+
+""","""Scolipede @ Lum Berry  
+Ability: Wonder Guard  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Magic Coat  
+- Toxic  
+- Stealth Rock  
+- U-turn  
+
+""","""Scolipede @ Black Sludge  
+Ability: No Guard  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Gunk Shot  
+- Dynamic Punch  
+- Precipice Blades  
+- Gastro Acid  
+
+""","""Scolipede @ Life Orb  
+Ability: Huge Power  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Poison Jab  
+- Close Combat  
+- Play Rough  
+- Thousand Arrows  
+
+""","""Scolipede @ Shed Shell  
+Ability: Arena Trap  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Perish Song  
+- Encore  
+- Toxic Spikes  
+- Slack Off  
+
+""","""Scolipede @ Black Sludge  
+Ability: Parental Bond  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Waterfall  
+- Poison Jab  
+- Crunch  
+- Super Fang  
+
+""","""Scolipede @ Black Sludge  
+Ability: Fur Coat  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Thousand Waves  
+- Perish Song  
+- Slack Off  
+- Haze  
+
+""","""Scolipede @ Black Sludge  
+Ability: Speed Boost  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- King's Shield  
+- Substitute  
+- Megahorn  
+- Baton Pass  
+
+""","""Scrafty @ Safety Goggles  
+Ability: Mold Breaker  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Drain Punch  
+- Knock Off  
+- Spore  
+- Shift Gear  
+
+""","""Scrafty @ Lum Berry  
+Ability: Mold Breaker  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Close Combat  
+- Knock Off  
+- Extreme Speed  
+- Shell Smash  
+
+""","""Scrafty @ Leftovers  
+Ability: No Guard  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Dynamic Punch  
+- Hypnosis  
+- Baton Pass  
+
+""","""Scrafty @ Leftovers  
+Ability: Magic Bounce  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Knock Off  
+- Drain Punch  
+- Baton Pass  
+
+""","""Scrafty @ Life Orb  
+Ability: Huge Power  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Drain Punch  
+- Knock Off  
+- Diamond Storm  
+- Water Shuriken  
+
+""","""Scrafty @ Leftovers  
+Ability: Huge Power  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Trick-or-Treat  
+- Sucker Punch  
+- Pursuit  
+- Knock Off  
+
+""","""Scrafty @ Leftovers  
+Ability: Prankster  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Crunch  
+- Gastro Acid  
+
+""","""Scrafty @ Toxic Orb  
+Ability: Magic Guard  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Psycho Shift  
+- Slack Off  
+- Brave Bird  
+- High Jump Kick  
+
+""","""Scrafty @ Leftovers  
+Ability: Contrary  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- V-create  
+- Superpower  
+- Drain Punch  
+- Gastro Acid  
+
+""","""Scrafty @ Toxic Orb  
+Ability: Poison Heal  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Drain Punch  
+- Knock Off  
+- Trick-or-Treat  
+- Shift Gear  
+
+""","""Scyther @ Lum Berry  
+Ability: Mold Breaker  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Drill Peck  
+- Thousand Arrows  
+- Spore  
+- Shell Smash  
+
+""","""Scyther @ Eviolite  
+Ability: Mold Breaker  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Drill Peck  
+- Drain Punch  
+- Spore  
+- Shift Gear  
+
+""","""Scyther @ Choice Band  
+Ability: Mold Breaker  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dragon Ascent  
+- Thousand Arrows  
+- Fusion Bolt  
+- U-turn  
+
+""","""Scyther @ Eviolite  
+Ability: Magic Bounce  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Drill Peck  
+- Will-O-Wisp  
+- Roost  
+- Whirlwind  
+
+""","""Scyther @ Eviolite  
+Ability: Shadow Tag  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Perish Song  
+- Encore  
+- Spikes  
+- Roost  
+
+""","""Scyther @ Choice Band  
+Ability: Huge Power  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dragon Ascent  
+- Thousand Arrows  
+- Fusion Bolt  
+- U-turn  
+
+""","""Scyther @ Eviolite  
+Ability: Huge Power  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Drill Peck  
+- Drain Punch  
+- Attack Order  
+- Diamond Storm  
+
+""","""Scyther @ Eviolite  
+Ability: Magic Guard  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Brave Bird  
+- High Jump Kick  
+- Toxic  
+- Roost  
+
+""","""Scyther @ Sky Plate  
+Ability: Aerilate  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Fake Out  
+- Extreme Speed  
+- Thousand Arrows  
+- Stealth Rock  
+
+""","""Scyther @ Eviolite  
+Ability: Contrary  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dragon Ascent  
+- Superpower  
+- Horn Leech  
+- Soak  
+
+""","""Seaking @ Lum Berry  
+Ability: Mold Breaker  
+Level: 94  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Waterfall  
+- Drill Peck  
+- Dark Void  
+- Shell Smash  
+
+""","""Seaking @ Leftovers  
+Ability: Mold Breaker  
+Level: 94  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Water Shuriken  
+- Extreme Speed  
+- Spore  
+- Shell Smash  
+
+""","""Seaking @ Safety Goggles  
+Ability: Mold Breaker  
+Level: 94  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Waterfall  
+- Poison Jab  
+- Spore  
+- Shift Gear  
+
+""","""Seaking @ Leftovers  
+Ability: Wonder Guard  
+Level: 94  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Magic Coat  
+- Taunt  
+- Spikes  
+- U-turn  
+
+""","""Seaking @ White Herb  
+Ability: Wonder Guard  
+Level: 94  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Shell Smash  
+- Waterfall  
+- Oblivion Wing  
+- Baton Pass  
+
+""","""Seaking @ Leftovers  
+Ability: No Guard  
+Level: 94  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Hypnosis  
+- Sheer Cold  
+- Gastro Acid  
+
+""","""Seaking @ Lum Berry  
+Ability: Huge Power  
+Level: 94  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Water Shuriken  
+- Extreme Speed  
+- Sucker Punch  
+- Poison Jab  
+
+""","""Seaking @ Leftovers  
+Ability: Parental Bond  
+Level: 94  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Waterfall  
+- Poison Jab  
+- Horn Leech  
+- Soak  
+
+""","""Seaking @ Toxic Orb  
+Ability: Poison Heal  
+Level: 94  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Gunk Shot  
+- Crabhammer  
+- Coil  
+- Psycho Shift  
+
+""","""Seaking @ Leftovers  
+Ability: Fur Coat  
+Level: 94  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Thousand Waves  
+- Perish Song  
+- Slack Off  
+- Haze  
+
 ""","""Seismitoad @ Lum Berry  
 Ability: Mold Breaker  
 Level: 89  
@@ -26910,6 +29901,457 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Thousand Arrows  
 - U-turn  
 - Whirlwind  
+
+""","""Serperior @ White Herb  
+Ability: Mold Breaker  
+Level: 87  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Horn Leech  
+- Oblivion Wing  
+- Spore  
+- Shell Smash  
+
+""","""Serperior @ Leftovers  
+Ability: Magic Bounce  
+Level: 87  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Leech Seed  
+- Swagger  
+- Foul Play  
+
+""","""Serperior @ White Herb  
+Ability: Magic Bounce  
+Level: 87  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Sheer Cold  
+- Horn Leech  
+- Oblivion Wing  
+- Baton Pass  
+
+""","""Serperior @ Leftovers  
+Ability: Prankster  
+Level: 87  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Spider Web  
+- Perish Song  
+
+""","""Serperior @ Life Orb  
+Ability: Magic Guard  
+Level: 87  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Wood Hammer  
+- Spore  
+- Soak  
+- Slack Off  
+
+""","""Serperior @ Shed Shell  
+Ability: Arena Trap  
+Level: 87  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Perish Song  
+- Encore  
+- Spikes  
+- Slack Off  
+
+""","""Serperior @ Toxic Orb  
+Ability: Poison Heal  
+Level: 87  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Psycho Shift  
+- Will-O-Wisp  
+- Slack Off  
+- Cosmic Power  
+
+""","""Serperior @ Leftovers  
+Ability: Contrary  
+Level: 87  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- V-create  
+- Leaf Storm  
+- Spore  
+- Soak  
+
+""","""Serperior @ Leftovers  
+Ability: Fur Coat  
+Level: 87  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Thousand Waves  
+- Perish Song  
+- Slack Off  
+- Haze  
+
+""","""Serperior @ Leftovers  
+Ability: Gale Wings  
+Level: 87  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Feather Dance  
+- Chatter  
+- Substitute  
+- Leech Seed  
+
+""","""Seviper @ Power Herb  
+Ability: Mold Breaker  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Sludge Wave  
+- Dark Pulse  
+- Oblivion Wing  
+- Geomancy  
+
+""","""Seviper @ Focus Sash  
+Ability: Mold Breaker  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Poison Jab  
+- Waterfall  
+- Dark Void  
+- Shell Smash  
+
+""","""Seviper @ Wide Lens  
+Ability: Mold Breaker  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Gunk Shot  
+- Crabhammer  
+- Dark Void  
+- Shell Smash  
+
+""","""Seviper @ Black Sludge  
+Ability: Wonder Guard  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Focus Punch  
+- Gunk Shot  
+- Baton Pass  
+
+""","""Seviper @ Focus Sash  
+Ability: Wonder Guard  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD  
+IVs: 0 Spe  
+- Metal Burst  
+- Extreme Speed  
+- Gunk Shot  
+- Toxic  
+
+""","""Seviper @ Black Sludge  
+Ability: No Guard  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dynamic Punch  
+- Sheer Cold 
+- Gastro Acid  
+- Shift Gear  
+
+""","""Seviper @ Black Sludge  
+Ability: Huge Power  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Extreme Speed  
+- Water Shuriken  
+- Sucker Punch  
+- Poison Jab  
+
+""","""Seviper @ Black Sludge  
+Ability: Prankster  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Encore  
+- Copycat  
+- Baton Pass  
+
+""","""Seviper @ Black Sludge  
+Ability: Parental Bond  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Poison Fang  
+- Crunch  
+- Waterfall  
+- Super Fang  
+
+""","""Seviper @ Black Sludge  
+Ability: Contrary  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- V-create  
+- Poison Jab  
+- Giga Drain  
+- Soak  
+
+""","""Sharpedo @ Focus Sash  
+Ability: Mold Breaker  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Waterfall  
+- Crunch  
+- Dark Void  
+- Shell Smash  
+
+""","""Sharpedo @ Focus Sash  
+Ability: Mold Breaker  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Waterfall  
+- Crunch  
+- Extreme Speed  
+- Shell Smash  
+
+""","""Sharpedo @ Leppa Berry  
+Ability: Mold Breaker  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Sheer Cold  
+- Stealth Rock  
+
+""","""Sharpedo @ Leftovers  
+Ability: No Guard  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Sheer Cold  
+- Dark Void  
+- Gastro Acid  
+
+""","""Sharpedo @ Focus Sash  
+Ability: No Guard  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Sheer Cold  
+- Dynamic Punch  
+- Dark Void  
+- Gastro Acid  
+
+""","""Sharpedo @ Focus Sash  
+Ability: Huge Power  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Waterfall  
+- Fusion Bolt  
+- Iron Head  
+- Pursuit  
+
+""","""Sharpedo @ Focus Sash  
+Ability: Huge Power  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Water Shuriken  
+- Extreme Speed  
+- Sucker Punch  
+- Play Rough  
+
+""","""Sharpedo @ Leftovers  
+Ability: Prankster  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Encore  
+- Copycat  
+- Baton Pass  
+
+""","""Sharpedo @ Focus Sash  
+Ability: Parental Bond  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Waterfall  
+- Crunch  
+- Super Fang  
+- Poison Fang  
+
+""","""Sharpedo @ Focus Sash  
+Ability: Infiltrator  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Waterfall  
+- Sucker Punch  
+- Dark Void  
+- U-turn  
+
+""","""Sharpedo-Mega @ Focus Sash  
+Ability: Mold Breaker  
+Level: 84  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Waterfall  
+- Crunch  
+- Dark Void  
+- Shell Smash  
+
+""","""Sharpedo-Mega @ Focus Sash  
+Ability: Mold Breaker  
+Level: 84  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Waterfall  
+- Crunch  
+- Extreme Speed  
+- Shell Smash  
+
+""","""Sharpedo-Mega @ Focus Sash  
+Ability: Huge Power  
+Level: 84  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Waterfall  
+- Dragon Ascent  
+- Close Combat  
+- Pursuit  
+
+""","""Sharpedo-Mega @ Focus Sash  
+Ability: Huge Power  
+Level: 84  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Water Shuriken  
+- Extreme Speed  
+- Sucker Punch  
+- Rock Blast  
+
+""","""Sharpedo-Mega @ Leftovers  
+Ability: Prankster  
+Level: 84  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Encore  
+- Copycat  
+- Baton Pass  
+
+""","""Sharpedo-Mega @ Focus Sash  
+Ability: Prankster  
+Level: 84  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- V-create  
+- Dragon Ascent  
+- Waterfall  
+- Destiny Bond  
+
+""","""Sharpedo-Mega @ Focus Sash  
+Ability: Magic Guard  
+Level: 84  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Waterfall  
+- Head Smash  
+- Flare Blitz  
+- Destiny Bond  
+
+""","""Sharpedo-Mega @ Leftovers  
+Ability: Arena Trap  
+Level: 84  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Perish Song  
+- Encore  
+- Substitute  
+- King's Shield  
+
+""","""Sharpedo-Mega @ Focus Sash  
+Ability: Parental Bond  
+Level: 84  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Waterfall  
+- Crunch  
+- Super Fang  
+- Play Rough  
+
+""","""Sharpedo-Mega @ Focus Sash  
+Ability: Infiltrator  
+Level: 84  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Waterfall  
+- Sucker Punch  
+- Dark Void  
+- U-turn  
+
+""","""Shaymin @ Leftovers  
+Ability: Mold Breaker  
+Level: 81  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Giga Drain  
+- Oblivion Wing  
+- Spore  
+- Quiver Dance  
+
+""","""Shaymin @ Power Herb  
+Ability: Mold Breaker  
+Level: 81  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Seed Flare  
+- Night Daze  
+- Oblivion Wing  
+- Geomancy  
+
+""","""Shaymin @ Leftovers  
+Ability: Magic Bounce  
+Level: 81  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Leech Seed  
+- Spore  
+- Aromatherapy  
+- Parting Shot  
+
+""","""Shaymin @ Focus Sash  
+Ability: Prankster  
+Level: 81  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Topsy-Turvy  
+- Recover  
+- Destiny Bond  
+- Parting Shot  
+
+""","""Shaymin @ Flame Orb  
+Ability: Magic Guard  
+Level: 81  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Psycho Shift  
+- Leech Seed  
+- Recover  
+- Parting Shot  
+
+""","""Shaymin @ Toxic Orb  
+Ability: Poison Heal  
+Level: 81  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Leech Seed  
+- Taunt  
+- Whirlwind  
+
+""","""Shaymin @ Wide Lens  
+Ability: Parental Bond  
+Level: 81  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Super Fang  
+- Seed Flare  
+- Night Daze  
+- Oblivion Wing  
+
+""","""Shaymin @ Leftovers  
+Ability: Gale Wings  
+Level: 81  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Chatter  
+- Substitute  
+- Leech Seed  
+- Roost  
+
+""","""Shaymin @ Leftovers  
+Ability: Contrary  
+Level: 81  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- V-create  
+- Leaf Storm  
+- Spore  
+- Soak  
+
+""","""Shaymin @ Leftovers  
+Ability: Fur Coat  
+Level: 81  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Quiver Dance  
+- Substitute  
+- Leech Seed  
+- Oblivion Wing  
 
 ""","""Shaymin-Sky @ White Herb  
 Ability: Mold Breaker  
@@ -27081,6 +30523,96 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Ice Shard  
 - Pursuit  
 
+""","""Shiftry @ Focus Sash  
+Ability: Mold Breaker  
+Level: 91  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Bullet Seed  
+- Knock Off  
+- Spore  
+- Shell Smash  
+
+""","""Shiftry @ Wide Lens  
+Ability: Mold Breaker  
+Level: 91  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Seed Flare  
+- Night Daze  
+- Dark Void  
+- Shell Smash  
+
+""","""Shiftry @ Focus Sash  
+Ability: No Guard  
+Level: 91  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dynamic Punch  
+- Seed Flare  
+- Zap Cannon  
+- Inferno  
+
+""","""Shiftry @ Focus Sash  
+Ability: Huge Power  
+Level: 91  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Knock Off  
+- Play Rough  
+- Leaf Blade  
+- Thousand Arrows  
+
+""","""Shiftry @ Focus Sash  
+Ability: Huge Power  
+Level: 91  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Pursuit  
+- Sucker Punch  
+- Trick-or-Treat  
+- Spore  
+
+""","""Shiftry @ Leftovers  
+Ability: Prankster  
+Level: 91  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Encore  
+- Copycat  
+- Baton Pass  
+
+""","""Shiftry @ Leftovers  
+Ability: Prankster  
+Level: 91  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Horn Leech  
+- Soak  
+
+""","""Shiftry @ Focus Sash  
+Ability: Magic Guard  
+Level: 91  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Wood Hammer  
+- Head Smash  
+- High Jump Kick  
+- Sucker Punch  
+
+""","""Shiftry @ Wide Lens  
+Ability: Parental Bond  
+Level: 91  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Seed Flare  
+- Night Daze  
+- Sacred Fire  
+- Diamond Storm  
+
+""","""Shiftry @ Leftovers  
+Ability: Contrary  
+Level: 91  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- V-create  
+- Superpower  
+- Horn Leech  
+- Soak  
+
 ""","""Shuckle @ Shed Shell  
 Ability: Wonder Guard  
 Level: 89  
@@ -27172,10 +30704,370 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Minimize  
 - Baton Pass  
 
+""","""Sigilyph @ Leftovers  
+Ability: Mold Breaker  
+Level: 90  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Quiver Dance  
+- Substitute  
+- Stored Power  
+- Oblivion Wing  
+
+""","""Sigilyph @ Mail  
+Ability: Shadow Tag  
+Level: 90  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- King's Shield  
+- Roost  
+- Perish Song  
+- Encore  
+
+""","""Sigilyph @ Leftovers  
+Ability: Magic Bounce  
+Level: 90  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Chatter  
+- Roost  
+- Baton Pass  
+
+""","""Sigilyph @ White Herb  
+Ability: Magic Bounce  
+Level: 90  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Shell Smash  
+- Stored Power  
+- Oblivion Wing  
+- Baton Pass  
+
+""","""Sigilyph @ Leftovers  
+Ability: Prankster  
+Level: 90  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Oblivion Wing  
+- Gastro Acid  
+
+""","""Sigilyph @ Flame Orb  
+Ability: Magic Guard  
+Level: 90  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Quiver Dance  
+- Oblivion Wing  
+- Stored Power  
+- Psycho Shift  
+
+""","""Sigilyph @ Flame Orb  
+Ability: Magic Guard  
+Level: 90  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Psycho Shift  
+- Light of Ruin  
+- Psystrike  
+- Roost  
+
+""","""Sigilyph @ Leftovers  
+Ability: Gale Wings  
+Level: 90  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Quiver Dance  
+- Chatter  
+- Stored Power  
+- Baton Pass  
+
+""","""Sigilyph @ Leftovers  
+Ability: Moody  
+Level: 90  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- King's Shield  
+- Stored Power  
+- Baton Pass  
+
+""","""Sigilyph @ Life Orb  
+Ability: Tinted Lens  
+Level: 90  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Future Sight  
+- Oblivion Wing  
+- Tail Glow  
+- Whirlwind  
+
+""","""Simipour @ Focus Sash  
+Ability: Mold Breaker  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Steam Eruption  
+- Freeze-Dry  
+- Dark Void  
+- Shell Smash  
+
+""","""Simipour @ Safety Goggles  
+Ability: Mold Breaker  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Steam Eruption  
+- Freeze-Dry  
+- Spore  
+- Tail Glow  
+
+""","""Simipour @ Lum Berry  
+Ability: Wonder Guard  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Magic Coat  
+- Taunt  
+- Waterfall  
+- Oblivion Wing  
+
+""","""Simipour @ Leftovers  
+Ability: Wonder Guard  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Encore  
+- Waterfall  
+- Baton Pass  
+
+""","""Simipour @ Focus Sash  
+Ability: No Guard  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dynamic Punch  
+- Zap Cannon  
+- Hypnosis  
+- Sheer Cold  
+
+""","""Simipour @ Leftovers  
+Ability: Huge Power  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Waterfall  
+- Sucker Punch  
+- Dragon Ascent  
+- Play Rough  
+
+""","""Simipour @ Focus Sash  
+Ability: Huge Power  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Water Shuriken  
+- Extreme Speed  
+- V-create  
+- Dragon Ascent  
+
+""","""Simipour @ Leftovers  
+Ability: Prankster  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Encore  
+- Copycat  
+- Baton Pass  
+
+""","""Simipour @ Focus Sash  
+Ability: Parental Bond  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Waterfall  
+- Night Daze  
+- Sacred Fire  
+- Seed Flare  
+
+""","""Simipour @ Focus Sash  
+Ability: Drizzle  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Thunder  
+- Steam Eruption  
+- Water Shuriken  
+- Stealth Rock  
+
+""","""Simisage @ Focus Sash  
+Ability: Mold Breaker  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Leaf Blade  
+- Aeroblast  
+- Spore  
+- Shell Smash  
+
+""","""Simisage @ Power Herb  
+Ability: Mold Breaker  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Giga Drain  
+- Oblivion Wing  
+- Spore  
+- Geomancy  
+
+""","""Simisage @ Focus Sash  
+Ability: No Guard  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dynamic Punch  
+- Seed Flare  
+- Spore  
+- Soak  
+
+""","""Simisage @ Focus Sash  
+Ability: No Guard  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dynamic Punch  
+- Zap Cannon  
+- Hypnosis  
+- Sheer Cold  
+
+""","""Simisage @ Focus Sash  
+Ability: Huge Power  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Leaf Blade  
+- Sucker Punch  
+- Extreme Speed  
+- V-create  
+
+""","""Simisage @ Leftovers  
+Ability: Prankster  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Encore  
+- Copycat  
+- Baton Pass  
+
+""","""Simisage @ Leftovers  
+Ability: Prankster  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Horn Leech  
+- Soak  
+
+""","""Simisage @ Focus Sash  
+Ability: Magic Guard  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Wood Hammer  
+- Light of Ruin  
+- High Jump Kick  
+- Toxic  
+
+""","""Simisage @ Focus Sash  
+Ability: Parental Bond  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Seed Flare  
+- Waterfall  
+- Night Daze  
+- Sacred Fire  
+
+""","""Simisage @ Spooky Plate  
+Ability: Protean  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- King's Shield  
+- Judgment  
+- Boomburst  
+- Secret Sword  
+
+""","""Simisear @ Focus Sash  
+Ability: Turboblaze  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Searing Shot  
+- Dragon Claw  
+- Spore  
+- Shell Smash  
+
+""","""Simisear @ Focus Sash  
+Ability: Turboblaze  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Searing Shot  
+- Stored Power  
+- Moonblast  
+- Shell Smash  
+
+""","""Simisear @ Lum Berry  
+Ability: Wonder Guard  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Taunt  
+- Sacred Fire  
+- Spikes  
+- U-turn  
+
+""","""Simisear @ Focus Sash  
+Ability: No Guard  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dynamic Punch  
+- Inferno  
+- Zap Cannon  
+- Soak  
+
+""","""Simisear @ Focus Sash  
+Ability: Huge Power  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Fusion Bolt  
+- Sucker Punch  
+- Extreme Speed  
+- V-create  
+
+""","""Simisear @ Leftovers  
+Ability: Prankster  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Encore  
+- Copycat  
+- Baton Pass  
+
+""","""Simisear @ Focus Sash  
+Ability: Prankster  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- V-create  
+- Dragon Ascent  
+- Close Combat  
+- Destiny Bond  
+
+""","""Simisear @ Focus Sash  
+Ability: Magic Guard  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Flare Blitz  
+- Light of Ruin  
+- Head Smash  
+- Toxic  
+
+""","""Simisear @ Focus Sash  
+Ability: Parental Bond  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Sacred Fire  
+- Waterfall  
+- Night Daze  
+- Seed Flare  
+
+""","""Simisear @ Focus Sash  
+Ability: Drought  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- V-create  
+- Solar Beam  
+- Overheat  
+- Extreme Speed  
+
 ""","""Skarmory @ Lum Berry  
 Ability: Mold Breaker  
-Level: 93  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Drill Peck  
 - Thousand Arrows  
 - Dark Void  
@@ -27183,8 +31075,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Skarmory @ Leftovers  
 Ability: Wonder Guard  
-Level: 93  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Magic Coat  
 - Taunt  
 - Spikes  
@@ -27192,8 +31084,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Skarmory @ Choice Scarf  
 Ability: Wonder Guard  
-Level: 93  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Magic Coat  
 - Copycat  
 - Trick  
@@ -27201,8 +31093,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Skarmory @ Shed Shell  
 Ability: Wonder Guard  
-Level: 93  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Iron Head  
 - Slack Off  
@@ -27210,8 +31102,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Skarmory @ Toxic Orb  
 Ability: Magic Bounce  
-Level: 93  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Trick  
 - Iron Head  
 - Slack Off  
@@ -27219,8 +31111,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Skarmory @ Leftovers  
 Ability: Magic Bounce  
-Level: 93  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Whirlwind  
 - Toxic  
 - Slack Off  
@@ -27228,8 +31120,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Skarmory @ Leftovers  
 Ability: Prankster  
-Level: 93  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Spore  
 - Spider Web  
@@ -27237,8 +31129,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Skarmory @ Leftovers  
 Ability: Prankster  
-Level: 93  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Haze  
 - Slack Off  
 - Toxic  
@@ -27246,8 +31138,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Skarmory @ Flame Orb  
 Ability: Magic Guard  
-Level: 93  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Defog  
 - Psycho Shift  
 - Toxic  
@@ -27255,8 +31147,8 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Skarmory @ Leftovers  
 Ability: Scrappy  
-Level: 93  
-EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Stealth Rock  
 - Spikes  
 - Rapid Spin  
@@ -27264,7 +31156,7 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Skuntank @ Lum Berry  
 Ability: Mold Breaker  
-Level: 92  
+Level: 91  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Crunch  
 - Poison Jab  
@@ -27273,7 +31165,7 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Skuntank @ Safety Goggles  
 Ability: Mold Breaker  
-Level: 92  
+Level: 91  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Crunch  
 - Poison Jab  
@@ -27282,29 +31174,20 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Skuntank @ Black Sludge  
 Ability: Wonder Guard  
-Level: 92  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
-- Magic Coat  
-- Substitute  
-- Sheer Cold  
-- Baton Pass  
-
-""","""Skuntank @ Choice Scarf  
-Ability: Wonder Guard  
-Level: 92  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
-- Magic Coat  
-- Copycat  
-- Trick  
-- U-turn  
-
-""","""Skuntank @ Black Sludge  
-Ability: Wonder Guard  
-Level: 92  
+Level: 91  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Magic Coat  
 - Taunt  
 - Toxic Spikes  
+- U-turn  
+
+""","""Skuntank @ Choice Scarf  
+Ability: Wonder Guard  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Magic Coat  
+- Copycat  
+- Trick  
 - U-turn  
 
 ""","""Stunky @ Focus Sash  
@@ -27316,41 +31199,50 @@ EVs: 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Dragon Rage  
 - Pain Split  
 
+""","""Skuntank @ Black Sludge  
+Ability: Huge Power  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Sucker Punch  
+- Pursuit  
+- Trick-or-Treat  
+- Poison Jab  
+
 ""","""Skuntank @ Life Orb  
 Ability: Huge Power  
-Level: 92  
+Level: 91  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Knock Off  
 - Poison Jab  
 - Drain Punch  
 - Fusion Bolt  
 
-""","""Skuntank @ Life Orb  
-Ability: Huge Power  
-Level: 92  
+""","""Skuntank @ Assault Vest  
+Ability: Parental Bond  
+Level: 91  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
-- Knock Off  
+- Crunch  
 - Poison Jab  
 - Horn Leech  
 - Thousand Arrows  
 
-""","""Skuntank @ Choice Scarf  
-Ability: No Guard  
-Level: 92  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
-- Sheer Cold  
-- Gastro Acid  
-- Trick  
-- U-turn  
-
 ""","""Skuntank @ Focus Sash  
 Ability: Infiltrator  
-Level: 92  
+Level: 91  
 EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Extreme Speed  
 - Sucker Punch  
 - Toxic  
 - Gastro Acid  
+
+""","""Skuntank @ Choice Scarf  
+Ability: Imposter  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Skill Swap  
+- Defog  
+- Aromatherapy  
+- Lunar Dance  
 
 ""","""Slaking @ Lum Berry  
 Ability: Mold Breaker  
@@ -27442,6 +31334,97 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Knock Off  
 - Slack Off  
 - Whirlwind  
+
+""","""Slowbro @ Leftovers  
+Ability: Mold Breaker  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD  
+IVs: 0 Spe  
+- Tail Glow  
+- Trick Room  
+- Psystrike  
+- Steam Eruption  
+
+""","""Slowbro @ Leftovers  
+Ability: Mold Breaker  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Extreme Speed  
+- Water Shuriken  
+- Spore  
+- Belly Drum  
+
+""","""Slowbro @ Leftovers  
+Ability: Mold Breaker  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Future Sight  
+- Scald  
+- Tail Glow  
+- Slack Off  
+
+""","""Slowbro @ Leftovers  
+Ability: Magic Bounce  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Scald  
+- Defog  
+- Slack Off  
+- Whirlwind  
+
+""","""Slowbro @ Leftovers  
+Ability: Magic Bounce  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Quiver Dance  
+- Scald  
+- Slack Off  
+- Baton Pass  
+
+""","""Slowbro @ Leftovers  
+Ability: Shadow Tag  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Perish Song  
+- Encore  
+- Spikes  
+- Slack Off  
+
+""","""Slowbro @ Leftovers  
+Ability: Prankster  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Minimize  
+- Slack Off  
+- Baton Pass  
+
+""","""Slowbro @ Toxic Orb  
+Ability: Poison Heal  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Quiver Dance  
+- Psycho Shift  
+- Scald  
+- Stored Power  
+
+""","""Slowbro @ Assault Vest  
+Ability: Parental Bond  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Steam Eruption  
+- Night Daze  
+- Psychic  
+- Oblivion Wing  
+
+""","""Slowbro @ Flame Orb  
+Ability: Magic Guard  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Haze  
+- Slack Off  
+- Defog  
+- Scald  
 
 ""","""Slowbro-Mega @ Leftovers  
 Ability: Mold Breaker  
@@ -27535,6 +31518,186 @@ IVs: 0 Spe
 - Future Sight  
 - Slack Off  
 
+""","""Slowking @ Leftovers  
+Ability: Mold Breaker  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Crabhammer  
+- Gunk Shot  
+- Coil  
+- Slack Off  
+
+""","""Slowking @ Leftovers  
+Ability: Mold Breaker  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Oblivion Wing  
+- Stored Power  
+- Spore  
+- Quiver Dance  
+
+""","""Slowking @ Leftovers  
+Ability: Shadow Tag  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Perish Song  
+- King's Shield  
+- Encore  
+- Slack Off  
+
+""","""Slowking @ Leftovers  
+Ability: Magic Bounce  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Steam Eruption  
+- Future Sight  
+- Slack Off  
+- Whirlwind  
+
+""","""Slowking @ Leftovers  
+Ability: Prankster  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Haze  
+- Scald  
+- Slack Off  
+- Parting Shot  
+
+""","""Slowking @ Flame Orb  
+Ability: Magic Guard  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Psycho Shift  
+- Light of Ruin  
+- Psystrike  
+- Slack Off  
+
+""","""Slowking @ Leftovers  
+Ability: Parental Bond  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Steam Eruption  
+- Psychic  
+- Discharge  
+- Moonblast  
+
+""","""Slowking @ Leftovers  
+Ability: Fur Coat  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Wish  
+- Metal Burst  
+- Scald  
+- Parting Shot  
+
+""","""Slowking @ Leftovers  
+Ability: Fur Coat  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Thousand Waves  
+- Perish Song  
+- Slack Off  
+- Haze  
+
+""","""Slowking @ Choice Scarf  
+Ability: Imposter  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Skill Swap  
+- Defog  
+- Aromatherapy  
+- Whirlwind  
+
+""","""Slurpuff @ Power Herb  
+Ability: Mold Breaker  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Moonblast  
+- Earth Power  
+- Spore  
+- Geomancy  
+
+""","""Slurpuff @ White Herb  
+Ability: Mold Breaker  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Moonblast  
+- Earth Power  
+- Spore  
+- Shell Smash  
+
+""","""Slurpuff @ Lum Berry  
+Ability: Wonder Guard  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Magic Coat  
+- Stealth Rock  
+- Toxic  
+- Parting Shot  
+
+""","""Slurpuff @ Leftovers  
+Ability: Wonder Guard  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Coil  
+- Dark Void  
+- Baton Pass  
+
+""","""Slurpuff @ Mail  
+Ability: Shadow Tag  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Perish Song  
+- King's Shield  
+- Encore  
+- Recover  
+
+""","""Slurpuff @ Leftovers  
+Ability: Magic Bounce  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Wish  
+- Heal Bell  
+- Moonblast  
+- Parting Shot  
+
+""","""Slurpuff @ Leftovers  
+Ability: Prankster  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Encore  
+- Baton Pass  
+
+""","""Slurpuff @ Life Orb  
+Ability: Magic Guard  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Light of Ruin  
+- Scald  
+- Toxic  
+- Recover  
+
+""","""Slurpuff @ Pixie Plate  
+Ability: Pixilate  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Fake Out  
+- Extreme Speed  
+- Boomburst  
+- Stealth Rock  
+
+""","""Slurpuff @ Pixie Plate  
+Ability: Pixilate  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Wish  
+- Boomburst  
+- Rapid Spin  
+- Stealth Rock  
+
 ""","""Smeargle @ Leftovers  
 Ability: Wonder Guard  
 EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
@@ -27614,6 +31777,192 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Skill Swap  
 - Trick  
 - Healing Wish  
+
+""","""Snorlax @ Leftovers  
+Ability: Mold Breaker  
+Level: 86  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Extreme Speed  
+- Water Shuriken  
+- Spore  
+- Belly Drum  
+
+""","""Snorlax @ Leftovers  
+Ability: Mold Breaker  
+Level: 86  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD  
+IVs: 0 Spe  
+- Trick Room  
+- Power-Up Punch  
+- Crunch  
+- Extreme Speed  
+
+""","""Snorlax @ Leftovers  
+Ability: Wonder Guard  
+Level: 86  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD  
+IVs: 0 Spe  
+- Wish  
+- Toxic  
+- Heal Bell  
+- U-turn  
+
+""","""Snorlax @ Focus Sash  
+Ability: Wonder Guard  
+Level: 86  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD  
+IVs: 0 Spe  
+- Metal Burst  
+- Extreme Speed  
+- Heart Stamp  
+- Baton Pass  
+
+""","""Snorlax @ Leftovers  
+Ability: Magic Bounce  
+Level: 86  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Will-O-Wisp  
+- Body Slam  
+- Slack Off  
+- Whirlwind  
+
+""","""Snorlax @ Leftovers  
+Ability: Prankster  
+Level: 86  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Curse  
+- Slack Off  
+- Body Slam  
+- Conversion  
+
+""","""Snorlax @ Leftovers  
+Ability: Fur Coat  
+Level: 86  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Thousand Waves  
+- Will-O-Wisp  
+- Slack Off  
+- Perish Song  
+
+""","""Snorlax @ Leftovers  
+Ability: Fur Coat  
+Level: 86  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD  
+IVs: 0 Spe  
+- Wish  
+- Metal Burst  
+- Body Slam  
+- Parting Shot  
+
+""","""Snorlax @ Toxic Orb  
+Ability: Poison Heal  
+Level: 86  
+Happiness: 0  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD  
+IVs: 0 Spe  
+- Curse  
+- Frustration  
+- Payback  
+- Psycho Shift  
+
+""","""Snorlax @ Leftovers  
+Ability: Imposter  
+Level: 82  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Defog  
+- Extreme Speed  
+- V-create  
+- Whirlwind  
+
+""","""Solrock @ Leftovers  
+Ability: Mold Breaker  
+Level: 94  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Quiver Dance  
+- Recover  
+- Stored Power  
+- Ancient Power
+
+""","""Solrock @ White Herb  
+Ability: Mold Breaker  
+Level: 94  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Diamond Storm  
+- Zen Headbutt  
+- Dark Void  
+- Shell Smash  
+
+""","""Solrock @ Leftovers  
+Ability: No Guard  
+Level: 94  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Sheer Cold  
+- Hypnosis  
+- Gastro Acid  
+- Agility  
+
+""","""Solrock @ Leftovers  
+Ability: No Guard  
+Level: 94  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Sheer Cold  
+- Dynamic Punch  
+- Gastro Acid  
+- Shift Gear  
+
+""","""Solrock @ Mail  
+Ability: Shadow Tag  
+Level: 94  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Perish Song  
+- Encore  
+- Spikes  
+- Recover  
+
+""","""Solrock @ Assault Vest  
+Ability: Huge Power  
+Level: 94  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Diamond Storm  
+- Psystrike  
+- Sucker Punch  
+- Drain Punch  
+
+""","""Solrock @ Leftovers  
+Ability: Magic Bounce  
+Level: 94  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Quiver Dance  
+- Recover  
+- Power Gem 
+- Baton Pass  
+
+""","""Solrock @ Life Orb  
+Ability: Magic Guard  
+Level: 94  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Head Smash  
+- High Jump Kick  
+- Recover  
+- Toxic  
+
+""","""Solrock @ Assault Vest  
+Ability: Parental Bond  
+Level: 94  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Diamond Storm  
+- Psychic  
+- Sacred Fire  
+- Horn Leech
+
+""","""Solrock @ Leftovers  
+Ability: Scrappy  
+Level: 94  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stealth Rock  
+- Rapid Spin  
+- Rock Tomb  
+- Skill Swap
 
 ""","""Spinda @ Leftovers  
 Ability: Wonder Guard  
@@ -27786,6 +32135,826 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Curse  
 - Recover  
 
+""","""Stantler @ Spooky Plate  
+Ability: Mold Breaker  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Boomburst  
+- Judgment  
+- Dark Void  
+- Shell Smash  
+
+""","""Stantler @ Lum Berry  
+Ability: Mold Breaker  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Extreme Speed  
+- Thousand Arrows  
+- Spore  
+- Shell Smash  
+
+""","""Stantler @ Lum Berry  
+Ability: Wonder Guard  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Magic Coat  
+- Boomburst  
+- Taunt  
+- U-turn  
+
+""","""Stantler @ Choice Scarf  
+Ability: Wonder Guard  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Magic Coat  
+- Copycat  
+- Trick  
+- U-turn  
+
+""","""Stantler @ Focus Sash  
+Ability: No Guard  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Sheer Cold  
+- Dynamic Punch  
+- Sing  
+- Gastro Acid  
+
+""","""Stantler @ Life Orb  
+Ability: Huge Power  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Extreme Speed  
+- Drain Punch  
+- Horn Leech  
+- Sucker Punch  
+
+""","""Stantler @ Leftovers  
+Ability: Prankster  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Encore  
+- Copycat  
+- Baton Pass  
+
+""","""Stantler @ Life Orb  
+Ability: Magic Guard  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Boomburst  
+- Light of Ruin  
+- High Jump Kick  
+- Head Smash  
+
+""","""Stantler @ Focus Sash  
+Ability: Scrappy  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stealth Rock  
+- Boomburst  
+- Rapid Spin  
+- Skill Swap  
+
+""","""Stantler @ Focus Sash  
+Ability: Infiltrator  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Fake Out  
+- Extreme Speed  
+- Spore  
+- Parting Shot  
+
+""","""Staraptor @ Choice Band  
+Ability: Mold Breaker  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dragon Ascent  
+- Thousand Arrows  
+- Fusion Bolt  
+- U-turn  
+
+""","""Staraptor @ Choice Band  
+Ability: Mold Breaker  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dragon Ascent  
+- Thousand Arrows  
+- Extreme Speed  
+- U-turn  
+
+""","""Staraptor @ Focus Sash  
+Ability: Mold Breaker  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dragon Ascent  
+- Thousand Arrows  
+- Extreme Speed  
+- Shell Smash  
+
+""","""Staraptor @ Focus Sash  
+Ability: No Guard  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Sheer Cold  
+- Dynamic Punch  
+- Dragon Ascent  
+- Bolt Strike
+
+""","""Staraptor @ Focus Sash  
+Ability: Huge Power  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Extreme Speed  
+- Dragon Ascent  
+- Thousand Arrows  
+- Fusion Bolt  
+
+""","""Staraptor @ Choice Band  
+Ability: Huge Power  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Extreme Speed  
+- Dragon Ascent  
+- Fusion Bolt  
+- U-turn  
+
+""","""Staraptor @ Focus Sash  
+Ability: Prankster  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dragon Ascent  
+- V-create  
+- Extreme Speed  
+- Destiny Bond  
+
+""","""Staraptor @ Life Orb  
+Ability: Magic Guard  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Brave Bird  
+- High Jump Kick  
+- Head Smash  
+- Toxic  
+
+""","""Staraptor @ Focus Sash  
+Ability: Gale Wings  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dragon Ascent  
+- Chatter  
+- Extreme Speed  
+- Stealth Rock  
+
+""","""Staraptor @ Focus Sash  
+Ability: Infiltrator  
+Level: 91  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Extreme Speed  
+- Sucker Punch  
+- Dragon Ascent  
+- Endeavor  
+
+""","""Starmie @ Lum Berry  
+Ability: Mold Breaker  
+Level: 88  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Steam Eruption  
+- Stored Power  
+- Dark Void  
+- Shell Smash  
+
+""","""Starmie @ Power Herb  
+Ability: Mold Breaker  
+Level: 88  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stored Power  
+- Steam Eruption  
+- Oblivion Wing  
+- Geomancy  
+
+""","""Starmie @ Leftovers  
+Ability: Mold Breaker  
+Level: 88  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Scald  
+- Oblivion Wing  
+- Dark Void  
+- Quiver Dance  
+
+""","""Starmie @ Lum Berry  
+Ability: Wonder Guard  
+Level: 88  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Taunt  
+- Scald  
+- Spikes  
+- Volt Switch  
+
+""","""Starmie @ Leftovers  
+Ability: Wonder Guard  
+Level: 88  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Dark Void  
+- Taunt  
+- Baton Pass  
+
+""","""Starmie @ Mail  
+Ability: Shadow Tag  
+Level: 88  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Perish Song  
+- Encore  
+- Spikes  
+- Recover  
+
+""","""Starmie @ Leftovers  
+Ability: Magic Bounce  
+Level: 88  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Quiver Dance  
+- Scald  
+- Recover  
+- Baton Pass  
+
+""","""Starmie @ Flame Orb  
+Ability: Magic Guard  
+Level: 88  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Quiver Dance  
+- Scald  
+- Light of Ruin  
+- Psycho Shift  
+
+""","""Starmie @ Spooky Plate  
+Ability: Protean  
+Level: 88  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- King's Shield  
+- Boomburst  
+- Judgment  
+- Secret Sword  
+
+""","""Starmie @ Leftovers  
+Ability: Parental Bond  
+Level: 88  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Steam Eruption  
+- Night Daze  
+- Charge Beam  
+- Moonblast  
+
+""","""Steelix-Mega @ Lum Berry  
+Ability: Mold Breaker  
+Level: 80  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Precipice Blades  
+- Gear Grind  
+- Dark Void  
+- Coil  
+
+""","""Steelix-Mega @ Safety Goggles  
+Ability: Mold Breaker  
+Level: 80  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Thousand Arrows  
+- Iron Head  
+- Spore  
+- Shift Gear  
+
+""","""Steelix-Mega @ Leftovers  
+Ability: Magic Bounce  
+Level: 80  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Thousand Arrows  
+- Gear Grind  
+- Slack Off  
+- Haze  
+
+""","""Steelix-Mega @ Toxic Orb  
+Ability: Magic Bounce  
+Level: 80  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Trick  
+- Thousand Waves  
+- Perish Song  
+- Slack Off  
+
+""","""Steelix-Mega @ Leftovers  
+Ability: No Guard  
+Level: 80  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dynamic Punch  
+- Iron Tail  
+- Precipice Blades  
+- Hypnosis  
+
+""","""Steelix-Mega @ Assault Vest  
+Ability: Huge Power  
+Level: 80  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Extreme Speed  
+- Water Shuriken  
+- Thousand Arrows  
+- Gear Grind  
+
+""","""Steelix-Mega @ Assault Vest  
+Ability: Huge Power  
+Level: 80  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Horn Leech  
+- Thousand Arrows  
+- Gear Grind  
+- Sucker Punch  
+
+""","""Steelix-Mega @ Leftovers  
+Ability: Prankster  
+Level: 80  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Copycat  
+- Me First  
+- Thousand Arrows  
+- Topsy-Turvy  
+
+""","""Steelix-Mega @ Assault Vest  
+Ability: Parental Bond  
+Level: 80  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Iron Tail  
+- Precipice Blades  
+- Horn Leech  
+- Coil  
+
+""","""Steelix-Mega @ Shed Shell  
+Ability: Arena Trap  
+Level: 80  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Perish Song  
+- Encore  
+- Spikes  
+- Slack Off  
+
+""","""Stoutland @ Leftovers  
+Ability: Mold Breaker  
+Level: 89  
+Happiness: 0  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Extreme Speed  
+- Water Shuriken  
+- Spore  
+- Belly Drum  
+
+""","""Stoutland @ Safety Goggles  
+Ability: Mold Breaker  
+Level: 89  
+Happiness: 0  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Frustration  
+- Shadow Claw  
+- Spore  
+- Shift Gear  
+
+""","""Stoutland @ Lum Berry  
+Ability: Wonder Guard  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Magic Coat  
+- Taunt  
+- Spikes  
+- U-turn  
+
+""","""Stoutland @ Choice Scarf  
+Ability: Wonder Guard  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Magic Coat  
+- Copycat  
+- Trick  
+- U-turn  
+
+""","""Stoutland @ Leftovers  
+Ability: Magic Bounce  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Body Slam  
+- Thousand Arrows  
+- Slack Off  
+- Whirlwind  
+
+""","""Stoutland @ Life Orb  
+Ability: Huge Power  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Extreme Speed  
+- Iron Head  
+- Fusion Bolt  
+- Drain Punch  
+
+""","""Stoutland @ Toxic Orb  
+Ability: Poison Heal  
+Level: 89  
+Happiness: 0  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Frustration  
+- Drain Punch  
+- Psycho Shift  
+- Shift Gear  
+
+""","""Stoutland @ Safety Goggles  
+Ability: Parental Bond  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Sacred Fire  
+- Diamond Storm  
+- Drain Punch  
+- Poison Jab  
+
+""","""Stoutland @ Leftovers  
+Ability: Parental Bond  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Body Slam  
+- Iron Head  
+- Power-Up Punch  
+- Diamond Storm  
+
+""","""Stoutland @ Leftovers  
+Ability: Moody  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Fly  
+- King's Shield  
+- Slack Off
+- Baton Pass  
+
+""","""Stunfisk @ Lum Berry  
+Ability: Mold Breaker  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD  
+IVs: 0 Spe  
+- Trick Room  
+- Spore  
+- Charge Beam  
+- Ice Beam  
+
+""","""Stunfisk @ Leftovers  
+Ability: Magic Bounce  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Earth Power  
+- Defog  
+- Recover  
+- Volt Switch  
+
+""","""Stunfisk @ Leftovers  
+Ability: Magic Bounce  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD  
+IVs: 0 Spe  
+- Wish  
+- Metal Burst  
+- Spiky Shield  
+- Volt Switch  
+
+""","""Stunfisk @ Mail  
+Ability: Shadow Tag  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Perish Song  
+- Encore  
+- Spikes  
+- Recover  
+
+""","""Stunfisk @ Leftovers  
+Ability: Prankster  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Charge Beam 
+- Soak  
+
+""","""Stunfisk @ Leftovers  
+Ability: Prankster  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Haze  
+- Dark Void  
+- Recover  
+- Volt Switch  
+
+""","""Stunfisk @ Flame Orb  
+Ability: Magic Guard  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Earth Power  
+- Light of Ruin  
+- Psycho Shift  
+- Recover  
+
+""","""Stunfisk @ Leftovers  
+Ability: Fur Coat  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD  
+IVs: 0 Spe  
+- Wish  
+- Metal Burst  
+- Haze  
+- Volt Switch
+
+""","""Stunfisk @ Leftovers  
+Ability: Scrappy  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stealth Rock  
+- Rapid Spin  
+- Skill Swap  
+- Volt Switch  
+
+""","""Stunfisk @ Leftovers  
+Ability: Imposter  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Skill Swap  
+- Defog  
+- Recover  
+- Aromatherapy  
+
+""","""Sudowoodo @ Assault Vest  
+Ability: Mold Breaker  
+Level: 97  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Power-Up Punch  
+- Diamond Storm  
+- Horn Leech  
+- Sucker Punch  
+
+""","""Sudowoodo @ Leftovers  
+Ability: Mold Breaker  
+Level: 97  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD  
+IVs: 0 Spe  
+- Diamond Storm  
+- Drain Punch  
+- Spore  
+- Trick Room  
+
+""","""Sudowoodo @ Leftovers  
+Ability: No Guard  
+Level: 97  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Sheer Cold  
+- Dynamic Punch  
+- Hypnosis  
+- Gastro Acid  
+
+""","""Sudowoodo @ Leftovers  
+Ability: No Guard  
+Level: 97  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stealth Rock  
+- Sheer Cold  
+- Sing  
+- Gastro Acid  
+
+""","""Sudowoodo @ Choice Band  
+Ability: Huge Power  
+Level: 97  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Diamond Storm  
+- Sucker Punch  
+- Thousand Arrows  
+- U-turn  
+
+""","""Sudowoodo @ Leftovers  
+Ability: Prankster  
+Level: 97  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Shadow Force  
+- Diamond Storm  
+- Copycat  
+- Destiny Bond  
+
+""","""Sudowoodo @ Life Orb  
+Ability: Magic Guard  
+Level: 97  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Head Smash  
+- High Jump Kick  
+- Wood Hammer  
+- Toxic  
+
+""","""Sudowoodo @ Assault Vest  
+Ability: Parental Bond  
+Level: 97  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Diamond Storm  
+- Power-Up Punch  
+- Horn Leech  
+- Super Fang  
+
+""","""Sudowoodo @ Leftovers  
+Ability: Scrappy  
+Level: 97  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stealth Rock  
+- Rapid Spin  
+- Slack Off  
+- Skill Swap  
+
+""","""Sudowoodo @ Assault Vest  
+Ability: Regenerator  
+Level: 97  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Nuzzle  
+- Rock Blast  
+- Knock Off  
+- U-turn  
+
+""","""Suicune @ White Herb  
+Ability: Mold Breaker  
+Level: 83  
+EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Scald  
+- Oblivion Wing  
+- Dark Void  
+- Shell Smash  
+
+""","""Suicune @ Leftovers  
+Ability: Mold Breaker  
+Level: 83  
+EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Scald  
+- Oblivion Wing  
+- Dark Void  
+- Quiver Dance  
+
+""","""Suicune @ Leftovers  
+Ability: Mold Breaker  
+Level: 83  
+EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Extreme Speed  
+- Water Shuriken  
+- Spore  
+- Belly Drum  
+
+""","""Suicune @ Leftovers  
+Ability: Wonder Guard  
+Level: 83  
+EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Magic Coat  
+- Scald  
+- Baton Pass  
+
+""","""Suicune @ Choice Scarf  
+Ability: Wonder Guard  
+Level: 83  
+EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Magic Coat  
+- Copycat  
+- Trick  
+- U-turn  
+
+""","""Suicune @ Leftovers  
+Ability: Magic Bounce  
+Level: 83  
+EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Quiver Dance  
+- Scald  
+- Wish  
+- Baton Pass  
+
+""","""Suicune @ Leftovers  
+Ability: Magic Bounce  
+Level: 83  
+EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Scald  
+- Sludge Wave  
+- Recover  
+- Heal Bell  
+
+""","""Suicune @ Toxic Orb  
+Ability: Magic Guard  
+Level: 83  
+EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Psycho Shift  
+- Light of Ruin  
+- Scald  
+- Recover  
+
+""","""Suicune @ Toxic Orb  
+Ability: Poison Heal  
+Level: 83  
+EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Quiver Dance  
+- Scald  
+- Oblivion Wing  
+- Psycho Shift  
+
+""","""Suicune @ Assault Vest  
+Ability: Regenerator  
+Level: 83  
+EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- U-turn  
+- Nuzzle  
+- Scald  
+- Knock Off  
+
+""","""Sunflora @ Leftovers  
+Ability: Mold Breaker  
+Level: 96  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD  
+IVs: 0 Spe  
+- Trick Room  
+- Spore  
+- Oblivion Wing  
+- Giga Drain  
+
+""","""Sunflora @ Leftovers  
+Ability: Mold Breaker  
+Level: 96  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD  
+IVs: 0 Spe  
+- Coil  
+- Horn Leech  
+- Dragon Rush  
+- Trick Room  
+
+""","""Sunflora @ Leftovers  
+Ability: No Guard  
+Level: 96  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Zap Cannon  
+- Seed Flare  
+- Sheer Cold  
+- Soak  
+
+""","""Sunflora @ Leftovers  
+Ability: No Guard  
+Level: 96  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Sheer Cold  
+- Gastro Acid  
+- Hypnosis  
+
+""","""Sunflora @ Leftovers  
+Ability: Magic Bounce  
+Level: 96  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Defog  
+- Parting Shot  
+- Seed Flare  
+- Spikes  
+
+""","""Sunflora @ Leftovers  
+Ability: Prankster  
+Level: 96  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Giga Drain  
+- Soak  
+
+""","""Sunflora @ Life Orb  
+Ability: Magic Guard  
+Level: 96  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Will-O-Wisp  
+- Light of Ruin  
+- Giga Drain  
+- Recover  
+
+""","""Sunflora @ Leftovers  
+Ability: Gale Wings  
+Level: 96  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Chatter  
+- Leech Seed  
+- Feather Dance  
+
+""","""Sunflora @ Leftovers  
+Ability: Fur Coat  
+Level: 96  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD  
+IVs: 0 Spe  
+- Wish  
+- Metal Burst  
+- Leech Seed  
+- Volt Switch  
+
+""","""Sunflora @ Heat Rock  
+Ability: Drought  
+Level: 96  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stealth Rock  
+- Searing Shot  
+- Solar Beam  
+- Skill Swap  
+
 ""","""Swadloon @ Eviolite  
 Ability: Shadow Tag  
 Level: 89  
@@ -27876,6 +33045,186 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - King's Shield  
 - Defog  
 
+""","""Swalot @ White Herb  
+Ability: Mold Breaker  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Sludge Wave  
+- Steam Eruption  
+- Dark Void  
+- Shell Smash  
+
+""","""Swalot @ Black Sludge  
+Ability: Mold Breaker  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Gunk Shot  
+- Precipice Blades  
+- Slack Off  
+- Coil  
+
+""","""Swalot @ Black Sludge  
+Ability: Wonder Guard  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Wish  
+- Spikes  
+- Toxic  
+- Parabolic Charge  
+
+""","""Swalot @ Shed Shell  
+Ability: Wonder Guard  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Wish  
+- Spiky Shield  
+- Toxic Spikes  
+- U-turn  
+
+""","""Swalot @ Black Sludge  
+Ability: Magic Bounce  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Toxic  
+- Toxic Spikes  
+- Slack Off  
+- Whirlwind  
+
+""","""Swalot @ Black Sludge  
+Ability: Magic Bounce  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Slack Off  
+- Defog  
+- Poison Jab  
+- Knock Off  
+
+""","""Swalot @ Black Sludge  
+Ability: Prankster  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Heart Swap  
+- Destiny Bond  
+- Baton Pass  
+
+""","""Swalot @ Black Sludge  
+Ability: Prankster  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Encore  
+- Baton Pass  
+
+""","""Swalot @ Flame Orb  
+Ability: Magic Guard  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Psycho Shift  
+- Light of Ruin  
+- Toxic  
+- Slack Off  
+
+""","""Swalot @ Choice Scarf  
+Ability: Imposter  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Skill Swap  
+- Defog  
+- Aromatherapy  
+- Lunar Dance  
+
+""","""Swanna @ Focus Sash  
+Ability: Mold Breaker  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Waterfall  
+- Dragon Ascent  
+- Dark Void  
+- Shell Smash  
+
+""","""Swanna @ Power Herb  
+Ability: Mold Breaker  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Scald  
+- Oblivion Wing  
+- Spore  
+- Geomancy  
+
+""","""Swanna @ Lum Berry  
+Ability: Wonder Guard  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Taunt  
+- Scald  
+- Spikes  
+- Chatter  
+
+""","""Swanna @ Leftovers  
+Ability: Wonder Guard  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Chatter  
+- Magic Coat  
+- Baton Pass  
+
+""","""Swanna @ Choice Band  
+Ability: Huge Power  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Water Shuriken  
+- Dragon Ascent  
+- Fusion Bolt  
+- U-turn  
+
+""","""Swanna @ Leftovers  
+Ability: Prankster  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Encore  
+- Copycat  
+- Baton Pass  
+
+""","""Swanna @ Wide Lens  
+Ability: Parental Bond  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Steam Eruption  
+- Oblivion Wing  
+- Night Daze  
+- Charge Beam  
+
+""","""Swanna @ Sky Plate  
+Ability: Aerilate  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Fake Out  
+- Extreme Speed  
+- Boomburst  
+- Stealth Rock  
+
+""","""Swanna @ Leftovers  
+Ability: Gale Wings  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Chatter  
+- Oblivion Wing  
+- Scald  
+
+""","""Swanna @ Damp Rock  
+Ability: Drizzle  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stealth Rock  
+- Water Spout  
+- Hurricane  
+- Skill Swap  
+
 ""","""Swampert-Mega @ Safety Goggles  
 Ability: Mold Breaker 
 Level: 78  
@@ -27965,6 +33314,187 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Copycat  
 - Thousand Arrows  
 - Gastro Acid  
+
+""","""Swellow @ Choice Band  
+Ability: Mold Breaker  
+Level: 95  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dragon Ascent  
+- Thousand Arrows  
+- Extreme Speed  
+- U-turn  
+
+""","""Swellow @ Focus Sash  
+Ability: Mold Breaker  
+Level: 95  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Drill Peck  
+- Thousand Arrows  
+- Extreme Speed  
+- Shell Smash  
+
+""","""Swellow @ Leppa Berry  
+Ability: Mold Breaker  
+Level: 95  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Sheer Cold  
+- Stealth Rock  
+
+""","""Swellow @ Leftovers  
+Ability: No Guard  
+Level: 95  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Hypnosis  
+- Sheer Cold  
+- Gastro Acid  
+
+""","""Swellow @ Focus Sash  
+Ability: No Guard  
+Level: 95  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Sheer Cold  
+- Dark Void  
+- Gastro Acid  
+- Stealth Rock  
+
+""","""Swellow @ Leftovers  
+Ability: Shadow Tag  
+Level: 95  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Perish Song  
+- Encore  
+- King's Shield  
+- Substitute  
+
+""","""Swellow @ Choice Band  
+Ability: Huge Power  
+Level: 95  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dragon Ascent  
+- Thousand Arrows  
+- Extreme Speed  
+- U-turn  
+
+""","""Swellow @ Leftovers  
+Ability: Fur Coat  
+Level: 95  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Chatter  
+- Encore  
+- Baton Pass  
+
+""","""Swellow @ Focus Sash  
+Ability: Scrappy  
+Level: 95  
+Happiness: 0  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Frustration  
+- Close Combat  
+- Rapid Spin  
+- Endeavor  
+
+""","""Swellow @ Leftovers  
+Ability: Bad Dreams  
+Level: 95  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Spore  
+- Infestation  
+- Super Fang  
+- Gastro Acid  
+
+""","""Swoobat @ Safety Goggles  
+Ability: Mold Breaker  
+Level: 96  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Aeroblast  
+- Psystrike  
+- Spore  
+- Tail Glow  
+
+""","""Swoobat @ Focus Sash  
+Ability: Mold Breaker  
+Level: 96  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Aeroblast  
+- Stored Power  
+- Dark Void  
+- Shell Smash  
+
+""","""Swoobat @ Leppa Berry  
+Ability: Mold Breaker  
+Level: 96  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Sheer Cold  
+- Stealth Rock  
+
+""","""Swoobat @ Leftovers  
+Ability: No Guard  
+Level: 96  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Sheer Cold  
+- Hypnosis  
+- Gastro Acid  
+
+""","""Swoobat @ Focus Sash  
+Ability: No Guard  
+Level: 96  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Hurricane  
+- Sheer Cold  
+- Sing  
+- Gastro Acid  
+
+""","""Swoobat @ Leftovers  
+Ability: Shadow Tag  
+Level: 96  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Perish Song  
+- Encore  
+- King's Shield  
+- Substitute  
+
+""","""Swoobat @ Leftovers  
+Ability: Prankster  
+Level: 96  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Oblivion Wing  
+- Gastro Acid  
+
+""","""Swoobat @ Spooky Plate  
+Ability: Protean  
+Level: 96  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- King's Shield  
+- Boomburst  
+- Judgment  
+- Secret Sword  
+
+""","""Swoobat @ Leftovers  
+Ability: Bad Deams   
+Level: 96  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Spore  
+- Infestation  
+- Super Fang  
+- Gastro Acid  
+
+""","""Swoobat @ Leftovers  
+Ability: Moody  
+Level: 96  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Chatter  
+- Stored Power  
+- Baton Pass  
 
 ""","""Sylveon @ Leftovers  
 Ability: Mold Breaker  
@@ -28057,6 +33587,1724 @@ IVs: 0 Spe
 - Metal Burst  
 - Recover  
 
+""","""Talonflame @ Focus Sash  
+Ability: Turboblaze  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dragon Ascent  
+- Thousand Arrows  
+- Dark Void
+- Shell Smash  
+
+""","""Talonflame @ Choice Scarf  
+Ability: Turboblaze  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dragon Ascent  
+- V-create  
+- Thousand Arrows  
+- U-turn  
+
+""","""Talonflame @ Choice Band  
+Ability: Turboblaze  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Extreme Speed  
+- V-create  
+- Thousand Arrows  
+- U-turn  
+
+""","""Talonflame @ Leftovers  
+Ability: Shadow Tag  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Encore  
+- Perish Song  
+- Spikes  
+- Spore  
+
+""","""Talonflame @ Choice Band  
+Ability: Huge Power  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dragon Ascent  
+- Sacred Fire  
+- Shadow Sneak  
+- Extreme Speed  
+
+""","""Talonflame @ Focus Sash  
+Ability: Magic Guard  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Shell Smash  
+- Flare Blitz  
+- Brave Bird  
+- Thousand Arrows  
+
+""","""Talonflame @ Life Orb  
+Ability: Magic Guard  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Brave Bird  
+- High Jump Kick  
+- Flare Blitz  
+- Struggle  
+
+""","""Talonflame @ Life Orb  
+Ability: Protean  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dragon Ascent  
+- Bolt Strike  
+- Gunk Shot  
+- Extreme Speed  
+
+""","""Talonflame @ Sky Plate  
+Ability: Aerilate  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Return  
+- Fake Out  
+- Extreme Speed  
+- Sacred Fire  
+
+""","""Talonflame @ Leftovers  
+Ability: Delta Stream  
+Level: 89  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Defog  
+- Dragon Ascent  
+- Will-O-Wisp  
+- Roost  
+
+""","""Tangela @ Eviolite  
+Ability: Mold Breaker  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Giga Drain  
+- Oblivion Wing  
+- Spore  
+- Quiver Dance  
+
+""","""Tangela @ Eviolite  
+Ability: Shadow Tag  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Perish Song  
+- Encore  
+- Spikes  
+- Recover  
+
+""","""Tangela @ Eviolite  
+Ability: Magic Bounce  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Leech Seed  
+- Spikes  
+- Recover  
+- Parting Shot  
+
+""","""Tangela @ Eviolite  
+Ability: Magic Bounce  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stealth Rock  
+- Spikes  
+- Recover  
+- Whirlwind  
+
+""","""Tangela @ Eviolite  
+Ability: Prankster  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Haze  
+- Toxic  
+- Aromatherapy  
+- Parting Shot  
+
+""","""Tangela @ Eviolite  
+Ability: Magic Guard  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Amnesia  
+- Toxic  
+- Recover  
+- Leech Seed  
+
+""","""Tangela @ Eviolite  
+Ability: Gale Wings  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Chatter  
+- Leech Seed  
+- Roost  
+- Substitute  
+
+""","""Tangela @ Eviolite  
+Ability: Protean  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Will-O-Wisp  
+- Toxic  
+- King's Shield  
+- Heal Order  
+
+""","""Tangela @ Eviolite  
+Ability: Infiltrator  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Toxic  
+- Leech Seed  
+- Pain Split  
+- Embargo  
+
+""","""Tangela @ Eviolite  
+Ability: Regenerator  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Knock Off  
+- Nuzzle  
+- Leech Seed  
+- Parting Shot  
+
+""","""Tangrowth @ Leftovers  
+Ability: Mold Breaker  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Giga Drain  
+- Oblivion Wing  
+- Spore  
+- Quiver Dance  
+
+""","""Tangrowth @ Leftovers  
+Ability: Magic Bounce  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Defog  
+- Parting Shot  
+- Seed Flare  
+- Spikes  
+
+""","""Tangrowth @ Leftovers  
+Ability: Magic Bounce  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Quiver Dance  
+- Giga Drain  
+- Baton Pass  
+
+""","""Tangrowth @ Assault Vest  
+Ability: Huge Power  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Horn Leech  
+- Drain Punch  
+- Extreme Speed  
+- Sucker Punch  
+
+""","""Tangrowth @ Leftovers  
+Ability: Prankster  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Giga Drain  
+- Soak  
+
+""","""Tangrowth @ Toxic Orb  
+Ability: Magic Guard  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Quiver Dance  
+- Light of Ruin  
+- Wood Hammer  
+- Psycho Shift  
+
+""","""Tangrowth @ Leftovers  
+Ability: Gale Wings  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Chatter  
+- Leech Seed  
+- Roost  
+
+""","""Tangrowth @ Toxic Orb  
+Ability: Poison Heal  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Quiver Dance  
+- Oblivion Wing  
+- Giga Drain  
+- Baton Pass  
+
+""","""Tangrowth @ Assault Vest  
+Ability: Regenerator  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Knock Off  
+- Nuzzle  
+- Leech Seed  
+- Parting Shot  
+
+""","""Tangrowth @ Choice Scarf  
+Ability: Imposter  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Skill Swap  
+- Defog  
+- Aromatherapy  
+- Lunar Dance  
+
+""","""Tauros @ Safety Goggles  
+Ability: Mold Breaker  
+Level: 90  
+Happiness: 0  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Frustration  
+- Thousand Arrows  
+- Spore  
+- Shift Gear  
+
+""","""Tauros @ Lum Berry  
+Ability: Mold Breaker  
+Level: 90  
+Happiness: 0  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Frustration  
+- Thousand Arrows  
+- Dark Void  
+- Shell Smash  
+
+""","""Tauros @ Lum Berry  
+Ability: Wonder Guard  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Taunt  
+- Spikes  
+- Magic Coat  
+- U-turn  
+
+""","""Tauros @ Leftovers  
+Ability: Wonder Guard  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Focus Punch  
+- Extreme Speed  
+- Baton Pass  
+
+""","""Tauros @ Life Orb  
+Ability: Huge Power  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Extreme Speed  
+- Horn Leech  
+- Fusion Bolt  
+- Drill Peck  
+
+""","""Tauros @ Life Orb  
+Ability: Huge Power  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Extreme Speed  
+- Drain Punch  
+- Diamond Storm  
+- Thousand Arrows  
+
+""","""Tauros @ Shed Shell  
+Ability: Arena Trap  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Perish Song  
+- Encore  
+- Spikes  
+- Slack Off  
+
+""","""Tauros @ Assault Vest  
+Ability: Parental Bond  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Body Slam  
+- Diamond Storm  
+- Drain Punch  
+- Crunch  
+
+""","""Tauros @ Toxic Orb  
+Ability: Poison Heal  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Facade  
+- Precipice Blades  
+- Coil  
+- Psycho Shift  
+
+""","""Tauros @ Focus Sash  
+Ability: Scrappy  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Extreme Speed  
+- Close Combat  
+- Rapid Spin  
+- Endeavor  
+
+""","""Tentacruel @ Lum Berry  
+Ability: Mold Breaker  
+Level: 88  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Gunk Shot  
+- Crabhammer  
+- Dark Void  
+- Coil  
+
+""","""Tentacruel @ Black Sludge  
+Ability: Mold Breaker  
+Level: 88  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Sludge Wave  
+- Scald  
+- Dark Void  
+- Quiver Dance  
+
+""","""Tentacruel @ Black Sludge  
+Ability: Wonder Guard  
+Level: 88  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Toxic Spikes  
+- Scald  
+- Baton Pass  
+
+""","""Tentacruel @ Black Sludge  
+Ability: No Guard  
+Level: 88  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Dynamic Punch  
+- Zap Cannon  
+- Baton Pass  
+
+""","""Tentacruel @ Black Sludge  
+Ability: Magic Bounce  
+Level: 88  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Gunk Shot  
+- Crabhammer  
+- Recover  
+- Coil  
+
+""","""Tentacruel @ Leftovers  
+Ability: Prankster  
+Level: 88  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Curse  
+- Haze  
+- Recover  
+- Conversion  
+
+""","""Tentacruel @ Black Sludge  
+Ability: Parental Bond  
+Level: 88  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Acid Spray  
+- Scald  
+- Night Daze  
+- Charge Beam  
+
+""","""Tentacruel @ Black Sludge  
+Ability: Fur Coat  
+Level: 88  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Toxic  
+- Scald  
+- Recover  
+
+""","""Tentacruel @ Black Sludge  
+Ability: Fur Coat  
+Level: 88  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Thousand Waves  
+- Perish Song  
+- Toxic Spikes  
+- Recover  
+
+""","""Tentacruel @ Black Sludge  
+Ability: Scrappy  
+Level: 88  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stealth Rock  
+- Toxic Spikes  
+- Rapid Spin  
+- Skill Swap  
+
+""","""Terrakion @ Lum Berry  
+Ability: Mold Breaker  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Diamond Storm  
+- Flying Press  
+- Dark Void  
+- Shell Smash  
+
+""","""Terrakion @ Safety Goggles  
+Ability: Mold Breaker  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Diamond Storm  
+- Drain Punch  
+- Spore  
+- Shift Gear  
+
+""","""Terrakion @ Leftovers  
+Ability: No Guard  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Dynamic Punch  
+- Hypnosis  
+- Baton Pass  
+
+""","""Terrakion @ Life Orb  
+Ability: Huge Power  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Diamond Storm  
+- Drain Punch  
+- Horn Leech  
+- Sucker Punch  
+
+""","""Terrakion @ Choice Scarf  
+Ability: Huge Power  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Close Combat  
+- Diamond Storm  
+- V-create  
+- U-turn  
+
+""","""Terrakion @ Life Orb  
+Ability: Magic Guard  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Head Smash  
+- High Jump Kick  
+- Wood Hammer  
+- Toxic  
+
+""","""Terrakion @ Sky Plate  
+Ability: Aerilate  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Fake Out  
+- Extreme Speed  
+- Close Combat  
+- Stealth Rock  
+
+""","""Terrakion @ Leftovers  
+Ability: Contrary  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- V-create  
+- Superpower  
+- Drain Punch  
+- Gastro Acid  
+
+""","""Terrakion @ Focus Sash  
+Ability: Infiltrator  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dark Void  
+- Sucker Punch  
+- Close Combat  
+- Diamond Storm  
+
+""","""Terrakion @ Leftovers  
+Ability: Scrappy  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Close Combat  
+- Extreme Speed  
+- Diamond Storm  
+- Rapid Spin  
+
+""","""Throh @ Leftovers  
+Ability: Mold Breaker  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD  
+IVs: 0 Spe  
+- Cross Chop  
+- Diamond Storm  
+- Coil  
+- Trick Room  
+
+""","""Throh @ Safety Goggles  
+Ability: Mold Breaker  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Drain Punch  
+- Shadow Claw  
+- Spore  
+- Shift Gear  
+
+""","""Throh @ Focus Sash  
+Ability: Wonder Guard  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD  
+IVs: 0 Spe  
+- Metal Burst  
+- Extreme Speed  
+- Heart Swap  
+- Baton Pass  
+
+""","""Throh @ Leftovers  
+Ability: Wonder Guard  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Wish  
+- Spiky Shield  
+- Close Combat  
+- U-turn  
+
+""","""Throh @ Leftovers  
+Ability: No Guard  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dynamic Punch  
+- Sheer Cold  
+- Gastro Acid  
+- Shift Gear  
+
+""","""Throh @ Life Orb  
+Ability: Huge Power  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Extreme Speed  
+- Drain Punch  
+- Sucker Punch  
+- Diamond Storm  
+
+""","""Throh @ Toxic Orb  
+Ability: Poison Heal  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Drain Punch  
+- Diamond Storm  
+- Shift Gear  
+- Psycho Shift  
+
+""","""Throh @ Leftovers  
+Ability: Fur Coat  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Wish  
+- Metal Burst  
+- Drain Punch  
+- Parting Shot  
+
+""","""Throh @ Assault Vest  
+Ability: Regenerator  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD  
+IVs: 0 Spe  
+- Circle Throw  
+- Knock Off  
+- Nuzzle  
+- U-turn  
+
+""","""Throh @ Leftovers  
+Ability: Imposter  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Extreme Speed  
+- Defog  
+- Slack Off  
+- Whirlwind  
+
+""","""Thundurus @ Lum Berry  
+Ability: Teravolt  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Aeroblast  
+- Steam Eruption  
+- Dark Void  
+- Shell Smash  
+
+""","""Thundurus-Therian @ Choice Specs  
+Ability: Teravolt  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Aeroblast  
+- Night Daze  
+- Boomburst  
+- Volt Switch  
+
+""","""Thundurus @ Leftovers  
+Ability: Wonder Guard  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Chatter  
+- Magic Coat  
+- Baton Pass  
+
+""","""Thundurus @ Leftovers  
+Ability: No Guard  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Encore  
+- Zap Cannon  
+- Baton Pass  
+
+""","""Thundurus @ Leftovers  
+Ability: No Guard  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Zap Cannon  
+- Dynamic Punch  
+- Dark Void  
+- Soak  
+
+""","""Thundurus @ Leftovers  
+Ability: Prankster  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Encore  
+- Copycat  
+- Baton Pass  
+
+""","""Thundurus @ Leftovers  
+Ability: Prankster  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Oblivion Wing  
+- Gastro Acid  
+
+""","""Thundurus @ Leftovers  
+Ability: Prankster  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Charge Beam  
+- Soak  
+
+""","""Thundurus @ Sky Plate  
+Ability: Aerilate  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Fake Out  
+- Extreme Speed  
+- Boomburst  
+- Stealth Rock  
+
+""","""Thundurus @ Damp Rock  
+Ability: Drizzle  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stealth Rock  
+- Thunder  
+- Hurricane  
+- Skill Swap  
+
+""","""Thundurus-Therian @ Lum Berry  
+Ability: Teravolt  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Aeroblast  
+- Steam Eruption  
+- Dark Void  
+- Shell Smash  
+
+""","""Thundurus-Therian @ Leftovers  
+Ability: Teravolt  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Oblivion Wing  
+- Scald  
+- Dark Void  
+- Quiver Dance  
+
+""","""Thundurus-Therian @ Focus Sash  
+Ability: Teravolt  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Thunderbolt  
+- Night Daze  
+- Chatter  
+- Shell Smash  
+
+""","""Thundurus-Therian @ Icicle Plate  
+Ability: Wonder Guard  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Shell Smash  
+- Judgment  
+- Thunderbolt  
+- Aeroblast  
+
+""","""Thundurus-Therian @ Focus Sash  
+Ability: No Guard  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Zap Cannon  
+- Hurricane  
+- Dark Void  
+- Soak  
+
+""","""Thundurus-Therian @ Leftovers  
+Ability: Prankster  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Charge Beam  
+- Soak  
+
+""","""Thundurus-Therian @ Leftovers  
+Ability: Prankster  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Oblivion Wing  
+- Gastro Acid  
+
+""","""Thundurus-Therian @ Wide Lens  
+Ability: Parental Bond  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Discharge  
+- Aeroblast  
+- Night Daze  
+- Steam Eruption  
+
+""","""Thundurus-Therian @ Sky Plate  
+Ability: Aerilate  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stealth Rock  
+- Boomburst  
+- Steam Eruption  
+- Extreme Speed  
+
+""","""Thundurus-Therian @ Damp Rock  
+Ability: Drizzle  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Thunder  
+- Hurricane  
+- Dark Void  
+- Soak  
+
+""","""Togekiss @ White Herb  
+Ability: Mold Breaker  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Oblivion Wing  
+- Steam Eruption  
+- Spore  
+- Shell Smash  
+
+""","""Togekiss @ Safety Goggles  
+Ability: Mold Breaker  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Oblivion Wing  
+- Scald  
+- Spore  
+- Quiver Dance  
+
+""","""Togekiss @ Leftovers  
+Ability: Magic Bounce  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Moonblast  
+- Lava Plume    
+- Roost  
+- Defog   
+
+""","""Togekiss @ Leftovers  
+Ability: Magic Bounce  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Quiver Dance  
+- Scald  
+- Oblivion Wing  
+- Baton Pass  
+
+""","""Togekiss @ Leftovers  
+Ability: Prankster  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Oblivion Wing  
+- Gastro Acid  
+
+""","""Togekiss @ Life Orb  
+Ability: Magic Guard  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Light of Ruin  
+- Earth Power  
+- Roost  
+- Will-O-Wisp  
+
+""","""Togekiss @ Leftovers  
+Ability: Parental Bond  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Discharge  
+- Oblivion Wing  
+- Night Daze  
+- Moonblast  
+
+""","""Togekiss @ Leftovers  
+Ability: Gale Wings  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Chatter  
+- Air Slash  
+- Roost  
+- Gastro Acid  
+
+""","""Togekiss @ Sky Plate  
+Ability: Aerilate  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stealth Rock  
+- Boomburst  
+- Earth Power  
+- Rapid Spin  
+
+""","""Togekiss @ Leftovers  
+Ability: Fur Coat  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Quiver Dance  
+- Oblivion Wing  
+- Scald  
+- Baton Pass  
+
+""","""Togetic @ Eviolite  
+Ability: Mold Breaker  
+Level: 86  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Oblivion Wing  
+- Scald  
+- Roost  
+- Quiver Dance  
+
+""","""Togetic @ Eviolite  
+Ability: Shadow Tag  
+Level: 86  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Perish Song  
+- Encore  
+- Spikes  
+- Roost  
+
+""","""Togetic @ Eviolite  
+Ability: Magic Bounce  
+Level: 86  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Moonblast  
+- Toxic  
+- Aromatherapy  
+- Roost  
+
+""","""Togetic @ Eviolite  
+Ability: Magic Bounce  
+Level: 86  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Shell Smash  
+- Roost  
+- Whirlwind  
+- Baton Pass  
+
+""","""Togetic @ Eviolite  
+Ability: Prankster  
+Level: 86  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Topsy-Turvy  
+- Defog  
+- Roost  
+- Parting Shot  
+
+""","""Togetic @ Eviolite  
+Ability: Prankster  
+Level: 86  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Haze  
+- Roost  
+- Aromatherapy  
+- Parting Shot  
+
+""","""Togetic @ Eviolite  
+Ability: Gale Wings  
+Level: 86  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Chatter  
+- Air Slash  
+- Roost  
+- Defog  
+
+""","""Togetic @ Eviolite  
+Ability: Fur Coat  
+Level: 86  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Thousand Waves  
+- Perish Song  
+- Roost  
+- Haze  
+
+""","""Togetic @ Eviolite  
+Ability: Pixilate  
+Level: 86  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stealth Rock  
+- Boomburst  
+- Rapid Spin  
+- Skill Swap  
+
+""","""Togetic @ Eviolite  
+Ability: Regenerator  
+Level: 86  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Knock Off  
+- Nuzzle  
+- Oblivion Wing  
+- Parting Shot  
+
+""","""Torkoal @ Leftovers  
+Ability: Turboblaze  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Flamethrower  
+- Dragon Pulse  
+- Spore  
+- Quiver Dance  
+
+""","""Torkoal @ Lum Berry  
+Ability: Wonder Guard  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD  
+IVs: 0 Spe  
+- Stealth Rock  
+- Lava Plume  
+- Magic Coat  
+- Parting Shot  
+
+""","""Torkoal @ Shed Shell  
+Ability: Wonder Guard  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stealth Rock  
+- Magic Coat  
+- Lava Plume  
+- Whirlwind  
+
+""","""Torkoal @ Mail  
+Ability: Shadow Tag  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Perish Song  
+- Encore  
+- Spikes  
+- Slack Off  
+
+""","""Torkoal @ Leftovers  
+Ability: Magic Bounce  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stealth Rock  
+- Will-O-Wisp  
+- Slack Off  
+- Whirlwind  
+
+""","""Torkoal @ Leftovers  
+Ability: Prankster  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Encore  
+- Baton Pass  
+
+""","""Torkoal @ Leftovers  
+Ability: Prankster  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Haze  
+- Lava Plume  
+- Slack Off  
+- Aromatherapy  
+
+""","""Torkoal @ Toxic Orb  
+Ability: Magic Guard  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Quiver Dance  
+- Mystical Fire  
+- Slack Off  
+- Psycho Shift  
+
+""","""Torkoal @ Leftovers  
+Ability: Parental Bond  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Mystical Fire  
+- Seed Flare  
+- Night Daze  
+- Charge Beam  
+
+""","""Torkoal @ Assault Vest  
+Ability: Regenerator  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD  
+IVs: 0 Spe  
+- Knock Off  
+- Nuzzle  
+- Lava Plume  
+- Volt Switch  
+
+""","""Tornadus @ Focus Sash  
+Ability: Mold Breaker  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Aeroblast  
+- Earth Power  
+- Dark Void  
+- Shell Smash  
+
+""","""Tornadus @ Choice Band  
+Ability: Mold Breaker  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dragon Ascent  
+- Thousand Arrows  
+- Extreme Speed  
+- U-turn  
+
+""","""Tornadus @ Leftovers  
+Ability: Shadow Tag  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Perish Song  
+- Encore  
+- King's Shield  
+- Substitute  
+
+""","""Tornadus @ Leftovers  
+Ability: Wonder Guard  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Conversion  
+- Chatter  
+- Baton Pass  
+
+""","""Tornadus @ Focus Sash  
+Ability: Huge Power  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dragon Ascent  
+- Close Combat  
+- V-create  
+- Extreme Speed  
+
+""","""Tornadus @ Leftovers  
+Ability: Prankster  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Oblivion Wing  
+- Baton Pass  
+
+""","""Tornadus @ Leftovers  
+Ability: Prankster  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Encore  
+- Copycat  
+- Baton Pass  
+
+""","""Tornadus @ Sky Plate  
+Ability: Aerilate  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Fake Out  
+- Extreme Speed  
+- Boomburst  
+- Stealth Rock  
+
+""","""Tornadus @ Focus Sash  
+Ability: Gale Wings  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dragon Ascent  
+- Chatter  
+- Air Slash  
+- Thousand Arrows  
+
+""","""Tornadus @ Life Orb  
+Ability: Magic Guard  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Brave Bird  
+- Light of Ruin  
+- High Jump Kick  
+- Toxic  
+
+""","""Tornadus-Therian @ Safety Goggles  
+Ability: Mold Breaker  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Oblivion Wing  
+- Scald  
+- Spore  
+- Tail Glow  
+
+""","""Tornadus-Therian @ Safety Goggles  
+Ability: Mold Breaker  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Oblivion Wing  
+- Scald  
+- Spore  
+- Quiver Dance  
+
+""","""Tornadus-Therian @ Leftovers  
+Ability: Wonder Guard  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Chatter  
+- Conversion  
+- Baton Pass  
+
+""","""Tornadus-Therian @ Leftovers  
+Ability: Shadow Tag  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Perish Song  
+- Encore  
+- King's Shield  
+- Substitute  
+
+""","""Tornadus-Therian @ Choice Band  
+Ability: Huge Power  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dragon Ascent  
+- Thousand Arrows  
+- Extreme Speed  
+- U-turn  
+
+""","""Tornadus-Therian @ Sky Plate  
+Ability: Aerilate  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Fake Out  
+- Extreme Speed  
+- Boomburst  
+- Stealth Rock  
+
+""","""Tornadus-Therian @ Leftovers  
+Ability: Parental Bond  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Air Slash  
+- Discharge  
+- Night Daze  
+- Moonblast  
+
+""","""Tornadus-Therian @ Leftovers  
+Ability: Gale Wings  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Feather Dance  
+- Chatter  
+- Defog  
+- Roost  
+
+""","""Tornadus-Therian @ Leftovers  
+Ability: Infiltrator  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Oblivion Wing  
+- Gastro Acid  
+
+""","""Tornadus-Therian @ Assault Vest  
+Ability: Regenerator  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Chatter  
+- Knock Off  
+- Nuzzle  
+- U-turn  
+
+""","""Torterra @ Lum Berry  
+Ability: Mold Breaker  
+Level: 87  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Thousand Arrows  
+- Leaf Blade  
+- Icicle Crash  
+- Shell Smash  
+
+""","""Torterra @ Leftovers  
+Ability: Mold Breaker  
+Level: 87  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Curse  
+- Thousand Arrows  
+- Avalanche  
+- Slack Off  
+
+""","""Torterra @ Mail  
+Ability: Shadow Tag  
+Level: 87  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Perish Song  
+- Encore  
+- Spikes  
+- Slack Off  
+
+""","""Torterra @ Leftovers  
+Ability: Magic Bounce  
+Level: 87  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Leech Seed  
+- Spore  
+- Aromatherapy  
+- Parting Shot  
+
+""","""Torterra @ Life Orb  
+Ability: Huge Power  
+Level: 87  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Horn Leech  
+- Thousand Arrows  
+- Sacred Fire  
+- V-create  
+
+""","""Torterra @ Leftovers  
+Ability: Prankster  
+Level: 87  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Horn Leech  
+- Soak  
+
+""","""Torterra @ Leftovers  
+Ability: Prankster  
+Level: 87  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Me First  
+- Copycat  
+- Thousand Arrows  
+- Haze  
+
+""","""Torterra @ Sky Plate  
+Ability: Aerilate  
+Level: 87  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Fake Out  
+- Extreme Speed  
+- Thousand Arrows  
+- Stealth Rock  
+
+""","""Torterra @ Mail  
+Ability: Scrappy  
+Level: 87  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stealth Rock  
+- Rapid Spin  
+- Thousand Arrows  
+- Skill Swap  
+
+""","""Torterra @ Toxic Orb  
+Ability: Poison Heal  
+Level: 87  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Leech Seed  
+- Substitute  
+- Taunt  
+- Dragon Tail  
+
+""","""Toxicroak @ Lum Berry  
+Ability: Mold Breaker  
+Level: 90  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Close Combat  
+- Gunk Shot  
+- Knock Off  
+- Shell Smash  
+
+""","""Toxicroak @ Lum Berry  
+Ability: Mold Breaker  
+Level: 90  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Close Combat  
+- Gunk Shot  
+- Thousand Arrows  
+- Shell Smash  
+
+""","""Toxicroak @ Choice Scarf  
+Ability: Wonder Guard  
+Level: 90  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Magic Coat  
+- Defog  
+- Trick  
+- U-turn  
+
+""","""Toxicroak @ Lum Berry  
+Ability: Wonder Guard  
+Level: 90  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Coil  
+- Gunk Shot  
+- Cross Chop  
+- Baton Pass  
+
+""","""Toxicroak @ Focus Sash  
+Ability: No Guard  
+Level: 90  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dynamic Punch  
+- Gunk Shot  
+- Hypnosis  
+- Gastro Acid  
+
+""","""Toxicroak @ Life Orb  
+Ability: Huge Power  
+Level: 90  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Close Combat  
+- Gunk Shot  
+- Sacred Fire  
+- Knock Off  
+
+""","""Toxicroak @ Life Orb  
+Ability: Huge Power  
+Level: 90  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Close Combat  
+- Leaf Blade  
+- Thousand Arrows  
+- Icicle Crash  
+
+""","""Toxicroak @ Black Sludge  
+Ability: Prankster  
+Level: 90  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Encore  
+- Copycat  
+- Baton Pass  
+
+""","""Toxicroak @ Focus Sash  
+Ability: Prankster  
+Level: 90  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Close Combat  
+- Dragon Ascent  
+- V-create  
+- Destiny Bond  
+
+""","""Toxicroak @ Life Orb  
+Ability: Magic Guard  
+Level: 90  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- High Jump Kick  
+- Brave Bird  
+- Head Smash  
+- Toxic  
+
+""","""Trevenant @ Lum Berry  
+Ability: Mold Breaker  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Leaf Blade  
+- Shadow Claw  
+- Focus Energy  
+- Shell Smash  
+
+""","""Trevenant @ Lum Berry  
+Ability: Mold Breaker  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Leaf Blade  
+- Shadow Claw  
+- Play Rough  
+- Shell Smash  
+
+""","""Trevenant @ Leftovers  
+Ability: Magic Bounce  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Knock Off  
+- Defog  
+- Leech Seed  
+- Heal Order  
+
+""","""Trevenant @ Life Orb  
+Ability: Huge Power  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Horn Leech  
+- Sucker Punch  
+- Play Rough  
+- Thousand Arrows
+
+""","""Trevenant @ Leftovers  
+Ability: Prankster  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Encore  
+- Spore  
+- Baton Pass  
+
+""","""Trevenant @ Leftovers  
+Ability: Prankster  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Horn Leech  
+- Spore  
+- Soak  
+
+""","""Trevenant @ Leftovers  
+Ability: Prankster  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Heal Order  
+- Destiny Bond  
+- Spore  
+- Parting Shot  
+
+""","""Trevenant @ Toxic Orb  
+Ability: Poison Heal  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Psycho Shift  
+- Curse  
+- Wish  
+- Spiky Shield  
+
+""","""Trevenant @ Toxic Orb  
+Ability: Poison Heal  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Psycho Shift  
+- Curse  
+- Heal Order  
+- U-turn  
+
+""","""Trevenant @ Leftovers  
+Ability: Fur Coat  
+Level: 92  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Knock Off  
+- Defog  
+- Leech Seed  
+- Heal Order  
+
+""","""Tropius @ Leftovers  
+Ability: Mold Breaker  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Giga Drain  
+- Oblivion Wing  
+- Spore  
+- Quiver Dance  
+
+""","""Tropius @ Leftovers  
+Ability: Magic Bounce  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Wish  
+- Spiky Shield  
+- Spore  
+- Baton Pass  
+
+""","""Tropius @ Leftovers  
+Ability: Prankster  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Encore  
+- Baton Pass  
+
+""","""Tropius @ Leftovers  
+Ability: Prankster  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Oblivion Wing  
+- Leech Seed  
+- Baton Pass  
+
+""","""Tropius @ Leftovers  
+Ability: Prankster  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Encore  
+- Destiny Bond  
+- Heal Order  
+- Parting Shot  
+
+""","""Tropius @ Flame Orb  
+Ability: Magic Guard  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Psycho Shift  
+- Light of Ruin  
+- Leech Seed  
+- Roost  
+
+""","""Tropius @ Leftovers  
+Ability: Gale Wings  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Feather Dance  
+- Chatter  
+- Substitute  
+- Leech Seed  
+
+""","""Tropius @ Toxic Orb  
+Ability: Poison Heal  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Psycho Shift  
+- Oblivion Wing  
+- Heal Order  
+- Spiky Shield  
+
+""","""Tropius @ Focus Sash  
+Ability: Infiltrator  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD  
+IVs: 0 Spe  
+- Metal Burst  
+- Leech Seed  
+- Spore  
+- Roost  
+
+""","""Tropius @ Leftovers  
+Ability: Imposter  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Skill Swap  
+- Defog  
+- Aromatherapy  
+- Roost  
+
+""","""Typhlosion @ Lum Berry  
+Ability: Turboblaze  
+Level: 87  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Searing Shot  
+- Earth Power  
+- Spore  
+- Shell Smash  
+
+""","""Typhlosion @ Lum Berry  
+Ability: Turboblaze  
+Level: 87  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Searing Shot  
+- Earth Power  
+- Thunderbolt  
+- Shell Smash  
+
+""","""Typhlosion @ Choice Scarf  
+Ability: Wonder Guard  
+Level: 87  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Eruption  
+- Magic Coat  
+- Trick  
+- Parting Shot  
+
+""","""Typhlosion @ Stone Plate  
+Ability: Wonder Guard  
+Level: 87  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Shell Smash  
+- Eruption  
+- Judgment  
+- Moonblast  
+
+""","""Typhlosion @ Leftovers  
+Ability: No Guard  
+Level: 87  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stealth Rock  
+- Dynamic Punch  
+- Inferno  
+- Gastro Acid  
+
+""","""Typhlosion @ Leftovers  
+Ability: Parental Bond  
+Level: 87  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Seed Flare  
+- Searing Shot  
+- Night Daze  
+- Moonblast  
+
+""","""Typhlosion @ Leftovers  
+Ability: Contrary  
+Level: 87  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- V-create  
+- Draco Meteor  
+- Leaf Storm  
+- Baton Pass  
+
+""","""Typhlosion @ Toxic Orb  
+Ability: Poison Heal  
+Level: 87  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Searing Shot  
+- Earth Power  
+- Quiver Dance  
+- Spore  
+
+""","""Typhlosion @ Choice Scarf  
+Ability: Tinted Lens  
+Level: 87  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Eruption  
+- Fire Blast  
+- Trick  
+- Destiny Bond  
+
+""","""Typhlosion @ Leftovers  
+Ability: Drought  
+Level: 87  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stealth Rock  
+- Searing Shot  
+- Solar Beam  
+- Skill Swap  
+
 ""","""Tyranitar-Mega @ Lum Berry  
 Ability: Mold Breaker  
 Level: 73  
@@ -28146,6 +35394,96 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Pursuit  
 - Nuzzle  
 - Metal Burst  
+
+""","""Tyrantrum @ Lum Berry  
+Ability: Mold Breaker  
+Level: 88  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Diamond Storm  
+- Dragon Claw  
+- Spore  
+- Shell Smash  
+
+""","""Tyrantrum @ Lum Berry  
+Ability: Mold Breaker  
+Level: 88  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Diamond Storm  
+- Thousand Arrows  
+- Spore  
+- Shell Smash  
+
+""","""Tyrantrum @ Lum Berry  
+Ability: Mold Breaker  
+Level: 88  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Diamond Storm  
+- Dragon Rush  
+- Thousand Arrows  
+- Shell Smash  
+
+""","""Tyrantrum @ Assault Vest  
+Ability: Huge Power  
+Level: 88  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Diamond Storm  
+- Thousand Arrows  
+- Drain Punch  
+- Sucker Punch  
+
+""","""Tyrantrum @ Safety Goggles  
+Ability: Prankster  
+Level: 88  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Diamond Storm  
+- Spore  
+- Me First  
+- Copycat  
+
+""","""Tyrantrum @ Focus Sash  
+Ability: Prankster  
+Level: 88  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- V-create  
+- Diamond Storm  
+- Extreme Speed  
+- Destiny Bond  
+
+""","""Tyrantrum @ Life Orb  
+Ability: Magic Guard  
+Level: 88  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Head Smash  
+- Flare Blitz  
+- Brave Bird  
+- Shell Smash  
+
+""","""Tyrantrum @ Toxic Orb  
+Ability: Poison Heal  
+Level: 88  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Diamond Storm  
+- Thousand Arrows  
+- Spore  
+- Shift Gear  
+
+""","""Tyrantrum @ Toxic Orb  
+Ability: Poison Heal  
+Level: 88  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Diamond Storm  
+- Dragon Rush  
+- Thousand Arrows  
+- Shift Gear  
+
+""","""Tyrantrum @ Assault Vest  
+Ability: Regenerator  
+Level: 88  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Diamond Storm  
+- Knock Off  
+- Nuzzle  
+- U-turn  
 
 ""","""Umbreon @ Leftovers  
 Ability: Mold Breaker  
@@ -28237,6 +35575,357 @@ IVs: 0 Spe
 - Toxic  
 - Heal Bell  
 - Slack Off  
+
+""","""Unfezant @ Choice Band  
+Ability: Mold Breaker  
+Level: 90  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dragon Ascent  
+- Thousand Arrows  
+- Extreme Speed  
+- U-turn  
+
+""","""Unfezant @ Lum Berry  
+Ability: Mold Breaker  
+Level: 90  
+Happiness: 0  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Frustration  
+- Thousand Arrows  
+- Dark Void  
+- Shell Smash  
+
+""","""Unfezant @ Focus Sash  
+Ability: Mold Breaker  
+Level: 90  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dragon Ascent  
+- Close Combat  
+- Extreme Speed  
+- Shell Smash  
+
+""","""Unfezant @ Choice Band  
+Ability: Huge Power  
+Level: 90  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dragon Ascent  
+- Thousand Arrows  
+- Extreme Speed  
+- U-turn  
+
+""","""Unfezant @ Life Orb  
+Ability: Huge Power  
+Level: 90  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Drill Peck  
+- Thousand Arrows  
+- Drain Punch  
+- Extreme Speed  
+
+""","""Unfezant @ Life Orb  
+Ability: Magic Guard  
+Level: 90  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Brave Bird  
+- High Jump Kick  
+- Extreme Speed  
+- Toxic  
+
+""","""Unfezant @ Sky Plate  
+Ability: Aerilate  
+Level: 90  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Fake Out  
+- Extreme Speed  
+- Thousand Arrows  
+- Stealth Rock  
+
+""","""Unfezant @ Focus Sash  
+Ability: Gale Wings  
+Level: 90  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dragon Ascent  
+- Mirror Move  
+- Spiky Shield  
+- Close Combat  
+
+""","""Unfezant @ Leftovers  
+Ability: Contrary  
+Level: 90  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- V-create  
+- Dragon Ascent  
+- Superpower  
+- Gastro Acid  
+
+""","""Unfezant @ Focus Sash  
+Ability: Infiltrator  
+Level: 90  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dragon Ascent  
+- Extreme Speed  
+- Sucker Punch  
+- Dark Void  
+
+""","""Unown @ Leftovers  
+Ability: Mold Breaker  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Quiver Dance  
+- Stored Power  
+- Oblivion Wing  
+- Substitute  
+
+""","""Unown @ Lum Berry  
+Ability: Wonder Guard  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Magic Coat  
+- Spikes  
+- Whirlwind  
+- U-turn  
+
+""","""Unown @ Leftovers  
+Ability: Wonder Guard  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Magic Coat  
+- Sheer Cold  
+- Baton Pass  
+
+""","""Unown @ Leftovers  
+Ability: Shadow Tag  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Perish Song  
+- King's Shield  
+- Recover  
+- Encore  
+
+""","""Unown @ Focus Sash  
+Ability: No Guard  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Agility  
+- Sheer Cold  
+- Gastro Acid  
+- Sing  
+
+""","""Unown @ Focus Sash  
+Ability: No Guard  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stealth Rock  
+- Sheer Cold  
+- Gastro Acid  
+- Sing  
+
+""","""Unown @ Leftovers  
+Ability: Prankster  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Encore  
+- Baton Pass  
+
+""","""Unown @ Leftovers  
+Ability: Prankster  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Destiny Bond  
+- Heart Swap  
+- Baton Pass  
+
+""","""Unown @ Leftovers  
+Ability: Prankster  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Oblivion Wing  
+- Gastro Acid  
+
+""","""Unown @ Leftovers  
+Ability: Moody  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- King's Shield  
+- Stored Power  
+- Baton Pass  
+
+""","""Uxie @ Leftovers  
+Ability: Mold Breaker  
+Level: 83  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Quiver Dance  
+- Stored Power  
+- Oblivion Wing  
+- Substitute  
+
+""","""Uxie @ Choice Scarf  
+Ability: Wonder Guard  
+Level: 83  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Magic Coat  
+- Copycat  
+- Trick  
+- U-turn  
+
+""","""Uxie @ Leftovers  
+Ability: Wonder Guard  
+Level: 83  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Quiver Dance  
+- Psystrike  
+- Baton Pass  
+
+""","""Uxie @ Leftovers  
+Ability: Magic Bounce  
+Level: 83  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stealth Rock  
+- Recover  
+- Will-O-Wisp  
+- Whirlwind  
+
+""","""Uxie @ Leftovers  
+Ability: Magic Bounce  
+Level: 83  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Toxic  
+- Will-O-Wisp  
+- Aromatherapy  
+- Recover  
+
+""","""Uxie @ Leftovers  
+Ability: Shadow Tag  
+Level: 83  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Perish Song  
+- Encore  
+- Spikes  
+- Recover  
+
+""","""Uxie @ Leftovers  
+Ability: Prankster  
+Level: 83  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Minimize  
+- Dark Void  
+- Baton Pass  
+
+""","""Uxie @ Flame Orb  
+Ability: Magic Guard  
+Level: 83  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Psycho Shift  
+- Defog  
+- Recover  
+- Spikes  
+
+""","""Uxie @ Toxic Orb  
+Ability: Poison Heal  
+Level: 83  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Psycho Shift  
+- Taunt  
+- Haze  
+- Recover  
+
+""","""Uxie @ Assault Vest  
+Ability: Regenerator  
+Level: 83  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Knock Off  
+- Nuzzle  
+- Zen Headbutt  
+- U-turn  
+
+""","""Vanilluxe @ Lum Berry  
+Ability: Mold Breaker  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Ice Beam  
+- Earth Power  
+- Dark Void  
+- Shell Smash  
+
+""","""Vanilluxe @ Safety Goggles  
+Ability: Mold Breaker  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Ice Beam  
+- Earth Power  
+- Spore  
+- Shell Smash  
+
+""","""Vanilluxe @ Leftovers  
+Ability: Prankster  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Freeze-Dry  
+- Soak  
+
+""","""Vanilluxe @ Icicle Plate  
+Ability: Refrigerate  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Fake Out  
+- Extreme Speed  
+- Boomburst  
+- Spikes  
+
+""","""Vanilluxe @ Icicle Plate  
+Ability: Refrigerate  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Fake Out  
+- Boomburst  
+- Earth Power  
+- Slack Off  
+
+""","""Vanilluxe @ Focus Sash  
+Ability: Prankster  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Me First  
+- Copycat  
+- Freeze-Dry  
+- Destiny Bond  
+
+""","""Vanilluxe @ Flame Orb  
+Ability: Magic Guard  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Psycho Shift  
+- Mystical Fire  
+- Quiver Dance  
+- Recover  
+
+""","""Vanilluxe @ Leftovers  
+Ability: Parental Bond  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Freeze-Dry  
+- Discharge  
+- Mystical Fire  
+- Gastro Acid  
+
+""","""Vanilluxe @ Leftovers  
+Ability: Fur Coat  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Quiver Dance  
+- Freeze-Dry  
+- Recover  
+- Soak  
+
+""","""Vanilluxe @ Icy Rock  
+Ability: Snow Warning  
+Level: 86  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Spikes  
+- Blizzard  
+- Recover  
+- Skill Swap  
 
 ""","""Vaporeon @ Leftovers  
 Ability: Mold Breaker  
@@ -28418,6 +36107,446 @@ EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Toxic Spikes  
 - Rapid Spin  
 - Skill Swap  
+
+""","""Victini @ Lum Berry  
+Ability: Turboblaze  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dark Void  
+- Shell Smash  
+- Zen Headbutt  
+- V-create  
+
+""","""Victini @ Safety Goggles  
+Ability: Turboblaze  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Spore  
+- Shell Smash  
+- Zen Headbutt  
+- V-create  
+
+""","""Victini @ Safety Goggles  
+Ability: Wonder Guard  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- V-create  
+- Thousand Arrows  
+- Will-O-Wisp  
+- Recover  
+
+""","""Victini @ Leftovers  
+Ability: Wonder Guard  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Recover  
+- Substitute  
+- Baton Pass  
+- Taunt  
+
+""","""Victini @ Lum Berry  
+Ability: Huge Power  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Zen Headbutt  
+- V-create  
+- Bolt Strike  
+- U-turn  
+
+""","""Victini @ Lum Berry  
+Ability: Huge Power  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Zen Headbutt  
+- V-create  
+- Thousand Arrows  
+- U-turn  
+
+""","""Victini @ Life Orb  
+Ability: Magic Guard  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Psystrike  
+- Flare Blitz  
+- Brave Bird  
+- Volt Tackle  
+
+""","""Victini @ Life Orb  
+Ability: Magic Guard  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Zen Headbutt  
+- Flare Blitz  
+- Double-Edge  
+- High Jump Kick  
+
+""","""Victini @ Life Orb  
+Ability: Protean  
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- V-create  
+- Boomburst  
+- Close Combat  
+- U-turn  
+
+""","""Victini @ Leftovers  
+Ability: Contrary   
+Level: 81  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- V-create  
+- Superpower  
+- Forest's Curse  
+
+""","""Volcarona @ Lum Berry  
+Ability: Turboblaze  
+Level: 85  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Shell Smash  
+- Blue Flare  
+- Bug Buzz  
+- Spore  
+
+""","""Volcarona @ Leftovers  
+Ability: Turboblaze  
+Level: 85  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Quiver Dance  
+- Lava Plume  
+- Psystrike  
+- Dark Void  
+
+""","""Volcarona @ Safety Goggles  
+Ability: Wonder Guard  
+Level: 85  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Spikes  
+- U-turn  
+- Magic Coat  
+- Roost  
+
+""","""Volcarona @ Leftovers  
+Ability: Wonder Guard  
+Level: 85  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Shell Smash  
+- Substitute  
+- Magic Coat  
+- Baton Pass  
+
+""","""Volcarona @ Leftovers  
+Ability: Magic Bounce  
+Level: 85  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Bug Buzz  
+- Roost  
+- Aromatherapy  
+- U-turn  
+
+""","""Volcarona @ Leftovers  
+Ability: Prankster  
+Level: 85  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Minimize  
+- Encore  
+- Baton Pass  
+
+""","""Volcarona @ Toxic Orb  
+Ability: Magic Guard  
+Level: 85  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Defog  
+- Psycho Shift  
+- Bug Buzz  
+- Roost  
+
+""","""Volcarona @ Toxic Orb  
+Ability: Magic Guard  
+Level: 85  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Psycho Shift  
+- Lava Plume  
+- Light of Ruin  
+- Roost  
+
+""","""Volcarona @ Safety Goggles  
+Ability: Fur Coat  
+Level: 85  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Counter  
+- Recover  
+- Toxic Spikes  
+- U-turn  
+
+""","""Volcarona @ Assault Vest  
+Ability: Regenerator  
+Level: 85  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Knock Off  
+- Nuzzle  
+- Lava Plume  
+- Volt Switch  
+
+""","""Wailord @ Sitrus Berry  
+Ability: Mold Breaker  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Tail Glow  
+- Steam Eruption  
+- Dark Void  
+- Trick Room  
+
+""","""Wailord @ Safety Goggles  
+Ability: Mold Breaker  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Coil  
+- Dark Void  
+- Crabhammer  
+- Slack Off  
+
+""","""Wailord @ Shed Shell  
+Ability: Wonder Guard  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- King's Shield  
+- Wish  
+- Baton Pass  
+- Magic Coat  
+
+""","""Wailord @ Choice Scarf  
+Ability: Wonder Guard  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Trick  
+- Transform  
+- Parting Shot  
+- Wish  
+
+""","""Wailord @ Meadow Plate  
+Ability: Wonder Guard  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Water Spout  
+- Shell Smash  
+- Judgment  
+- Recover  
+
+""","""Wailord @ Safety Goggles  
+Ability: Prankster  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Haze  
+- Heal Order  
+- Origin Pulse  
+- Gastro Acid  
+
+""","""Wailord @ Flame Orb  
+Ability: Magic Guard  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Psycho Shift  
+- Soft-Boiled  
+- Whirlwind  
+- Scald  
+
+""","""Wailord @ Toxic Orb  
+Ability: Poison Heal  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Quiver Dance  
+- Leech Seed  
+- Psycho Shift  
+- Scald  
+
+""","""Wailord @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Quiver Dance  
+- Scald  
+- King's Shield  
+- Psycho Shift  
+
+""","""Wailord @ Choice Scarf  
+Ability: Imposter  
+Level: 79  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Fake Out  
+- Skill Swap  
+- Aromatherapy  
+- Final Gambit  
+
+""","""Walrein @ Life Orb  
+Ability: Mold Breaker  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Trick Room  
+- Tail Glow  
+- Freeze-Dry  
+- Secret Sword  
+
+""","""Walrein @ Leftovers  
+Ability: Wonder Guard  
+Level: 87  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- King's Shield  
+- Baton Pass  
+- Substitute  
+- Magic Coat  
+
+""","""Walrein @ Leftovers  
+Ability: Magic Bounce  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- King's Shield  
+- Toxic Spikes  
+- Scald  
+- Recover  
+
+""","""Walrein @ Safety Goggles  
+Ability: Prankster  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Haze  
+- Heal Order  
+- Encore  
+- Scald  
+
+""","""Walrein @ Leftovers  
+Ability: Prankster  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Encore  
+- Copycat  
+- Baton Pass  
+
+""","""Walrein @ Flame Orb  
+Ability: Magic Guard  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Psycho Shift  
+- Rapid Spin  
+- Freeze-Dry  
+- Recover  
+
+""","""Walrein @ Leftovers  
+Ability: Protean  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- King's Shield  
+- Powder  
+- Scald  
+- Parting Shot  
+
+""","""Walrein @ Icicle Plate  
+Ability: Refrigerate  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Fake Out  
+- Extreme Speed  
+- Boomburst  
+- Gastro Acid  
+
+""","""Walrein @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Freeze-Dry  
+- Quiver Dance  
+- King's Shield  
+- Psycho Shift  
+
+""","""Walrein @ Leftovers  
+Ability: Fur Coat  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Will-O-Wisp  
+- Slack Off  
+- Scald  
+- Spikes  
+
+""","""Weavile @ Lum Berry  
+Ability: Mold Breaker  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Icicle Crash  
+- Knock Off  
+- Dark Void  
+- Shell Smash  
+
+""","""Weavile @ Focus Sash  
+Ability: Mold Breaker  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Spore  
+- Shift Gear  
+- Knock Off  
+- Icicle Crash  
+
+""","""Weavile @ Choice Band  
+Ability: Mold Breaker  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Sucker Punch  
+- Knock Off  
+- Icicle Crash  
+- Switcheroo  
+
+""","""Weavile @ Lum Berry  
+Ability: No Guard  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Sheer Cold  
+- Hypnosis  
+- Forest's Curse  
+- V-create  
+
+""","""Weavile @ Life Orb  
+Ability: Huge Power  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Knock Off  
+- Meteor Mash  
+- Bolt Strike  
+- Sacred Fire  
+
+""","""Weavile @ Expert Belt  
+Ability: Huge Power  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Pursuit  
+- Thousand Arrows  
+- Sucker Punch  
+- Ice Shard  
+
+""","""Weavile @ Choice Scarf  
+Ability: Huge Power  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Beat Up  
+- Icicle Crash  
+- Thousand Arrows  
+- Horn Leech  
+
+""","""Weavile @ Leftovers  
+Ability: Prankster  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Dark Void  
+- Encore  
+- Baton Pass  
+
+""","""Weavile @ Expert Belt  
+Ability: Refrigerate  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Fake Out  
+- Extreme Speed  
+- Sacred Fire  
+- Meteor Mash  
+
+""","""Weavile @ Life Orb  
+Ability: Contrary  
+Level: 89  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- V-create  
+- Superpower  
+- Knock Off  
+- Iron Head  
 
 ""","""Whiscash @ Leftovers  
 Ability: Mold Breaker  
@@ -28783,10 +36912,100 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Spiky Shield  
 - Recycle  
 
+""","""Xatu @ Safety Goggles  
+Ability: Mold Breaker  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stored Power  
+- Oblivion Wing  
+- Spore  
+- Quiver Dance  
+
+""","""Xatu @ Life Orb  
+Ability: Mold Breaker  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Psystrike  
+- Aeroblast  
+- Shell Smash  
+- King's Shield  
+
+""","""Xatu @ Leftovers  
+Ability: Prankster  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Forest's Curse  
+- Oblivion Wing  
+- Tail Glow  
+
+""","""Xatu @ Flame Orb  
+Ability: Magic Guard  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Psycho Shift  
+- Parting Shot  
+- Defog  
+- Future Sight  
+
+""","""Xatu @ Choice Scarf  
+Ability: Aerilate  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Boomburst  
+- Trick  
+- Healing Wish  
+- Psycho Boost  
+
+""","""Xatu @ Life Orb  
+Ability: Gale Wings  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Oblivion Wing  
+- Tail Glow  
+- Searing Shot  
+- Chatter  
+
+""","""Xatu @ Leftovers  
+Ability: Gale Wings  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Feather Dance  
+- Roost  
+- Aeroblast  
+- Tail Glow  
+
+""","""Xatu @ Life Orb  
+Ability: Contrary  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Psycho Boost  
+- V-create  
+- Leaf Storm  
+- Draco Meteor  
+
+""","""Xatu @ Leftovers  
+Ability: Fur Coat  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Will-O-Wisp  
+- Roost  
+- Future Sight  
+- Spiky Shield  
+
+""","""Xatu @ White Herb  
+Ability: Simple  
+Level: 92  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stored Power  
+- Shell Smash  
+- Moonblast  
+- Baton Pass  
+
 ""","""Xerneas @ Lum Berry  
 Ability: Mold Breaker  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Moonblast  
 - Dark Pulse  
 - Dark Void  
@@ -28794,8 +37013,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Xerneas @ Safety Goggles  
 Ability: Mold Breaker  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Moonblast  
 - Dark Pulse  
 - Spore  
@@ -28803,8 +37022,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Xerneas @ Choice Scarf  
 Ability: Wonder Guard  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Magic Coat  
 - Copycat  
 - Trick  
@@ -28812,8 +37031,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Xerneas @ Leftovers  
 Ability: Wonder Guard  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Magic Coat  
 - Taunt  
 - Spikes  
@@ -28821,8 +37040,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Xerneas @ White Herb  
 Ability: Wonder Guard  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Shell Smash  
 - Moonblast  
 - Earth Power
@@ -28830,8 +37049,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Xerneas @ Leftovers  
 Ability: Magic Bounce  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Moonblast  
 - Searing Shot
 - Recover  
@@ -28839,8 +37058,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Xerneas @ White Herb  
 Ability: Magic Bounce  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Shell Smash  
 - Moonblast  
 - Earth Power
@@ -28848,8 +37067,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Xerneas @ Leftovers  
 Ability: Prankster  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Substitute  
 - Copycat  
 - Encore  
@@ -28857,8 +37076,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Xerneas @ Pixie Plate  
 Ability: Pixilate  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Fake Out  
 - Extreme Speed  
 - Boomburst  
@@ -28866,8 +37085,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Xerneas @ Shed Shell  
 Ability: Fur Coat  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Moonblast  
 - Recover
 - Magma Storm  
@@ -28965,8 +37184,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Yveltal @ Big Root  
 Ability: Mold Breaker  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Oblivion Wing  
 - Dark Pulse  
 - Shell Smash  
@@ -28974,17 +37193,17 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Yveltal @ Safety Goggles  
 Ability: Magic Bounce  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Defog  
 - Roost  
 - Taunt  
-- Spectral Thief  
+- Knock Off
 
 ""","""Yveltal @ Safety Goggles  
 Ability: Huge Power  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Trick-or-Treat  
 - Pursuit  
 - Knock Off  
@@ -28992,17 +37211,17 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Yveltal @ Safety Goggles  
 Ability: Prankster  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Destiny Bond  
-- Spectral Thief  
+- Haze
 - Slack Off  
-- Gastro Acid  
+- Knock Off  
 
 ""","""Yveltal @ Safety Goggles  
 Ability: Prankster  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Gastro Acid  
 - Pursuit  
 - Heal Order  
@@ -29010,8 +37229,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Yveltal @ Toxic Orb  
 Ability: Magic Guard  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Psycho Shift  
 - Recover  
 - Knock Off  
@@ -29019,8 +37238,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Yveltal @ Toxic Orb  
 Ability: Poison Heal  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Trick  
 - Pursuit  
 - Trick-or-Treat  
@@ -29028,8 +37247,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Yveltal @ Lum Berry  
 Ability: Gale Wings  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Brave Bird  
 - Forest's Curse  
 - Shift Gear  
@@ -29037,8 +37256,8 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Yveltal @ Safety Goggles  
 Ability: Fur Coat  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Foul Play  
 - Heal Order  
 - Toxic  
@@ -29046,17 +37265,290 @@ EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Yveltal @ White Herb  
 Ability: Simple  
-Level: 75  
-EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Shell Smash  
 - Stored Power  
 - Earth Power  
 - Gastro Acid  
 
+""","""Zangoose @ Lum Berry  
+Ability: Mold Breaker  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Belly Drum  
+- Extreme Speed  
+- King's Shield  
+- Knock Off  
+
+""","""Zangoose @ Safety Goggles  
+Ability: Mold Breaker  
+Level: 93  
+Happiness: 0  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Frustration  
+- Shadow Claw  
+- Shell Smash  
+- Spore  
+
+""","""Zangoose @ Shed Shell  
+Ability: Wonder Guard  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Serious Nature  
+- King's Shield  
+- Magic Coat  
+- Super Fang  
+- Parting Shot  
+
+""","""Zangoose @ Safety Goggles  
+Ability: Wonder Guard  
+Level: 93  
+Happiness: 0  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Shell Smash  
+- Frustration  
+- Baton Pass  
+
+""","""Zangoose @ Silk Scarf  
+Ability: Huge Power  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Fake Out  
+- Extreme Speed  
+- Knock Off  
+- Thousand Arrows  
+
+""","""Zangoose @ Focus Sash  
+Ability: Huge Power  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Play Rough  
+- Sacred Fire  
+- Horn Leech  
+- Meteor Mash  
+
+""","""Zangoose @ Toxic Orb  
+Ability: Magic Guard  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Bulk Up  
+- Facade  
+- Spiky Shield  
+- Shadow Claw  
+
+""","""Zangoose @ Toxic Orb  
+Ability: Poison Heal  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Facade  
+- Shift Gear  
+- Knock Off  
+- Spiky Shield  
+
+""","""Zangoose @ Sitrus Berry  
+Ability: Scrappy  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Extreme Speed  
+- Belly Drum  
+- Drain Punch  
+- Gastro Acid  
+
+""","""Zangoose @ Leftovers  
+Ability: Moody  
+Level: 93  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spiky Shield  
+- Baton Pass  
+- Acupressure  
+
+""","""Zapdos @ Lum Berry  
+Ability: Teravolt  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Oblivion Wing  
+- Parabolic Charge  
+- Dark Void  
+- Shell Smash  
+
+""","""Zapdos @ Safety Goggles  
+Ability: Teravolt  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Secret Sword  
+- Oblivion Wing  
+- Spore  
+- Quiver Dance  
+
+""","""Zapdos @ Wide Lens  
+Ability: Teravolt  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Thunder  
+- Hurricane  
+- Dark Void  
+- Shell Smash  
+
+""","""Zapdos @ Leftovers  
+Ability: Magic Bounce  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Oblivion Wing  
+- Recover  
+- King's Shield  
+- Parting Shot  
+
+""","""Zapdos @ Leftovers  
+Ability: Prankster  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Glare  
+- Roost  
+- Air Slash  
+- Forest's Curse  
+
+""","""Zapdos @ Life Orb  
+Ability: Prankster  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Tail Glow  
+- Forest's Curse  
+- Oblivion Wing  
+
+""","""Zapdos @ Flame Orb  
+Ability: Magic Guard  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Psycho Shift  
+- Volt Switch  
+- Roost  
+- Defog  
+
+""","""Zapdos @ Sky Plate  
+Ability: Aerilate  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Boomburst  
+- Extreme Speed  
+- Quiver Dance  
+- Forest's Curse  
+
+""","""Zapdos @ Leftovers  
+Ability: Gale Wings  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Oblivion Wing  
+- Tail Glow  
+- Forest's Curse  
+- Feather Dance  
+
+""","""Zapdos @ Lum Berry  
+Ability: Speed Boost  
+Level: 83  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Parabolic Charge  
+- Tail Glow  
+- Soak  
+
+""","""Zebstrika @ Lum Berry  
+Ability: Teravolt  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Nuzzle  
+- Stealth Rock  
+- Knock Off  
+- Taunt  
+
+""","""Zebstrika @ Safety Goggles  
+Ability: Teravolt  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Fusion Bolt  
+- Shell Smash  
+- Spore  
+- Icicle Crash  
+
+""","""Zebstrika @ Life Orb  
+Ability: Teravolt  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Shell Smash  
+- Dark Void  
+- Thunderbolt  
+- Fusion Flare  
+
+""","""Zebstrika @ Lum Berry  
+Ability: Wonder Guard  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Gastro Acid  
+- Volt Switch  
+- Glare  
+- Copycat  
+
+""","""Zebstrika @ Leftovers  
+Ability: Wonder Guard  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Baton Pass  
+- Shell Smash  
+- Thunderbolt  
+
+""","""Zebstrika @ Focus Sash  
+Ability: No Guard  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Zap Cannon  
+- Fissure  
+- Gastro Acid  
+- Sing  
+
+""","""Zebstrika @ Expert Belt  
+Ability: Huge Power  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Fusion Bolt  
+- Thousand Arrows  
+- Knock Off  
+- Poison Jab  
+
+""","""Zebstrika @ Leftovers  
+Ability: Prankster  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Soak  
+- Thunder Punch  
+- Bulk Up  
+
+""","""Zebstrika @ Expert Belt  
+Ability: Refrigerate  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Boomburst  
+- Thunderbolt  
+- Extreme Speed  
+- Forest's Curse  
+
+""","""Zebstrika @ Leftovers  
+Ability: Speed Boost  
+Level: 90  
+EVs: 84 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Spore  
+- Electro Ball  
+- Soak  
+
 ""","""Zekrom @ Lum Berry  
 Ability: Teravolt  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Fusion Bolt  
 - Dragon Claw  
 - Dark Void  
@@ -29064,8 +37556,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Zekrom @ Safety Goggles  
 Ability: Teravolt  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Fusion Bolt  
 - Dragon Claw  
 - Spore  
@@ -29073,8 +37565,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Zekrom @ Leftovers  
 Ability: Teravolt  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Coil  
 - Bolt Strike  
 - Dragon Rush  
@@ -29082,8 +37574,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Zekrom @ Leftovers  
 Ability: Magic Bounce  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Fusion Bolt  
 - Dragon Claw  
 - Roost  
@@ -29091,8 +37583,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Zekrom @ Life Orb  
 Ability: Huge Power  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Fusion Bolt  
 - Dragon Claw  
 - Drill Peck  
@@ -29100,8 +37592,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Zekrom @ Focus Sash  
 Ability: Huge Power  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Fusion Bolt  
 - Dragon Claw  
 - Dragon Ascent  
@@ -29109,8 +37601,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Zekrom @ Focus Sash  
 Ability: Prankster  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - V-create  
 - Fusion Bolt  
 - Close Combat  
@@ -29118,8 +37610,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Zekrom @ Life Orb  
 Ability: Magic Guard  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Volt Tackle  
 - Head Smash  
 - High Jump Kick  
@@ -29127,8 +37619,8 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Zekrom @ Lum Berry  
 Ability: Refrigerate   
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Return  
 - Fusion Bolt  
 - Shift Gear  
@@ -29136,12 +37628,102 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 
 ""","""Zekrom @ Focus Sash  
 Ability: Infiltrator  
-Level: 75  
-EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+Level: 74  
+EVs: 88 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
 - Extreme Speed  
 - Sucker Punch  
 - Fusion Bolt  
 - Gastro Acid  
+
+""","""Zoroark @ Life Orb  
+Ability: Mold Breaker  
+Level: 89  
+EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Shell Smash  
+- Stored Power  
+- Night Daze  
+- Dark Void  
+
+""","""Zoroark @ Safety Goggles  
+Ability: Mold Breaker  
+Level: 89  
+EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Knock Off  
+- Meteor Mash  
+- Spore  
+- Shift Gear  
+
+""","""Zoroark @ Shed Shell  
+Ability: Wonder Guard  
+Level: 89  
+EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Sucker Punch  
+- Parting Shot  
+- King's Shield  
+- Toxic  
+
+""","""Zoroark @ Lum Berry  
+Ability: Wonder Guard  
+Level: 89  
+EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Pursuit  
+- U-turn  
+- Recover  
+- Toxic Spikes  
+
+""","""Zoroark @ Expert Belt  
+Ability: Huge Power  
+Level: 89  
+EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Trick-or-Treat  
+- Pursuit  
+- Knock Off  
+- Iron Head  
+
+""","""Zoroark @ Leftovers  
+Ability: Prankster  
+Level: 89  
+EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Night Daze  
+- Quiver Dance  
+- Trick-or-Treat  
+
+""","""Zoroark @ Leftovers  
+Ability: Prankster  
+Level: 89  
+EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Substitute  
+- Encore  
+- Copycat  
+- Baton Pass  
+
+""","""Zoroark @ Lum Berry  
+Ability: Parental Bond  
+Level: 89  
+EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Night Daze  
+- Searing Shot  
+- Quiver Dance  
+- Parabolic Charge  
+
+""","""Zoroark @ Pixie Plate  
+Ability: Simple  
+Level: 89  
+EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Stored Power  
+- Shell Smash  
+- Judgment  
+- Dark Void  
+
+""","""Zoroark @ Choice Scarf  
+Ability: Mega Launcher  
+Level: 89  
+EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe  
+- Dark Pulse  
+- Aura Sphere  
+- Origin Pulse  
+- Trick  
 
 ""","""Zygarde @ Lum Berry  
 Ability: Mold Breaker  
@@ -29231,6 +37813,5 @@ EVs: 80 HP / 84 Atk / 84 Def / 84 SpA / 84 SpD / 84 Spe
 - Thousand Arrows  
 - Spikes  
 - Rapid Spin  
-- Skill Swap """]
-if __name__ == '__main__':
-	print(len(friilist))
+- Skill Swap"""
+]

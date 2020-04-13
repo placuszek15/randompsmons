@@ -4,14 +4,7 @@ import sys
 import time
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-mon1 = None
-mon2 = mon1
-mon3 = mon1
-mon4 = mon1
-mon5 = mon1
-mon6 = mon1
-team = mon1
-pasteplace = mon1
+pasteplace = None
 finished = 0
 def save():
     done = False
@@ -97,17 +90,17 @@ def savetoPokepastes():
     pasteplace = driver.find_element_by_name("paste")
     pasteplace.send_keys(Keys.TAB)
     pasteplace.clear()
-    pasteplace.send_keys(mon1)
+    pasteplace.send_keys(team[0])
     newline()
-    pasteplace.send_keys(mon2)
+    pasteplace.send_keys(team[1])
     newline()
-    pasteplace.send_keys(mon3)
+    pasteplace.send_keys(team[2])
     newline()
-    pasteplace.send_keys(mon4)
+    pasteplace.send_keys(team[3])
     newline()
-    pasteplace.send_keys(mon5)
+    pasteplace.send_keys(team[4])
     newline()
-    pasteplace.send_keys(mon6)
+    pasteplace.send_keys(team[5])
     try:
         if flag == True:
             pasteplace.send_keys("silent")
@@ -120,7 +113,7 @@ def savetoPokepastes():
         driver.quit()
 
 def savefile():
-    
+    global team 
     bointer = True
     while bointer == True:
         filename = input("Input filename: ")
@@ -129,13 +122,13 @@ def savefile():
                 print("Saving to " + filename + "...")
                 time.sleep(2)
                 f = open(str(filename), "x")
-                f.write(team)
+                f.write(team[0] + team[1] + team[2] +  team[3] + team[4] + team[5])
                 bointer = False
             else:
                 print("Saving to " + filename + ".txt" + "...")
                 time.sleep(2)
                 f = open(str(filename)+".txt", "x")
-                f.write(team)
+                f.write(team[0] + team[1] + team[2] +  team[3] + team[4] + team[5])
                 f.close()
                 bointer = False
         except FileExistsError:
@@ -143,42 +136,53 @@ def savefile():
 
 
 def createTeam(s):
-    global mon1,mon2,mon3,mon4,mon5,mon6,team,flag,uwu
-    n = 1
-    mon1 = None
-    mon2 = mon1
-    mon3 = mon1
-    mon4 = mon1
-    mon5 = mon1
-    mon6 = mon1
-    while mon1 == None or mon2 == None or mon3 == None or mon4 == None or mon5 == None or mon6 == None:
-        wg = "Wonder Guard"
-        mold = "Mold Breaker"
-        a = random.choice(friilist)
-        if wg in a and mon5 == None:
-            mon5 = a
-        elif mold in a and mon6 == None:
-            mon6 = a
-        elif n == 1:
-            mon1 = a
-            n = 2 
-        elif n == 2:
-            mon2 = a
-            n = 3
-        elif n == 3:
-            mon3 = a
-            n = 4
-        elif n == 4:
-            mon4 = a
-            n = 5
-        else:
-            pass
-    team =(mon1 + "\n" + mon2 + "\n" + mon3 + "\n" + mon4 + "\n" + mon5 + "\n" + mon6 + "\n")    
+    global team,flag
+    team = [None] * 6
+    abil = [None] * 6
+    recr = False
+    while team[0] == None or team[1] == None or team[2] == None or team[3] == None or team[4] == None or team[5] == None or recr == True:
+        recr = False
+        while team[4] == None or team[5] == None:
+            a = random.choice(friilist)
+            if "Wonder Guard" in a and team[4] == None:
+                team[4] = a
+                abil[4] = team[4]
+                abil[4] = abil[4].split("\n")
+                abil[4] = [x for x in abil[4] if "Ability:" in x]
+            elif "Mold Breaker" in a and team[5] == None:
+                team[5] = a
+                abil[5] = team[5]
+                abil[5] = abil[5].split("\n")
+                abil[5] = [x for x in abil[5] if "Ability:" in x]
+        for n in range(4):
+            a = random.choice(friilist)
+            team[n] = a
+            abil[n] = team[n]
+            abil[n] = abil[n].split("\n")
+            abil[n] = [x for x in abil[n] if "Ability:" in x]    
+        for b in range(6):
+            count = []
+            stillsomething = abil[b]
+            print(stillsomething)
+            if stillsomething == "Ability: Turboblaze":
+                count.append(b)
+                stillsomething == "Ability: Mold Breaker"
+            elif stillsomething == "Ability: Teravolt":
+                count.append(b)
+                stillsomething == "Ability: Mold Breaker"
+            something = abil.count(stillsomething)
+            if count != []:
+                print(count)
+            if something >= 3:
+                recr = True
+        for h in count:
+            abil[h] = "Ability: " + random.randchoice(["Teravolt","Turboblaze"])
+
     if "-s" in sys.argv or s == "silent":
         pass
         flag = True
     else:
-        print(team)
+        print(team[0] + team[1] + team[2] +  team[3] + team[4] + team[5])
 def main():
     global finished
     amount = ""
