@@ -67,7 +67,7 @@ def runchrome():
     global driver
     options = webdriver.ChromeOptions()
     options.add_argument('headless')
-    options.add_argument('--no-sandbox')
+    #options.add_argument('--no-sandbox')
     options.add_argument('--log-level=3')
     options.add_experimental_option('excludeSwitches', ['enable-logging'])
     try:
@@ -83,8 +83,9 @@ def newline():
     pasteplace.send_keys(Keys.ENTER)
     pasteplace.send_keys("\n")
 
-def savetoPokepastes():
-    global driver,pasteplace,finished
+def savetoPokepastes(team):
+    global driver,pasteplace,finished,flag
+    runchrome()
     driver.implicitly_wait(0)
     driver.get("https://pokepast.es")
     pasteplace = driver.find_element_by_name("paste")
@@ -101,34 +102,35 @@ def savetoPokepastes():
     pasteplace.send_keys(team[4])
     newline()
     pasteplace.send_keys(team[5])
+    newline()
     try:
         if flag == True:
             pasteplace.send_keys("silent")
     except: 
         pass
     savebutton = driver.find_element_by_xpath("//input[ @type='Submit' and @value='Submit Paste!']")
-    savebutton.click()
-    print("Your team has been saved at: " + driver.current_url)
-    if finished == 1:
-        driver.quit()
+    savebutton.click()        
+    return driver.current_url
+    driver.quit()
+    driver.close()
 
 def savefile():
     global team 
     bointer = True
     while bointer == True:
-        filename = input("Input filename: ")
+        #filename = input("Input filename: ")
         try:
             if ".txt" in filename:
                 print("Saving to " + filename + "...")
                 time.sleep(2)
                 f = open(str(filename), "x")
-                f.write(team[0] + team[1] + team[2] +  team[3] + team[4] + team[5])
+                f.write(team[0] + team[1] + team[2] +  team[3] + team[4] + team[5] + "\n" + str(magic))
                 bointer = False
             else:
                 print("Saving to " + filename + ".txt" + "...")
                 time.sleep(2)
                 f = open(str(filename)+".txt", "x")
-                f.write(team[0] + team[1] + team[2] +  team[3] + team[4] + team[5])
+                f.write(team[0] + team[1] + team[2] +  team[3] + team[4] + team[5] + "\n" + str(magic))
                 f.close()
                 bointer = False
         except FileExistsError:
@@ -170,8 +172,6 @@ def createTeam(s):
                 count.append(b)
                 stillsomething == "Ability: Mold Breaker"
             something = abil.count(stillsomething)
-            if count != []:
-                print(count)
             if something >= 3:
                 recr = True
         for h in count:
@@ -181,8 +181,8 @@ def createTeam(s):
         pass
         flag = True
     else:
-        print(team[0] + team[1] + team[2] +  team[3] + team[4] + team[5])
-def main():
+        return team
+def dostuff():
     global finished
     amount = ""
     while not(parser(amount)):
@@ -196,8 +196,8 @@ def main():
                 createTeam("silent")
                 print("Created a new team!")
                 save()
-    finished = 1
+        finished = 1
     sys.exit()
 
-runchrome()
-main()
+#runchrome()
+#dostuff()

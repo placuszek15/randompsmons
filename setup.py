@@ -1,10 +1,12 @@
 from cx_Freeze import setup, Executable
+import sys
 
 base = None    
+if (sys.platform == "win32"):
+    base = "Win32GUI"   
+executables = [Executable("main.py", base=base)]
 
-executables = [Executable("randommons.py", base=base)]
-
-packages = ["idna","lists","random","sys","time","selenium","queue"]
+packages = ["idna","lists","random","sys","time","selenium","queue","randommons","friigooi","pyqt5"]
 options = {
     'build_exe': {    
         'packages':packages,
