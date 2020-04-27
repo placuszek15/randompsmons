@@ -5,6 +5,7 @@ from PyQt5.QtWidgets import QFileDialog, QApplication
 from PyQt5.QtGui import QIcon, QPixmap
 n = 0
 count = 0
+counter = 0 
 def file_save():
     global a 
     options = QFileDialog.Options()
@@ -20,8 +21,10 @@ def file_save():
     except:
         pass
 def createactual():
-    global a 
-    a = createTeam("a") 
+    global a, counter 
+    a = createTeam("a")
+    counter += 1 
+    ui.label_2.setText("Current url" + "(" + str(counter)+"th"+")")
 def stpactual():
     global a 
     try:
@@ -60,11 +63,9 @@ app = QtWidgets.QApplication(sys.argv)
 MainWindow = QtWidgets.QMainWindow()
 ui = Ui_MainWindow()
 ui.setupUi(MainWindow)
-
 MainWindow.show()
 ui.label.setScaledContents(True)
 ui.pushButton_4.clicked.connect(lambda: createactual())
-
 ui.pushButton.clicked.connect(lambda: file_save())
 ui.pushButton_2.clicked.connect(lambda: stpactual())
 ui.pushButton_3.clicked.connect(lambda: clipcopy())

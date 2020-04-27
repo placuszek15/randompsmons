@@ -1,0 +1,8 @@
+"idna"
+"lists"
+"random"
+"sys"
+"time"
+"selenium"
+"queue"
+"pyqt5"

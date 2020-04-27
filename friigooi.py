@@ -47,7 +47,7 @@ class Ui_MainWindow(object):
         self.pushButton_4.setFont(font)
         self.pushButton_4.setObjectName("pushButton_4")
         self.label_2 = QtWidgets.QLabel(self.centralwidget)
-        self.label_2.setGeometry(QtCore.QRect(120, 260, 61, 21))
+        self.label_2.setGeometry(QtCore.QRect(100, 260, 81, 21))
         self.label_2.setObjectName("label_2")
         self.pushButton_5 = QtWidgets.QPushButton(self.centralwidget)
         self.pushButton_5.setGeometry(QtCore.QRect(414, 30, 91, 31))

@@ -67,16 +67,16 @@ def runchrome():
     global driver
     options = webdriver.ChromeOptions()
     options.add_argument('headless')
-    #options.add_argument('--no-sandbox')
+    options.add_argument('--no-sandbox')
     options.add_argument('--log-level=3')
     options.add_experimental_option('excludeSwitches', ['enable-logging'])
-    try:
-        driver = webdriver.Chrome(options = options)
-    except:
-        print("Chrome driver not found, please put it into your system PATH variable or into the same directory as the executable")
-        print("Aborting....")
-        time.sleep(1)
-        sys.exit()
+    #try:
+    driver = webdriver.Chrome(options = options)
+    #except:
+        #print("Chrome driver not found, please put it into your system PATH variable or into the same directory as the executable")
+        #print("Aborting....")
+        #time.sleep(1)
+        #sys.exit()
 
 def newline():
     global pasteplace
@@ -118,19 +118,19 @@ def savefile():
     global team 
     bointer = True
     while bointer == True:
-        #filename = input("Input filename: ")
+        filename = input("Input filename: ")
         try:
             if ".txt" in filename:
                 print("Saving to " + filename + "...")
                 time.sleep(2)
                 f = open(str(filename), "x")
-                f.write(team[0] + team[1] + team[2] +  team[3] + team[4] + team[5] + "\n" + str(magic))
+                f.write(team[0] + team[1] + team[2] +  team[3] + team[4] + team[5] + "\n")  #str(magic))
                 bointer = False
             else:
                 print("Saving to " + filename + ".txt" + "...")
                 time.sleep(2)
                 f = open(str(filename)+".txt", "x")
-                f.write(team[0] + team[1] + team[2] +  team[3] + team[4] + team[5] + "\n" + str(magic))
+                f.write(team[0] + team[1] + team[2] +  team[3] + team[4] + team[5] + "\n") #+ str(magic))
                 f.close()
                 bointer = False
         except FileExistsError:
@@ -138,7 +138,7 @@ def savefile():
 
 
 def createTeam(s):
-    global team,flag
+    global team,flag,count
     team = [None] * 6
     abil = [None] * 6
     recr = False
@@ -147,35 +147,32 @@ def createTeam(s):
         while team[4] == None or team[5] == None:
             a = random.choice(friilist)
             if "Wonder Guard" in a and team[4] == None:
-                team[4] = a
-                abil[4] = team[4]
-                abil[4] = abil[4].split("\n")
-                abil[4] = [x for x in abil[4] if "Ability:" in x]
+                team[4] = a 
+                abil[4] = [x for x in team[4].split("\n") if "Ability:" in x][0]
+                while abil[4][-1] == ' ':
+                    abil[4] = abil[4][:-1]
             elif "Mold Breaker" in a and team[5] == None:
                 team[5] = a
-                abil[5] = team[5]
-                abil[5] = abil[5].split("\n")
-                abil[5] = [x for x in abil[5] if "Ability:" in x]
+                abil[5] = [x for x in team[5].split("\n") if "Ability:" in x][0]
+                while abil[5][-1] == ' ':
+                    abil[5] = abil[5][:-1]
         for n in range(4):
             a = random.choice(friilist)
             team[n] = a
-            abil[n] = team[n]
-            abil[n] = abil[n].split("\n")
-            abil[n] = [x for x in abil[n] if "Ability:" in x]    
+            abil[n] = [x for x in team[n].split("\n") if "Ability:" in x][0]  
+            while abil[n][-1] == ' ':
+                abil[n] = abil[n][:-1]
         for b in range(6):
-            count = []
             stillsomething = abil[b]
             if stillsomething == "Ability: Turboblaze":
-                count.append(b)
-                stillsomething == "Ability: Mold Breaker"
+                stillsomething = "Ability: Mold Breaker"
             elif stillsomething == "Ability: Teravolt":
-                count.append(b)
-                stillsomething == "Ability: Mold Breaker"
+                stillsomething = "Ability: Mold Breaker"
             something = abil.count(stillsomething)
             if something >= 3:
                 recr = True
-        for h in count:
-            abil[h] = "Ability: " + random.randchoice(["Teravolt","Turboblaze"])
+    #count += 1
+    #print("team created = " + str(count))
 
     if "-s" in sys.argv or s == "silent":
         pass
