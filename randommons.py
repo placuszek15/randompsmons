@@ -70,13 +70,13 @@ def runchrome():
     options.add_argument('--no-sandbox')
     options.add_argument('--log-level=3')
     options.add_experimental_option('excludeSwitches', ['enable-logging'])
-    #try:
-    driver = webdriver.Chrome(options = options)
-    #except:
-        #print("Chrome driver not found, please put it into your system PATH variable or into the same directory as the executable")
-        #print("Aborting....")
-        #time.sleep(1)
-        #sys.exit()
+    try:
+        driver = webdriver.Chrome(options = options)
+    except:
+        print("Chrome driver not found, please put it into your system PATH variable or into the same directory as the executable")
+        print("Aborting....")
+        time.sleep(1)
+        sys.exit()
 
 def newline():
     global pasteplace
