@@ -6,3 +6,4 @@
 "selenium"
 "queue"
 "pyqt5"
+"pyinstaller"
