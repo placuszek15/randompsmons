@@ -2,8 +2,8 @@ from lists import friilist
 import random
 import sys
 import time
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
+import requests
+
 pasteplace = None
 finished = 0
 def save():
@@ -63,56 +63,17 @@ MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM""")
             return False
     except ValueError:
         return False
-def runchrome():
-    global driver
-    options = webdriver.ChromeOptions()
-    options.add_argument('headless')
-    options.add_argument('--no-sandbox')
-    options.add_argument('--log-level=3')
-    options.add_experimental_option('excludeSwitches', ['enable-logging'])
-    try:
-        driver = webdriver.Chrome(options = options)
-    except:
-        print("Chrome driver not found, please put it into your system PATH variable or into the same directory as the executable")
-        print("Aborting....")
-        time.sleep(1)
-        sys.exit()
-
-def newline():
-    global pasteplace
-    pasteplace.send_keys(Keys.ENTER)
-    pasteplace.send_keys("\n")
 
 def savetoPokepastes(team):
-    global driver,pasteplace,finished,flag
-    runchrome()
-    driver.implicitly_wait(0)
-    driver.get("https://pokepast.es")
-    pasteplace = driver.find_element_by_name("paste")
-    pasteplace.send_keys(Keys.TAB)
-    pasteplace.clear()
-    pasteplace.send_keys(team[0])
-    newline()
-    pasteplace.send_keys(team[1])
-    newline()
-    pasteplace.send_keys(team[2])
-    newline()
-    pasteplace.send_keys(team[3])
-    newline()
-    pasteplace.send_keys(team[4])
-    newline()
-    pasteplace.send_keys(team[5])
-    newline()
-    try:
-        if flag == True:
-            pasteplace.send_keys("silent")
-    except: 
-        pass
-    savebutton = driver.find_element_by_xpath("//input[ @type='Submit' and @value='Submit Paste!']")
-    savebutton.click()        
-    return driver.current_url
-    driver.quit()
-    driver.close()
+    #global flag
+    paste = (team[0] + team[1] + team[2] +  team[3] + team[4] + team[5]).replace("\n", "\r\n")
+    #if flag:
+    #    paste += "silent"
+    response = requests.post("https://pokepast.es/create", data={"paste" : paste})
+    if response.status_code != 200:
+        print("Error: post request returned bad status code %d with text %s" % (response.status_code, response.text))
+        return ""
+    return response.url
 
 def savefile():
     global team 
