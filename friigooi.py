@@ -9,6 +9,7 @@
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtWidgets import QFileDialog
+import time
 
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
@@ -52,6 +53,9 @@ class Ui_MainWindow(object):
         self.pushButton_5 = QtWidgets.QPushButton(self.centralwidget)
         self.pushButton_5.setGeometry(QtCore.QRect(414, 30, 91, 31))
         self.pushButton_5.setObjectName("pushButton_5")
+        self.label_3 = QtWidgets.QLabel(self.centralwidget)
+        self.label_3.setGeometry(QtCore.QRect(400,95,80,20))
+        self.label_3.setObjectName("label_3")
         MainWindow.setCentralWidget(self.centralwidget)
         self.menubar = QtWidgets.QMenuBar(MainWindow)
         self.menubar.setGeometry(QtCore.QRect(0, 0, 541, 21))
@@ -73,7 +77,19 @@ class Ui_MainWindow(object):
         self.pushButton_4.setText(_translate("MainWindow", "Create team!"))
         self.label_2.setText(_translate("MainWindow", "Current url"))
         self.pushButton_5.setText(_translate("MainWindow", "Change theme"))
-
+        self.label_3.setText(_translate("MainWindow", "Current team"))
+    def dynamicaww(self, MainWindow):
+        w = MainWindow.frameGeometry().width()
+        h = MainWindow.frameGeometry().height()
+        print(h)
+        self.label.setGeometry(QtCore.QRect(0, 0, w, h))
+        self.lineEdit.setGeometry(QtCore.QRect(round(w/3), round(h/1.69), 160, 20))
+        self.pushButton.setGeometry(QtCore.QRect(round(w/3.84), round(h/1.95454545454545454545454545454), 111, 31))
+        self.pushButton_2.setGeometry(QtCore.QRect(round(w/(500/270)),round(h/(430/220)), 111, 31))
+        self.pushButton_3.setGeometry(QtCore.QRect(round(w/(500/190)),round(h/(430/290)), 151, 31))
+        self.pushButton_4.setGeometry(QtCore.QRect(round(w/(500/130)),round(h/(430/80)), 251, 111))
+        self.label_2.setGeometry(QtCore.QRect(round(w/(500/100)), round(h/(430/260)), 81, 21))
+        self.pushButton_5.setGeometry(QtCore.QRect(round(w/(500/414)), round(h/(430/30)), 91, 31))
 
 
 if __name__ == "__main__":
@@ -83,4 +99,13 @@ if __name__ == "__main__":
     ui = Ui_MainWindow()
     ui.setupUi(MainWindow)
     MainWindow.show()
+    w = MainWindow.frameGeometry().width()
+    h = MainWindow.frameGeometry().height()
+    i = 0
+    while True:
+        print(w,h)
+        print(MainWindow.frameGeometry().width(),MainWindow.frameGeometry().height(),"a")
+        if MainWindow.frameGeometry().height() != h or MainWindow.frameGeometry().width() != w:
+            ui.dynamicaww(MainWindow)
+        i += 1 
     sys.exit(app.exec_())
