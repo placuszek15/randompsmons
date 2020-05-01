@@ -9,7 +9,7 @@
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtWidgets import QFileDialog
-import time
+from PyQt5.QtCore import QThread
 
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
@@ -81,16 +81,15 @@ class Ui_MainWindow(object):
     def dynamicaww(self, MainWindow):
         w = MainWindow.frameGeometry().width()
         h = MainWindow.frameGeometry().height()
-        print(h)
         self.label.setGeometry(QtCore.QRect(0, 0, w, h))
-        self.lineEdit.setGeometry(QtCore.QRect(round(w/3), round(h/1.69), 160, 20))
-        self.pushButton.setGeometry(QtCore.QRect(round(w/3.84), round(h/1.95454545454545454545454545454), 111, 31))
-        self.pushButton_2.setGeometry(QtCore.QRect(round(w/(500/270)),round(h/(430/220)), 111, 31))
-        self.pushButton_3.setGeometry(QtCore.QRect(round(w/(500/190)),round(h/(430/290)), 151, 31))
-        self.pushButton_4.setGeometry(QtCore.QRect(round(w/(500/130)),round(h/(430/80)), 251, 111))
-        self.label_2.setGeometry(QtCore.QRect(round(w/(500/100)), round(h/(430/260)), 81, 21))
-        self.pushButton_5.setGeometry(QtCore.QRect(round(w/(500/414)), round(h/(430/30)), 91, 31))
-
+        self.lineEdit.setGeometry(QtCore.QRect(round(w/(500/190)), round(h/(430/260)), round(w/(500/160)), round(h/(430/20))))
+        self.pushButton.setGeometry(QtCore.QRect(round(w/(500/130)), round(h/(430/220)), round(w/(500/111)),  round(h/(430/31))))
+        self.pushButton_2.setGeometry(QtCore.QRect(round(w/(500/270)),round(h/(430/220)), round(w/(500/111)),  round(h/(430/31))))
+        self.pushButton_3.setGeometry(QtCore.QRect(round(w/(500/190)),round(h/(430/290)), round(w/(500/151)),  round(h/(430/31))))
+        self.pushButton_4.setGeometry(QtCore.QRect(round(w/(500/130)),round(h/(430/80)), round(w/(500/251)),  round(h/(430/111))))
+        self.label_2.setGeometry(QtCore.QRect(round(w/(500/100)), round(h/(430/260)), round(w/(500/81)),  round(h/(430/41))))
+        self.pushButton_5.setGeometry(QtCore.QRect(round(w/(500/400)), round(h/(430/30)), round(w/(500/91)),  round(h/(430/31))))
+        self.label_3.setGeometry(QtCore.QRect(round(w/(500/400)), round(h/(430/95)),90,20))
 
 if __name__ == "__main__":
     import sys
@@ -98,14 +97,9 @@ if __name__ == "__main__":
     MainWindow = QtWidgets.QMainWindow()
     ui = Ui_MainWindow()
     ui.setupUi(MainWindow)
+    timer = QtCore.QTimer()
+    time = QtCore.QTime(0, 0, 0)
+    timer.timeout.connect(lambda: ui.dynamicaww(MainWindow))
+    timer.start(100)
     MainWindow.show()
-    w = MainWindow.frameGeometry().width()
-    h = MainWindow.frameGeometry().height()
-    i = 0
-    while True:
-        print(w,h)
-        print(MainWindow.frameGeometry().width(),MainWindow.frameGeometry().height(),"a")
-        if MainWindow.frameGeometry().height() != h or MainWindow.frameGeometry().width() != w:
-            ui.dynamicaww(MainWindow)
-        i += 1 
     sys.exit(app.exec_())

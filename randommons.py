@@ -4,6 +4,7 @@ import sys
 import time
 import requests
 
+
 pasteplace = None
 finished = 0
 def save():

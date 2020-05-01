@@ -24,13 +24,23 @@ def createactual():
     global a, counter 
     a = createTeam("a")
     counter += 1 
-    ui.label_2.setText("Current url" + "(" + str(counter)+"th"+")")
+    if str(counter)[-1] == "1" and counter != 11:
+        ui.label_3.setText(str("Current team"+":"+str(counter)+"st"))
+    elif str(counter)[-1] == "2" and counter != 12:
+        ui.label_3.setText(str("Current team"+":"+str(counter)+"nd"))
+    else:
+        ui.label_3.setText(str("Current team"+":"+str(counter)+"th"))
 def stpactual():
-    global a 
+    global a,counter 
     try:
         b = savetoPokepastes(a)
-        #ui.lineEdit.setReadOnly(False)
         ui.lineEdit.setText(b)
+        if str(counter)[-1] == "1" and counter != 11:
+            ui.label_2.setText(str("Current url"+"\n"+"("+str(counter)+"st"+")"))
+        elif str(counter)[-1] == "2" and counter != 12:
+            ui.label_2.setText(str("Current url"+"\n"+"("+str(counter)+"nd"+")"))
+        else:
+            ui.label_2.setText(str("Current url"+"\n"+"("+str(counter)+"th"+")"))
     except:
         pass
 def clipcopy():
@@ -42,29 +52,52 @@ def clipcopy():
 def settheme():
     global count,n
     if count % 5 == 0:
-        ui.label.setPixmap(QtGui.QPixmap("white.png"))
+        try:
+            ui.label.setPixmap(QtGui.QPixmap("resources/red.png"))
+        except:
+            ui.label.setPixmap(QtGui.QPixmap("red.png"))
         count += 1
     elif count % 5 == 1:
-        ui.label.setPixmap(QtGui.QPixmap("black.png"))
+        try:
+            ui.label.setPixmap(QtGui.QPixmap("resources/blue.png"))
+        except:
+            ui.label.setPixmap(QtGui.QPixmap("blue.png"))
         count += 1
     elif count % 5 == 2:
         count += 1
-        ui.label.setPixmap(QtGui.QPixmap("red.png"))
+        try:
+            ui.label.setPixmap(QtGui.QPixmap("resources/black.png"))
+        except:
+            ui.label.setPixmap(QtGui.QPixmap("black.png"))
     elif count % 5 == 3: 
         count += 1
-        ui.label.setPixmap(QtGui.QPixmap("blue.png"))
+        try:
+            ui.label.setPixmap(QtGui.QPixmap("resources/green.png"))
+        except:
+            ui.label.setPixmap(QtGui.QPixmap("green.png"))
     elif count % 5 == 4 and count != 69:
         count += 1
-        ui.label.setPixmap(QtGui.QPixmap("green.png"))
+        try:
+            ui.label.setPixmap(QtGui.QPixmap("resources/white.png"))
+        except:
+            ui.label.setPixmap(QtGui.QPixmap("white.png"))
     elif count == 69:
         count += 1
-        ui.label.setPixmap(QtGui.QPixmap("blobaww.png"))
+        try:
+            ui.label.setPixmap(QtGui.QPixmap("resources/blobaww.png"))
+        except:
+            ui.label.setPixmap(QtGui.QPixmap("blobaww.png"))
+       
 app = QtWidgets.QApplication(sys.argv)
 MainWindow = QtWidgets.QMainWindow()
 ui = Ui_MainWindow()
 ui.setupUi(MainWindow)
 MainWindow.show()
 ui.label.setScaledContents(True)
+timer = QtCore.QTimer()
+time = QtCore.QTime(0, 0, 0)
+timer.timeout.connect(lambda: ui.dynamicaww(MainWindow))
+timer.start(100)
 ui.pushButton_4.clicked.connect(lambda: createactual())
 ui.pushButton.clicked.connect(lambda: file_save())
 ui.pushButton_2.clicked.connect(lambda: stpactual())
