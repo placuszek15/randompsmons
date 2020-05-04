@@ -1,9 +1,4 @@
-"idna"
-"lists"
-"random"
-"sys"
-"time"
-"selenium"
-"queue"
-"pyqt5"
-"pyinstaller"
+idna
+requests
+pyqt5
+pyinstaller
